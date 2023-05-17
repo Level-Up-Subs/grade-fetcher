@@ -19,8 +19,10 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from bs4 import BeautifulSoup
+
 # Scopes required for accessing Gmail API
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
+SCOPES = ['https://www.googleapis.com/auth/gmail.readonly', 'https://www.googleapis.com/auth/spreadsheets']
 
 def get_credentials():
     # Check if credentials already exist
@@ -149,13 +151,93 @@ def download_webpage(url):
         # Save the page source as a file
         filename = 'webpage.html'
         with open(filename, 'w', encoding='utf-8') as file:
-            file.write(page_source)
+            
+            table = extract_table_from_html(page_source)
+            
+            file.write(table)
+
+        # Use regex to find the number after "Submission"
+        match = re.search(r"Submission (\d+)", driver.title)
+
+        if match:
+            submission_number = match.group(1)
+            print(f"The submission number is: {submission_number}")
+            
+            # print(extract_table_from_html(page_source))
+            
+            create_google_sheet(submission_number)
+        else:
+            print("No submission number found.")
+
 
         driver.quit()
 
-        print(f"Webpage downloaded successfully. Saved as '{filename}'.")
+        print(f"Webpage downloaded successfully.")
     except Exception as e:
-        print(f"An error occurred while downloading the webpage: {e}")
+        print(f"An error occurred: {e}")
+
+def create_google_sheet(sheet_title):
+    print("Creating google sheet: " + sheet_title)
+    creds = None
+    # The file token.pickle stores the user's access and refresh tokens, and is
+    # created automatically when the authorization flow completes for the first
+    # time.
+    if os.path.exists('token.pickle'):
+        with open('token.pickle', 'rb') as token:
+            creds = pickle.load(token)
+    # If there are no (valid) credentials available, let the user log in.
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file(
+                'credentials.json', SCOPES)
+            creds = flow.run_local_server(port=0)
+        # Save the credentials for the next run
+        with open('token.pickle', 'wb') as token:
+            pickle.dump(creds, token)
+
+    # Create a new Sheets API service.
+    service = build('sheets', 'v4', credentials=creds)
+
+    # Create the new spreadsheet.
+    spreadsheet = service.spreadsheets().create(
+        body={'properties': {'title': sheet_title}},
+        fields='spreadsheetId'
+    ).execute()
+
+    # Retrieve the spreadsheet ID.
+    spreadsheet_id = spreadsheet['spreadsheetId']
+
+    print(f"New Google Sheet created. ID: {spreadsheet_id}")
+
+def extract_table_from_html(html_data):
+    """Extracts the first <table> element from the given HTML data."""
+    soup = BeautifulSoup(html_data, 'html.parser')
+    table = soup.find('table')
+    
+    table = remove_column_from_table(table, "Cert Image")
+    
+    return str(table)
+    
+def remove_column_from_table(table, column_name):
+    """Removes the column with the specified data-title attribute from the given table."""
+    # Find the column index based on the column name
+    column_index = None
+    headers = table.find('tr').find_all('th')
+    for i, header in enumerate(headers):
+        if header.get('data-title') == column_name:
+            column_index = i
+            break
+    
+    # Remove the column from each row in the table
+    rows = table.find_all('tr')
+    for row in rows:
+        cells = row.find_all(['td', 'th'])
+        if column_index is not None and column_index < len(cells):
+            cells[column_index].decompose()
+    
+    return table
 
 if __name__ == '__main__':
     subject_to_find = 'Your PSA grades are available'
