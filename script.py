@@ -22,7 +22,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # Scopes required for accessing Gmail API
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly', 'https://www.googleapis.com/auth/spreadsheets']
+SCOPES = ['https://www.googleapis.com/auth/gmail.readonly', 'https://www.googleapis.com/auth/documents']
 
 def get_credentials():
     # Check if credentials already exist
@@ -164,8 +164,7 @@ def download_webpage(url):
             print(f"The submission number is: {submission_number}")
             
             # print(extract_table_from_html(page_source))
-            
-            create_google_sheet(submission_number)
+            create_google_doc_and_write_content(submission_number, extract_table_from_html(page_source))
         else:
             print("No submission number found.")
 
@@ -176,8 +175,8 @@ def download_webpage(url):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-def create_google_sheet(sheet_title):
-    print("Creating google sheet: " + sheet_title)
+def create_google_doc_and_write_content(doc_title, content):
+    """Creates a new Google Doc with the given title and writes content into it."""
     creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
@@ -197,19 +196,34 @@ def create_google_sheet(sheet_title):
         with open('token.pickle', 'wb') as token:
             pickle.dump(creds, token)
 
-    # Create a new Sheets API service.
-    service = build('sheets', 'v4', credentials=creds)
+    # Create a new Docs API service.
+    service = build('docs', 'v1', credentials=creds)
 
-    # Create the new spreadsheet.
-    spreadsheet = service.spreadsheets().create(
-        body={'properties': {'title': sheet_title}},
-        fields='spreadsheetId'
+    # Create a new Google Doc.
+    document = service.documents().create(
+        body={'title': doc_title}
     ).execute()
 
-    # Retrieve the spreadsheet ID.
-    spreadsheet_id = spreadsheet['spreadsheetId']
+    # Retrieve the document ID.
+    document_id = document['documentId']
 
-    print(f"New Google Sheet created. ID: {spreadsheet_id}")
+    # Insert the content into the document.
+    requests = [
+        {
+            'insertText': {
+                'location': {
+                    'index': 1
+                },
+                'text': content
+            }
+        }
+    ]
+    service.documents().batchUpdate(
+        documentId=document_id,
+        body={'requests': requests}
+    ).execute()
+
+    print(f"New Google Doc created. ID: {document_id}")
 
 def extract_table_from_html(html_data):
     """Extracts the first <table> element from the given HTML data."""
