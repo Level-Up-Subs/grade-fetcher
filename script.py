@@ -71,9 +71,8 @@ def find_emails_with_subject(subject):
                 if link:
                     link = link[:-1]
                     print('Link:', link)
-                    download_webpage(link)
-        
-        delete_emails()
+                    if download_webpage(link):
+                                    service.users().messages().delete(userId='me', id=message['id']).execute()
 
 def delete_emails():
     # Subject of the emails to delete
@@ -197,8 +196,10 @@ def download_webpage(url):
         driver.quit()
 
         print(f"Webpage downloaded successfully.")
+        return True
     except Exception as e:
         print(f"An error occurred: {e}")
+        return False
 
 def upload_file_to_namecheap(doc_title, content):
     # Connect to the FTP server
