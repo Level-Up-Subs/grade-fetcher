@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 from ftplib import FTP
 
 # Scopes required for accessing Gmail API
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
+SCOPES = ['https://mail.google.com/']
 
 def get_credentials():
     # Check if credentials already exist
@@ -64,6 +64,7 @@ def find_emails_with_subject(subject):
                 if header['name'] == 'Subject':
                     email_subject = header['value']
                     print('Subject:', email_subject)
+                    
             body = get_email_body(payload)
             if body:
                 link = extract_link_from_body(body)
@@ -71,6 +72,29 @@ def find_emails_with_subject(subject):
                     link = link[:-1]
                     print('Link:', link)
                     download_webpage(link)
+        
+        delete_emails()
+
+def delete_emails():
+    # Subject of the emails to delete
+    SUBJECT = 'Your PSA grades are available'
+    
+    # Get credentials
+    credentials = get_credentials()
+    service = build('gmail', 'v1', credentials=credentials)
+    
+    # Search for emails with the specified subject
+    response = service.users().messages().list(userId='me', q=f'subject:"{SUBJECT}"').execute()
+    messages = response.get('messages', [])
+    
+    if messages:
+        # Delete the matching emails
+        for message in messages:
+            service.users().messages().delete(userId='me', id=message['id']).execute()
+    
+        print(f'{len(messages)} email(s) with the subject "{SUBJECT}" deleted.')
+    else:
+        print(f'No emails with the subject "{SUBJECT}" found.')
 
 def get_email_body(payload):
     if 'parts' in payload:
@@ -151,12 +175,12 @@ def download_webpage(url):
         page_source = driver.page_source
 
         # Save the page source as a file
-        filename = 'webpage.html'
-        with open(filename, 'w', encoding='utf-8') as file:
-            
-            table = extract_table_from_html(page_source)
-            
-            file.write(table)
+        # filename = 'webpage.html'
+        # with open(filename, 'w', encoding='utf-8') as file:
+        # 
+        #     table = extract_table_from_html(page_source)
+        # 
+        #     file.write(table)
 
         # Use regex to find the number after "Submission"
         match = re.search(r"Submission (\d+)", driver.title)
@@ -203,28 +227,32 @@ def extract_table_from_html(html_data):
     soup = BeautifulSoup(html_data, 'html.parser')
     table = soup.find('table')
     
-    table = remove_column_from_table(table, "Cert Image")
+    # Find the table header row
+    header_row = soup.find('thead').find('tr')
+
+    # Find the index of the "Images" column
+    images_column_index = None
+    for i, th in enumerate(header_row.find_all('th')):
+        if th.get_text(strip=True) == 'Images':
+            images_column_index = i
+            break
+
+    # Remove the "Images" column from the header row
+    header_row.find_all('th')[images_column_index].extract()
+    
+    # Find the table body rows
+    body_rows = soup.find('tbody').find_all('tr')
+    
+    # Remove the "Images" column from each body row
+    for row in body_rows:
+        row.find_all('td')[images_column_index].extract()
+        
+        # Remove the <a> tag from the "Cert #" columns in each body row
+        cert_column = row.find('td', {'data-title': 'Cert #'})
+        if cert_column is not None and cert_column.a:
+            cert_column.a.unwrap()
     
     return str(table)
-    
-def remove_column_from_table(table, column_name):
-    """Removes the column with the specified data-title attribute from the given table."""
-    # Find the column index based on the column name
-    column_index = None
-    headers = table.find('tr').find_all('th')
-    for i, header in enumerate(headers):
-        if header.get('data-title') == column_name:
-            column_index = i
-            break
-    
-    # Remove the column from each row in the table
-    rows = table.find_all('tr')
-    for row in rows:
-        cells = row.find_all(['td', 'th'])
-        if column_index is not None and column_index < len(cells):
-            cells[column_index].decompose()
-    
-    return table
 
 if __name__ == '__main__':
     subject_to_find = 'Your PSA grades are available'
