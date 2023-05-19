@@ -5,6 +5,8 @@ Automatically fetch grades from PSA account
 
 `pip3 install -r requirements.txt`
 `brew install chromedriver`
+* make sure to grant cron full disk access if on MacOS
+`chmod +x script.py`
 
 ### Required files
 #### config.py
