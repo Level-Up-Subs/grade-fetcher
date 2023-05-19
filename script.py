@@ -21,8 +21,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from bs4 import BeautifulSoup
 
+from ftplib import FTP
+
 # Scopes required for accessing Gmail API
-SCOPES = ['https://www.googleapis.com/auth/gmail.readonly', 'https://www.googleapis.com/auth/documents']
+SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 def get_credentials():
     # Check if credentials already exist
@@ -105,7 +107,7 @@ def download_webpage(url):
 
         # Find the input element with id="email" and enter an email
         email_input = driver.find_element(By.ID, 'email')
-        email_input.send_keys(config.username)
+        email_input.send_keys(config.psa_username)
 
         # Find the button with type="submit" and click it
         submit_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
@@ -121,7 +123,7 @@ def download_webpage(url):
         
         # Find the element with id="password" and enter the password
         password_input = driver.find_element(By.ID, 'password')
-        password_input.send_keys(config.password)
+        password_input.send_keys(config.psa_password)
 
         # Find the button with type="submit" and click it
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
@@ -163,8 +165,7 @@ def download_webpage(url):
             submission_number = match.group(1)
             print(f"The submission number is: {submission_number}")
             
-            # print(extract_table_from_html(page_source))
-            create_google_doc_and_write_content(submission_number, extract_table_from_html(page_source))
+            upload_file_to_namecheap(submission_number + ".txt", extract_table_from_html(page_source))
         else:
             print("No submission number found.")
 
@@ -175,55 +176,27 @@ def download_webpage(url):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-def create_google_doc_and_write_content(doc_title, content):
-    """Creates a new Google Doc with the given title and writes content into it."""
-    creds = None
-    # The file token.pickle stores the user's access and refresh tokens, and is
-    # created automatically when the authorization flow completes for the first
-    # time.
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
-            creds = pickle.load(token)
-    # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.pickle', 'wb') as token:
-            pickle.dump(creds, token)
-
-    # Create a new Docs API service.
-    service = build('docs', 'v1', credentials=creds)
-
-    # Create a new Google Doc.
-    document = service.documents().create(
-        body={'title': doc_title}
-    ).execute()
-
-    # Retrieve the document ID.
-    document_id = document['documentId']
-
-    # Insert the content into the document.
-    requests = [
-        {
-            'insertText': {
-                'location': {
-                    'index': 1
-                },
-                'text': content
-            }
-        }
-    ]
-    service.documents().batchUpdate(
-        documentId=document_id,
-        body={'requests': requests}
-    ).execute()
-
-    print(f"New Google Doc created. ID: {document_id}")
+def upload_file_to_namecheap(doc_title, content):
+    # Connect to the FTP server
+    ftp = FTP(config.ftp_host)
+    ftp.login(config.ftp_username, config.ftp_password)
+    
+    # Change to the desired remote directory
+    ftp.cwd("public_html")
+    
+    # create the file
+    with open(doc_title, 'w') as file:
+        # write the content
+        file.write(content)
+        
+    # Open the local file in binary mode for uploading
+    with open(doc_title, 'rb') as file:
+        # Upload the file to the FTP server
+        ftp.storbinary(f'STOR {doc_title}', file)
+        
+    os.remove(doc_title)
+        
+    ftp.quit()
 
 def extract_table_from_html(html_data):
     """Extracts the first <table> element from the given HTML data."""
