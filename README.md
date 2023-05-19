@@ -2,6 +2,10 @@
 Automatically fetch grades from PSA account
 
 ## Setup
+
+`pip3 install -r requirements.txt`
+`brew install chromedriver`
+
 ### Required files
 #### config.py
 ```Python
