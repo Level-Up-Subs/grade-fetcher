@@ -188,7 +188,10 @@ def download_webpage(url):
             submission_number = match.group(1)
             print(f"The submission number is: {submission_number}")
             
-            upload_file_to_namecheap(submission_number + ".txt", extract_table_from_html(page_source))
+            extracted_table = extract_table_from_html(page_source)
+            adjusted_table = adjust_table(extracted_table)
+            
+            upload_file_to_namecheap(submission_number + ".txt", adjusted_table)
         else:
             print("No submission number found.")
 
@@ -254,6 +257,34 @@ def extract_table_from_html(html_data):
             cert_column.a.unwrap()
     
     return str(table)
+    
+def adjust_table(html):
+    # Parse the HTML input
+    soup = BeautifulSoup(html, 'html.parser')
+
+    # Find all table elements
+    tables = soup.find_all('table')
+
+    # Iterate through each table
+    for table in tables:
+        # Find all rows in the table
+        rows = table.find_all('tr')
+
+        # Iterate through each row
+        for row in rows:
+            # Find all cells in the row
+            cells = row.find_all(['td', 'th'])
+
+            # Check if the row has at least 3 cells
+            if len(cells) >= 3:
+                # Set the width of the 3rd column to 50%
+                cells[4]['style'] = 'width: 50%;'
+
+        # Add black border lines between rows
+        table['style'] = 'border-collapse: collapse; border: 1px solid black;'
+        
+    # Return the modified HTML
+    return soup.prettify()
 
 if __name__ == '__main__':
     subject_to_find = 'Your PSA grades are available'
