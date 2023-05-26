@@ -176,9 +176,9 @@ def download_webpage(url):
         # Save the page source as a file
         # filename = 'webpage.html'
         # with open(filename, 'w', encoding='utf-8') as file:
-        # 
+        #
         #     table = extract_table_from_html(page_source)
-        # 
+        #
         #     file.write(table)
 
         # Use regex to find the number after "Submission"
@@ -233,7 +233,7 @@ def extract_table_from_html(html_data):
     
     # Find the table header row
     header_row = soup.find('thead').find('tr')
-
+    
     # Find the index of the "Images" column
     line_column_index = 0
     images_column_index = 5
@@ -249,6 +249,10 @@ def extract_table_from_html(html_data):
     
     # Remove the "Images" column from each body row
     for row in body_rows:
+        row.find_all('td')[type_column_index].extract()
+        row.find_all('td')[images_column_index].extract()
+        row.find_all('td')[line_column_index].extract()
+    
         # Remove the <a> tag from the "Cert #" columns in each body row
         cert_column = row.find('td', {'data-title': 'Cert #'})
         if cert_column is not None and cert_column.a:
@@ -276,7 +280,7 @@ def adjust_table(html):
             # Check if the row has at least 3 cells
             if len(cells) >= 3:
                 # Set the width of the 3rd column to 50%
-                cells[4]['style'] = 'width: 50%;'
+                cells[3]['style'] = 'width: 50%;'
 
         # Add black border lines between rows
         table['style'] = 'border-collapse: collapse; border: 1px solid black;'
