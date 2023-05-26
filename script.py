@@ -234,28 +234,21 @@ def extract_table_from_html(html_data):
     # Find the table header row
     header_row = soup.find('thead').find('tr')
 
-        # Find the index of the "Images" column
-    images_column_index = 5
+    # Find the index of the "Images" column
     line_column_index = 0
+    images_column_index = 5
     type_column_index = 6
 
     # Remove the "Images" column from the header row
     header_row.find_all('th')[type_column_index].extract()
     header_row.find_all('th')[images_column_index].extract()
     header_row.find_all('th')[line_column_index].extract()
-
-    # Remove the "Images" column from the header row
-    header_row.find_all('th')[images_column_index].extract()
     
     # Find the table body rows
     body_rows = soup.find('tbody').find_all('tr')
     
     # Remove the "Images" column from each body row
     for row in body_rows:
-        row.find_all('td')[type_column_index].extract()
-        row.find_all('td')[images_column_index].extract()
-        row.find_all('td')[line_column_index].extract()
-        
         # Remove the <a> tag from the "Cert #" columns in each body row
         cert_column = row.find('td', {'data-title': 'Cert #'})
         if cert_column is not None and cert_column.a:
