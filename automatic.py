@@ -183,7 +183,7 @@ for index, message in enumerate(messages):
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
-        title = wait.until(EC.title_contains("Order"))
+        title = wait.until(EC.title_contains("Submission"))
         
         # Get the page source
         page_source = driver.page_source
@@ -241,21 +241,22 @@ for index, message in enumerate(messages):
             t['style'] = 'border-collapse: collapse; border: 1px solid black;'
         
         # Use regex to find the number after "Submission"
-        submission_number = None
+        submission_number = 0
         
-        match = re.search(r"Submission (\d+)", driver.title)
+        match = re.search(r"Submission (\d+)", str(soup.find('title')))
         if match:
             submission_number = match.group(1)
+            # print(f'sub number: {submission_number}')
         
         html_out = str(table)
         
         # Save the page source as a file
         # filename = 'webpage.html'
         # with open(filename, 'w', encoding='utf-8') as file:
-        #     file.write(html_out)
+        #     file.write(soup.prettify())
             
         # create the file
-        doc_title = submission_number + '.txt'
+        doc_title = str(submission_number) + '.txt'
         
         with open(doc_title, 'w') as file:
             # write the content
