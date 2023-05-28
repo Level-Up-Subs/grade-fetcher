@@ -47,12 +47,12 @@ SCOPES = ['https://mail.google.com/']
 credentials = None
 
 # check if credentials already exist
-if os.path.exists('token.pickle'):
-    with open('token.pickle', 'rb') as token:
+if os.path.exists('~/token.pickle'):
+    with open('~/token.pickle', 'rb') as token:
         credentials = pickle.load(token)
 else:
     # load credentials from JSON file downloaded from Google Developers Console
-    if not os.path.exists('credentials.json'):
+    if not os.path.exists('~/credentials.json'):
         sys.stdout.write('missing credentials.json file')
         exit()
         
@@ -60,7 +60,7 @@ else:
     credentials = flow.run_local_server(port=0)
     
     # Save credentials for future use
-    with open('token.pickle', 'wb') as token:
+    with open('~/token.pickle', 'wb') as token:
         pickle.dump(credentials, token)
 
 sys.stdout.write('complete!\n')
