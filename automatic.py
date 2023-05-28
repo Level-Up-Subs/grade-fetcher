@@ -14,11 +14,26 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-import config
-
 from bs4 import BeautifulSoup
 
 from ftplib import FTP
+
+# for running locally
+# import config
+# PSA_USERNAME = config.psa_username
+# PSA_PASSWORD = config.psa_password
+
+# FTP_HOST = config.ftp_host
+# FTP_USERNAME = config.ftp_username
+# FTP_PASSWORD = config.ftp_password
+
+PSA_USERNAME = os.environ['PSA_USERNAME']
+PSA_PASSWORD = os.environ['PSA_PASSWORD']
+
+FTP_HOST = os.environ['FTP_HOST']
+FTP_USERNAME = os.environ['FTP_USERNAME']
+FTP_PASSWORD = os.environ['FTP_PASSWORD']
+
 
 ###########################
 # log into google account #
@@ -94,7 +109,7 @@ while attempts < max_attempts:
         
         # Find the input element with id="email" and enter an email
         email_input = driver.find_element(By.ID, 'email')
-        email_input.send_keys(config.psa_username)
+        email_input.send_keys(PSA_USERNAME)
         
         # Find the button with type="submit" and click it
         submit_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
@@ -106,7 +121,7 @@ while attempts < max_attempts:
         
         # Find the element with id="password" and enter the password
         password_input = driver.find_element(By.ID, 'password')
-        password_input.send_keys(config.psa_password)
+        password_input.send_keys(PSA_PASSWORD)
         
         # Find the button with type="submit" and click it
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
@@ -134,8 +149,8 @@ while attempts < max_attempts:
 # log into FTP server #
 #######################
 # Connect to the FTP server
-ftp = FTP(config.ftp_host)
-ftp.login(config.ftp_username, config.ftp_password)
+ftp = FTP(FTP_HOST)
+ftp.login(FTP_USERNAME, FTP_PASSWORD)
 
 # Change to the desired remote directory
 ftp.cwd("public_html")
