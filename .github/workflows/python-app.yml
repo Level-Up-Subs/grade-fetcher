@@ -37,6 +37,7 @@ jobs:
     - name: Create credentials file
       run: |
         echo ${{ secrets.CREDENTIALS_JSON }} > credentials.json
+        cat credentials.json
     - name: Run script
       env:
         PSA_USERNAME: ${{ secrets.PSA_USERNAME }}
@@ -45,4 +46,5 @@ jobs:
         FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
       run: |
+        cat credentials.json
         python automatic.py
