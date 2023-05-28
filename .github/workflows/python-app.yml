@@ -35,5 +35,11 @@ jobs:
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
+      env:
+        PSA_USERNAME: ${{ secrets.PSA_USERNAME }}
+        PSA_PASSWORD: ${{ secrets.PSA_PASSWORD }}
+        FTP_HOST:     ${{ secrets.FTP_HOST }}
+        FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
       run: |
         python automatic.py
