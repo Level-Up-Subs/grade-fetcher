@@ -43,6 +43,6 @@ jobs:
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         PASSPHRASE: ${{ secrets.PASSPHRASE }}
       run: |
-        ./decrypt_secret.sh
+        gpg --quiet --batch --yes --decrypt --passphrase="$PASSPHRASE" --output credentials.json credentials.json.gp
         cat credentials.json
         python automatic.py
