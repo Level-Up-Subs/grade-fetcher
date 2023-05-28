@@ -36,7 +36,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Create credentials file
       run: |
-        cat ${{ secrets.CREDENTIALS_JSON }}
+        echo ${{ secrets.CREDENTIALS_JSON }}
     - name: Run script
       env:
         PSA_USERNAME: ${{ secrets.PSA_USERNAME }}
