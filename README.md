@@ -33,7 +33,7 @@ ftp_password = "yourPassword"
 Get this file by following instructions here: https://developers.google.com/gmail/api/quickstart/python
 
 ## Future Setup
-Check out the `python-app.yml` int the `.github/workflows` repo
+Check out the `python-app.yml` int the `.github/workflows` repo. You'll also need to add the credentials from `config.py` as secrets for the repo.
 
 ### Required Files
 #### token.pickle.gpg
