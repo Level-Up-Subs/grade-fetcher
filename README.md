@@ -1,27 +1,40 @@
 # grade-fetcher
-Automatically fetch grades from PSA account
+Automatically fetch grades from PSA account. This project works in tandem with the [Sub Tracker](https://github.com/Level-Up-Subs/sub-tracker) project.
 
-## Setup
+## Functionality
+What does this program do? PSA doesn't have a good API so users can't fetch their grades with a given submission number. Here is an overview of what the program does.
+1. Log into a google account
+2. Scan all emails for the subject line: "Your PSA grades are available"
+3. Log into a PSA account (must be account linked with the emails). The program will attempt to login 5 times.
+4. Connect to an FTP server. (This will be changed in the future. The plan is to upload the files to a github repo instead of a server).
+5. for each email
+  * Extract the PSA link and navigate to the URL
+  * Get the HTML, extract the table embedded in the page and adjust the table
+  * create a txt file with the extracted table
+  * upload the file to the FTP folder. the name of the file is the submission number.
+  * delete the email
 
-`pip3 install -r requirements.txt`
-`brew install chromedriver`
-* make sure to grant cron full disk access if on MacOS
-`chmod +x script.py`
-`which python3` for crontab path
-
-### Required files
+## Current Setup
+* install packages via `pip3 install -r requirements.txt`
+* install chromedriver `brew install chromedriver`
+* grant cron full disk access (for MacOS): `chmod +x automatic.py`
+* create a cron job to run the script whenever you want. use `which python3` for the path.
+### Required Files
 #### config.py
 ```Python
-username = "yourPSAemail@here.com"
-password = "yourPSApasswordhere"
+psa_username = "yourPSAemail@here.com"
+psa_password = "yourPSApasswordhere"
+
+ftp_host = "your-server.com"
+ftp_username = "yourUsername"
+ftp_password = "yourPassword"
 ```
 #### credentials.json
 Get this file by following instructions here: https://developers.google.com/gmail/api/quickstart/python
 
-## Description
-What does this script actually do?
-* searches through a gmail account for emails with the subject line: "Your PSA grades are available"
-* grabs the link in the email that starts with "https://www.psacard.com/myaccount/myorder"
-* opens a browser via selenium and navigates to PSA
-* logins in using the credentials in `config.py`
-* saves the order page as an html file
+## Future Setup
+Check out the `python-app.yml` int the `.github/workflows` repo
+
+### Required Files
+#### token.pickle.gpg
+This is an encrypted token file. Github actions can't "login" to a google account so run the `manual.py` script and it will create a token file. Encrypt the file with `gpg --symmetric --cipher-algo AES256 token.pickle`. Add the `token.pickle.gpg` file to the repo.
