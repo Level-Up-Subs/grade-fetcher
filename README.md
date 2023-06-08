@@ -17,6 +17,7 @@ What does this program do? PSA doesn't have a good API so users can't fetch thei
 ## Current Setup
 * install packages via `pip3 install -r requirements.txt`
 * install chromedriver `brew install chromedriver`
+* find the path for chromedriver using `type chromedriver` and update the path in the script
 * grant cron full disk access (for MacOS): `chmod +x automatic.py`
 * create a cron job to run the script whenever you want. use `which python3` for the path.
 ### Required Files
