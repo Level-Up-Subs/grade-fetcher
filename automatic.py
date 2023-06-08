@@ -19,20 +19,20 @@ from bs4 import BeautifulSoup
 from ftplib import FTP
 
 # for running locally
-# import config
-# PSA_USERNAME = config.psa_username
-# PSA_PASSWORD = config.psa_password
+import config
+PSA_USERNAME = config.psa_username
+PSA_PASSWORD = config.psa_password
 
-# FTP_HOST = config.ftp_host
-# FTP_USERNAME = config.ftp_username
-# FTP_PASSWORD = config.ftp_password
+FTP_HOST = config.ftp_host
+FTP_USERNAME = config.ftp_username
+FTP_PASSWORD = config.ftp_password
 
-PSA_USERNAME = os.environ['PSA_USERNAME']
-PSA_PASSWORD = os.environ['PSA_PASSWORD']
-
-FTP_HOST = os.environ['FTP_HOST']
-FTP_USERNAME = os.environ['FTP_USERNAME']
-FTP_PASSWORD = os.environ['FTP_PASSWORD']
+# PSA_USERNAME = os.environ['PSA_USERNAME']
+# PSA_PASSWORD = os.environ['PSA_PASSWORD']
+#
+# FTP_HOST = os.environ['FTP_HOST']
+# FTP_USERNAME = os.environ['FTP_USERNAME']
+# FTP_PASSWORD = os.environ['FTP_PASSWORD']
 
 
 ###########################
@@ -45,9 +45,14 @@ sys.stdout.write('Checking google credentials...')
 SCOPES = ['https://mail.google.com/']
 
 credentials = None
+
 home_folder = os.path.expanduser('~')
-pickle_path = os.path.join(home_folder, 'token.pickle')
-cred_path = os.path.join(home_folder, 'credentials.json')
+pickle_path = 'token.pickle'
+cred_path = 'credentials.json'
+
+# home_folder = os.path.expanduser('~')
+# pickle_path = os.path.join(home_folder, 'token.pickle')
+# cred_path = os.path.join(home_folder, 'credentials.json')
 
 # check if credentials already exist
 if os.path.exists(pickle_path):
@@ -94,7 +99,7 @@ max_attempts = 5
 
 # set options for browser
 chrome_options = Options()
-chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+# chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
 chrome_service = Service('/opt/homebrew/bin/chromedriver')  # Specify the path to chromedriver executable
 
@@ -109,6 +114,9 @@ while attempts < max_attempts:
     
         # navigate to PSA login
         driver.get('https://app.collectors.com/signin?b=PSA&r=http://www.psacard.com/myaccount?site%3Dpsa')
+        
+        wait = WebDriverWait(driver, 10)
+        email_element = wait.until(EC.presence_of_element_located((By.ID, 'email')))
         
         # Find the input element with id="email" and enter an email
         email_input = driver.find_element(By.ID, 'email')
@@ -132,7 +140,7 @@ while attempts < max_attempts:
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
-        title = wait.until(EC.title_is('My Membership'))
+        title = wait.until(EC.title_is('PSA Collectibles Authentication and Grading Service'))
         
         sys.stdout.write('success!\n')
         break
