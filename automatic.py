@@ -59,7 +59,7 @@ else:
     # load credentials from JSON file downloaded from Google Developers Console
     if not os.path.exists(cred_path):
         sys.stdout.write('missing credentials.json file')
-        exit()
+        exit(1)
         
     flow = InstalledAppFlow.from_client_secrets_file(cred_path, SCOPES)
     credentials = flow.run_local_server(port=0)
@@ -96,7 +96,7 @@ if not messages:
         
     sys.stdout.write('done!\n')
     
-    exit()
+    exit(0)
     
 sys.stdout.write(f'{len(messages)} email(s) found with matching subject: {subject}.\n')
 
@@ -163,7 +163,7 @@ while attempts < max_attempts:
         
         if attempts is max_attempts:
             sys.stdout.write('Ran out of attempts...script will run again in 6 hours.\n')
-            exit()
+            exit(1)
                 
 ##################
 # For each email #
