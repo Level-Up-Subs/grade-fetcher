@@ -309,4 +309,3 @@ for message in messages:
 sys.stdout.write('done!\n')
 
 driver.quit()
-ftp.quit()
