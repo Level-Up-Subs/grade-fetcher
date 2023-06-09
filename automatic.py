@@ -16,8 +16,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from bs4 import BeautifulSoup
 
-from ftplib import FTP
-
 # for running locally
 import config
 PSA_USERNAME = config.psa_username
@@ -295,17 +293,16 @@ for index, message in enumerate(messages):
             
         # create the file
         doc_title = str(submission_number) + '.txt'
+        sub_folder = os.path.join(home_folder, 'Submissions/')
         
-        with open(doc_title, 'w') as file:
+        if not os.path.exists(sub_folder):
+            os.makedirs(sub_folder)
+
+        doc_path = os.path.join(sub_folder, doc_title)
+        
+        with open(doc_path, 'w') as file:
             # write the content
             file.write(html_out)
-            
-        # Open the local file in binary mode for uploading
-        with open(doc_title, 'rb') as file:
-            # Upload the file to the FTP server
-            ftp.storbinary(f'STOR {doc_title}', file)
-        
-        os.remove(doc_title)
             
         # delete the email
         gmail_service.users().messages().delete(userId='me', id=message['id']).execute()
