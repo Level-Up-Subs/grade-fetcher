@@ -17,21 +17,20 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # for running locally
-import config
-PSA_USERNAME = config.psa_username
-PSA_PASSWORD = config.psa_password
-
-FTP_HOST = config.ftp_host
-FTP_USERNAME = config.ftp_username
-FTP_PASSWORD = config.ftp_password
-
-# PSA_USERNAME = os.environ['PSA_USERNAME']
-# PSA_PASSWORD = os.environ['PSA_PASSWORD']
+# import config
+# PSA_USERNAME = config.psa_username
+# PSA_PASSWORD = config.psa_password
 #
-# FTP_HOST = os.environ['FTP_HOST']
-# FTP_USERNAME = os.environ['FTP_USERNAME']
-# FTP_PASSWORD = os.environ['FTP_PASSWORD']
+# FTP_HOST = config.ftp_host
+# FTP_USERNAME = config.ftp_username
+# FTP_PASSWORD = config.ftp_password
 
+PSA_USERNAME = os.environ['PSA_USERNAME']
+PSA_PASSWORD = os.environ['PSA_PASSWORD']
+#
+FTP_HOST = os.environ['FTP_HOST']
+FTP_USERNAME = os.environ['FTP_USERNAME']
+FTP_PASSWORD = os.environ['FTP_PASSWORD']
 
 ###########################
 # log into google account #
@@ -44,13 +43,13 @@ SCOPES = ['https://mail.google.com/']
 
 credentials = None
 
-home_folder = os.path.expanduser('~')
-pickle_path = 'token.pickle'
-cred_path = 'credentials.json'
-
 # home_folder = os.path.expanduser('~')
-# pickle_path = os.path.join(home_folder, 'token.pickle')
-# cred_path = os.path.join(home_folder, 'credentials.json')
+# pickle_path = 'token.pickle'
+# cred_path = 'credentials.json'
+
+home_folder = os.path.expanduser('~')
+pickle_path = os.path.join(home_folder, 'token.pickle')
+cred_path = os.path.join(home_folder, 'credentials.json')
 
 # check if credentials already exist
 if os.path.exists(pickle_path):
@@ -165,17 +164,7 @@ while attempts < max_attempts:
         if attempts is max_attempts:
             sys.stdout.write('Ran out of attempts...script will run again in 6 hours.\n')
             exit()
-        
-#######################
-# log into FTP server #
-#######################
-# Connect to the FTP server
-ftp = FTP(FTP_HOST)
-ftp.login(FTP_USERNAME, FTP_PASSWORD)
-
-# Change to the desired remote directory
-ftp.cwd("public_html")
-        
+                
 ##################
 # For each email #
 ##################
