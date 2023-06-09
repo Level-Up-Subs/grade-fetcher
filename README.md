@@ -19,7 +19,7 @@ What does this program do? PSA doesn't have a good API so users can't fetch thei
 * install chromedriver `brew install chromedriver`
 * find the path for chromedriver using `type chromedriver` and update the path in the script
 * grant cron full disk access (for MacOS): `chmod +x automatic.py`
-* create a cron job to run the script whenever you want. use `which python3` for the path.
+* create a cron job to run the script whenever you want. use `which python3` for the path. ` 0 */3 * * * cd ~/Developer/projects/LevelUpSubs/grade-fetcher && /usr/local/bin/python3 automatic.py >> Logs/output_$(date +\%Y\%m\%d_\%H\%M\%S).txt 2>&1`
 ### Required Files
 #### config.py
 ```Python
