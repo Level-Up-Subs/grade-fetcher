@@ -293,7 +293,7 @@ for index, message in enumerate(messages):
             
         # create the file
         doc_title = str(submission_number) + '.txt'
-        sub_folder = os.path.join(home_folder, 'Submissions/')
+        sub_folder = 'Submissions/'
         
         if not os.path.exists(sub_folder):
             os.makedirs(sub_folder)
