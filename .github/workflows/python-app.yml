@@ -8,8 +8,7 @@ on:
   schedule:
     - cron: "0 */3 * * *"
 
-permissions:
-  contents: read|write
+permissions: read-all|write-all
 
 jobs:
   build:
