@@ -1,0 +1,1415 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289037
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2014 Panini Prizm SP Variations 33 Joel Embiid Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289038
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Court Kings Acetate Rookies 7 Luka Doncic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289039
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2000 Skybox Impact 27 Tom Brady
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289040
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2012 Panini Marquee 152 Anthony Davis
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289041
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2012 Panini Marquee 461 Damian Lillard
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289042
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2012 Panini Marquee Slam Dunk Legends 3 Kobe Bryant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289043
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2013 Panini Pinnacle Team Pinnacle 3 LeBron James/Kobe Bryant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289044
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Prestige 201 Trevor Lawrence Diamond Xtra Points
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289045
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm Luck of the Lottery 3 Luka Doncic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289046
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm Luck of the Lottery 3 Luka Doncic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289047
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm 78 Trae Young Ruby Wave
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289048
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Select 46 Joe Burrow Die-Cut Purple Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289049
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Playoff Rookie Wave 4 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289050
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Elite Draft Picks Collegiate 103 Josh Allen White Jersey
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289051
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Contenders Draft Picks Passing Grades 5 Patrick Mahomes II
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289052
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Phoenix Triumphant TB-3 Tom Brady
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289053
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Score 350 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289054
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Select 199 Zion Williamson Red Wave
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289055
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Donruss Elite 22 Tom Brady Aspirations Die-Cut
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289056
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT+ 8.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Luminance 149 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289057
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Score 350 Josh Allen Scorecard
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289058
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Playoff 205 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289059
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Playoff 205 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289060
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Score NFL Draft 5 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289061
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Score NFL Draft 5 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289062
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Donruss Optic 62 Tom Brady Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289063
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Donruss Optic Fantasy Stars 13 Stephen Curry Purple
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289064
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Donruss Optic T-Minus 3,2,1 6 Stephen Curry Purple
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289065
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Donruss Optic 198 Jayson Tatum
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289066
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Donruss Optic Rookie Signatures 35 Pascal Siakam Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289067
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Donruss Optic Rookie Signatures 35 Pascal Siakam Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289068
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Donruss Optic 198 Jayson Tatum
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289069
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Donruss Optic 198 Jayson Tatum Blue Velocity
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289070
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Select 231 Michael Porter Jr. Silver Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289071
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Revolution 128 Luka Doncic Astro
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289072
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Prizm 231 Dak Prescott Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289073
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic 177 Luka Doncic Shock
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289074
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic 177 Luka Doncic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289075
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Prizm 335 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289076
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Prizm 335 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289077
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Hoops Backstage Pass 3 Luka Doncic Artist Proof
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289078
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Prizm 24 DE'Aaron Fox 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289079
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss the Rookies 43 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289080
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss the Rookies 43 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289081
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss the Rookies 43 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289082
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2014 Panini Prizm Freshman Phenoms 3 Joel Embiid Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289083
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Donruss 225 Evan Mobley Holo Orange Laser
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289084
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2005 Topps Chrome 168 Chris Paul 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289085
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic Signature Series Sga Shai Gilgeous-Alexander
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289086
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm Freshman Phenoms 23 Luka Doncic Green Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289087
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic 162 Shai Gilgeous-Alexander Blue Velocity
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289088
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic 162 Shai Gilgeous-Alexander Shock
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289089
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic 162 Shai Gilgeous-Alexander Shock
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289090
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss 215 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289091
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss 215 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289092
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Prizm 307 Joe Burrow
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289093
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Donruss Optic Rookie Signatures 1 Brandon Ingram Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289094
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Prizm 44 Jaylen Brown Green Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289095
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Prizm 24 DE'Aaron Fox 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289096
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Donruss Optic 198 Jayson Tatum
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289097
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Donruss Optic 198 Jayson Tatum
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289098
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Donruss Optic 198 Jayson Tatum Shock
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289099
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Mosaic 219 Ja Morant Throwing
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289100
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Mosaic 219 Ja Morant Throwing
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289101
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Hoops 268 Luka Doncic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289102
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Revolution 128 Luka Doncic Astro
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289103
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Revolution 102 Ja Morant Groove
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289104
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Revolution 101 Zion Williamson Chinese New Year
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289105
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss Optic the Rookies 3 Luka Doncic Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289106
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Chronicles Draft Picks Crown Royale 1 Joe Burrow Gold
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289107
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm Rookie Introduction RI-5 Josh Allen
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289108
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Clear Vision 102 Devin Booker Blue
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289109
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2014 Panini Donruss the Rookies 3 Joel Embiid Swirlorama
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289110
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm 32 Michael Porter Jr. Red/White/Blue Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289111
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Select 37 Michael Porter Jr. Light Blue Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289112
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini NBA Hoops 201 Cade Cunningham Yellow
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289113
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Chronicles 571 Luka Doncic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289114
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Panini Prizm 175 Jamal Murray Green Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289115
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Cornerstones Downtown DT7 Anthony Davis
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289116
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Select 146 Joe Burrow Die-Cut Maroon Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289117
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Elite Draft Picks Collegiate 103 Josh Allen Black Jersey
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289118
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Select 144 Justin Herbert Die-Cut Maroon Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289119
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Clear Vision 99 Nikola Jokic 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289120
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Court Kings Rookie Portraits 30 Nikola Jokic 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289121
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Totally Certified 167 Nikola Jokic 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289122
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss the Rookies 43 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289123
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss 215 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289124
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Donruss 215 Nikola Jokic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289125
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Hoops 296 Zion Williamson Silver
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289126
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2003 Upper Deck Victory 101 LeBron James
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289127
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Stadium Club 102 Kevin Durant Chrome
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289128
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289129
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289130
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289131
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289132
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant Orange
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289133
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant Orange
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289134
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant Orange
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289135
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Topps Rookie Card 2 Kevin Durant Orange
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74289136
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2007 Fleer '86 Retro Rookies 143 Kevin Durant
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
