@@ -45,4 +45,4 @@ jobs:
         python automatic.py
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git status --porcelain | grep -q . && git add Submissions/*.txt && git commit -m "Adding submissions to repo" && git push
+        git status --porcelain | grep -q . && git add Submissions/*.txt && git commit -m "Adding submissions to repo" && git push || [ $? -eq 1 ]
