@@ -3,6 +3,7 @@ webpage.html
 config.py
 credentials.json
 token.pickle
+token.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
