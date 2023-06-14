@@ -6,6 +6,4 @@
 
 git config --global user.name "github-actions[bot]"
 git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-git status --porcelain | grep -q . && git -C ~/Developer/projects/LevelUpSubs/grade-fetcher add Submissions/*.txt && git -C ~/Developer/projects/LevelUpSubs/grade-fetcher commit -m "Adding submissions to repo" && git -C ~/Developer/projects/LevelUpSubs/grade-fetcher push || [ $? -eq 1 ]
-
-git push
+git status --porcelain | grep -q . && git add Submissions/*.txt && git commit -m "Adding submissions to repo" && git push origin main || [ $? -eq 1 ]
