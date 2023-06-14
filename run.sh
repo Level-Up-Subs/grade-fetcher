@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ~/Developer/projects/LevelUpSubs/grade-fetcher
+
 /usr/local/bin/python3 automatic.py >> Logs/output_$(date +\%Y\%m\%d_\%H\%M\%S).txt 2>&1
 
 git config --global user.name "github-actions[bot]"
