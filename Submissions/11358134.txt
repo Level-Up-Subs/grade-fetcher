@@ -1,0 +1,43 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74992038
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Wbc Finals/Ticketmaster-Full Full Japan-3, USA-2 Mar.21, MVP-Shohei Ohtani Strikes Out Trout
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74992039
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 NBA Finals Game 7-Full Full Cavaliers-93, Warriors-89 Jun.19, MVP-LeBron James/Cleveland 1st Title (GS Game P)
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
