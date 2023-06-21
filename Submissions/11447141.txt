@@ -1,0 +1,29 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76426626
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Chronicles WWE Hall of Fame Autographs Hfsca Stone Cold Steve Austin 
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
