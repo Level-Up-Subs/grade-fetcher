@@ -1,0 +1,967 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161063
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Select 102 Jalen Suggs Tri-Color Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161064
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Select 102 Jalen Suggs Tri-Color Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161065
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Select 99 Isaiah Joe Neon Green Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161066
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 278 Ray Allen Gold Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161067
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 266 Chet Holmgren
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161068
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 266 Chet Holmgren
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161069
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 266 Chet Holmgren
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161070
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 266 Chet Holmgren
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161071
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 266 Chet Holmgren
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161072
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 246 Jalen Williams
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161073
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 246 Jalen Williams
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161074
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 246 Jalen Williams
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161075
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 246 Jalen Williams Ruby Wave
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161076
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 249 Paolo Banchero
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161077
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 249 Paolo Banchero
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161078
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Bowman Draft BDC11 Jay Allen Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161079
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Bowman Draft BDC11 Jay Allen Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161080
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Bowman Draft BDC11 Jay Allen Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161081
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Bowman Draft Chrome Draft Pick Autographs Cdajto Jose Torres
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161082
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Bowman Chrome Prospect Autographs Cpadc Dominic Canzone Purple Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161083
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC28 Tanner Schobel Chrome-Gold Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161084
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatsl Tanner Schobel
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161085
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatsl Tanner Schobel
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161086
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatsl Tanner Schobel Blue Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161087
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Bowman Draft Chrome Draft Picks Autographs Cdazda Zach Daniels Purple Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161088
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Bowman Draft Chrome Draft Picks Autographs Cdazda Zach Daniels Blue Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161089
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatl Tyler Locklear Purple Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161090
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatl Tyler Locklear Aqua Lava Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161091
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdacw Cayden Wallace
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161092
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Bowman Chrome Prospects BCP116 Deyvison de los Santos Lava Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161093
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Bowman Draft BDC48 Henry Davis Chrome-Image Variation
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161094
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161095
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161096
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161097
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161098
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161099
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161100
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161101
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161102
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161103
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Sky Blue Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161104
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161105
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161106
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161107
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161108
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161109
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161110
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161111
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161112
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161113
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC153 Brooks Lee Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161114
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161115
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161116
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161117
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161118
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161119
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161120
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161121
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC6 Gavin Cross Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161122
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161123
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161124
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161125
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161126
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161127
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161128
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161129
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Sky Blue Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+77161130
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC12 Cayden Wallace Chrome-Green Sparkle Refractor
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
