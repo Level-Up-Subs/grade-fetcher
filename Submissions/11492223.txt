@@ -1,0 +1,323 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862246
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm World Cup Qatar 36 Vinicius Jr. Silver Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862247
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Topps Chrome UEFA Champions League 89 Vinicius Junior Red Carbon Fiber Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862248
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021-2022 Topps Finest UEFA Champions League 1998 Centurions TC4 Paolo Maldini
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862249
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Revolution Premier League 274 Julio Enciso Infinite
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862250
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Revolution Premier League 274 Julio Enciso 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862251
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Prizm Premier League 134 Julio Enciso Blue Breakaway Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862252
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Prizm Premier League 134 Julio Enciso Blue Breakaway Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862253
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Topps Chrome Bundesliga 34 Daichi Kamada Gold Wave Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862254
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Donruss 56 Thiago Silva Press Proof-Gold
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862255
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Court Kings Artistry in Motion 18 Dominique Wilkins
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862256
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Score Ligue 1 Uber Eats Next Up 14 Khephren Thuram
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862257
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm World Cup Qatar 177 Diogo Jota Gold Breakaway
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862258
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021-2022 Panini Mosaic Serie A 77 Rafael Leao Blue Mosaic
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862259
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Topps Chrome UEFA Champions League Sapphire Edition 95 Kylian Mbappe
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862260
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Select Premier League Select Future 17 Julian Alvarez
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862261
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Prizm Premier League 16 Julian Alvarez Mojo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862262
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022-23 Panini Revolution Premier League 286 Julian Alvarez Infinite
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862263
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021-2022 Panini Mosaic Serie A 77 Rafael Leao Silver
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862264
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Topps Chrome UEFA Champions League 37 Rafael Leao Blue Lava Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862265
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Topps Chrome UEFA Champions League 37 Rafael Leao Red &amp; Gold Starball Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862266
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Topps UEFA Club Competitions 99 Erling Haaland Icy Aqua Foil
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76862267
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021-2022 Topps Finest UEFA Champions League Prized Footballers Fusion PFF19 Zlatan Ibrahimovic
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
