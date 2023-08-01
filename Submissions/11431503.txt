@@ -1,0 +1,57 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76375340
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+N0: AUTHENTIC                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2021 Panini Rookies &amp; Stars Airborne AB5 Dak Prescott Signature-Longevity
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+76375341
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+N0: AUTHENTIC                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2013 Topps Star Wars Jedi Legacy Autographs Carrie Fisher
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+</tbody>
+</table>
