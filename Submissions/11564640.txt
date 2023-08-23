@@ -1,0 +1,43 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78147805
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1989 Upper Deck 1 Ken Griffey Jr. Star Rookie
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78147806
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2009 Bowman '48 Autograph 48AMJ Magic Johnson Black
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
