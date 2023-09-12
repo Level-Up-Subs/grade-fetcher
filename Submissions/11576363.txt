@@ -1,0 +1,1625 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923098
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 353 Brock Purdy Orange Ice
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923099
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1989 Upper Deck 1 Ken Griffey Jr. Star Rookie
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923100
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 184 Venusaur EX Super Rare
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923101
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Pokemon XY Evolutions 11 Charizard-Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923102
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 181 Snorlax Art Rare
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923103
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 208 Mew EX Ultra Rare
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923104
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1999 Pokemon Jungle 11 Snorlax-Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923105
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Pokemon Sun &amp; Moon Hidden Fates 68 Full Art/Jessie &amp; James
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923106
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG41 Full Art/Raikou V
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923107
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG38 Full Art/Suicune V
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923108
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Pokemon Swsh Black Star Promo 184 Full Art/Jolteon Vmax Jolteon Vmax Premium Collection
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923109
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Pokemon Swsh Black Star Promo 183 Full Art/Jolteon V Jolteon Vmax Premium Collection
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923110
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG36 Full Art/Entei V
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923111
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG69 Full Art/Giratina Vstar Secret
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923112
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Pokemon Sword &amp; Shield Evolving Skies 188 Full Art/Umbreon V 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923113
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Prizm 343 Jalen Hurts SP-No Huddle Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923114
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Prizm 325 Justin Herbert Lazer Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923115
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Prizm 336 Mac Jones No Huddle
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923116
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Prizm 331 Trevor Lawrence Disco Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923117
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Prizm 331 Trevor Lawrence Neon Green Pulsar
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923118
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2005 Playoff Prestige Draft Picks DP-4 Cedric Benson Draft Picks-Rights Autograph
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923119
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2010 SPx 126 Jordan Shipley Signed Jersey
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923120
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Panini Prizm UFC 107 Ian Garry White Sparkle
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923121
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Panini Prizm UFC 41 Saidyokub Kakhramonov White Sparkle
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923122
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Select WWE Ringside Action Signatures Ralak La Knight Blue Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923123
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Panini Prizm WWE Superstar Autographs Sadmy Dominik Mysterio Red Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923124
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Wild Card Auto Mania Autographs AMC85 C.J. Stroud Circle-Sparkles-Green
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923125
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Clearly Donruss 55 Sam Howell Orange
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923126
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Wild Card Auto Mania Autographs AMC31 Bailey Zappe Circle-Sparkles-Green
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923127
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Donruss Optic 229 Bailey Zappe Purple
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923128
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Select 213 Brock Purdy Die-Cut Orange Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923129
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Donruss Optic 277 Brock Purdy Red Hyper
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923130
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Select 232 Patrick Mahomes II Silver Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923131
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Select 104 Patrick Mahomes II Silver Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923132
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Select 66 Patrick Mahomes II Silver Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923133
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2013 Panini Select 1 Tom Brady Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923134
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Mosaic Glass Mosaic GM28 Kyle Pitts
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923135
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Encased Rookie Quad Memorabilia RQ13 Jalen Hurts Emerald
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923136
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Contenders Draft Picks 114 Kyle Pitts Autograph-Stub
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923137
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini XR 147 Kyle Trask Autograph
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923138
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Leaf Exotic Autographs Bacjs C.J. Stroud Elephant Diagonal Shimmer
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923139
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923140
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome-Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923141
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923142
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft BDC112 Cole Young Chrome
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923143
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospects BCP108 James Wood 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923144
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospects BCP108 James Wood 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923145
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospects BCP79 Jackson Chourio
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923146
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospects BCP79 Jackson Chourio
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923147
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Panini Select 32 Stephen Curry Blue Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923148
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2008 Finest Moments FM-PM Peyton Manning Blue Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923149
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2008 Finest Tom Brady Finest Moments TB13 Tom Brady Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923150
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 353 Brock Purdy No Huddle Red
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923151
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Select 464 Tom Brady White Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923152
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Donruss Optic 164 Jalen Hurts Holo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923153
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1990 Upper Deck 156 Ken Griffey Jr. No Copyright
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923154
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Flux Atmosphere 98 Stephen Curry Exosphere
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923155
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Panini Select 46 Joe Burrow Die-Cut Purple Prizm
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923156
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2016 Choice Wilmington Blue Rocks 16 Tim Hill
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923157
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2017 Grandstand Northwest Arkansas Naturals Tim Hill
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923158
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Topps 379 Tim Hill Foilboard
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923159
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Topps 379 Tim Hill Mother's Day Pink
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923160
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Topps 379 Tim Hill
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923161
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Topps Chrome 50 Tom Brady Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923162
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1995 Flair Hot Glove 3 Ken Griffey Jr.
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923163
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Topps 150 Shohei Ohtani SP
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923164
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Panini Donruss Optic 201 Trevor Lawrence Pink
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923165
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 400 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923166
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 400 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923167
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 400 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923168
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 400 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923169
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 400 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923170
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Chrome Update HMT32 Shohei Ohtani
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923171
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Update US1 Shohei Ohtani Pitching in Red Jersey
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923172
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Chrome 150 Shohei Ohtani Pitching
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923173
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Chrome Update an International Affair IA-So Shohei Ohtani
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923174
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Heritage 600 Shohei Ohtani
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923175
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1996 Topps 139 Michael Jordan
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923176
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Panini Father's Day Panini Collection KB Kobe Bryant 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923177
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1997 Skybox E-X2001 9 Michael Jordan
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923178
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1995 Stadium Club Beam Team B14 Michael Jordan
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923179
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1999 Upper Deck Hologrfx Maximum Jordan MJ1 Michael Jordan
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923180
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2006 Upper Deck Hardcourt Game Floor GF-12 Michael Jordan
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923181
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2006 Upper Deck Hardcourt Game Floor GF-17 LeBron James
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923182
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Panini Prizm Rookie Autographs Man Mark Andrews 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923183
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2014 Panini Donruss Gamers Memorabilia 7 Shaquille O'Neal
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923184
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1997 Finest 166 Derek Jeter w/Coating
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923185
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1997 Flair Showcase 1 Michael Jordan Row 2
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923186
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1998 Finest 16 Greg Maddux Refractor w/Coating
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923187
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1998 Finest 100 Ken Griffey Jr. w/Coating
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923188
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1990 Hoops 223 Sam Vincent Shows Michael Jordan
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923189
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 392 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923190
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Mosaic 3 Rondale Moore Green Sparkle
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923191
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2015 Panini Threads Authentic Threads 23 Kobe Bryant
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923192
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Upper Deck 718 Kirill Marchenko
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923193
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Donruss Optic Rookie Kings RK1 Kenny Pickett
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923194
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Bowman Modern Prospects MP9 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923195
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Bowman Paper Prospects BP50 Elly de La Cruz
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923196
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Onyx Vintage Vaed Elly de La Cruz Autograph-Blue Ink
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923197
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Panini Stars &amp; Stripes USA Kaboom! K9 Pete Crow-Armstrong
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923198
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Topps Inception Rookie and Emerging Stars Autographs Bresft Fernando Tatis Jr. Red
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923199
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2022 Panini Contenders Optic 83 Kenneth Walker III Red White Blue
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923200
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Update US1 Shohei Ohtani Pitching in Red Jersey
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923201
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2018 Topps Update US285 Shohei Ohtani
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923202
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Bowman Mega Box Chrome BCP61 Junior Caminero
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923203
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Finest Autographs Fadm Dustin May 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923204
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Now 446 Chris Taylor Blue
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923205
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Topps Finest Finest Autographs WS Will Smith
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923206
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Bowman's Best Best of 2020 Autographs B20ws Will Smith Refractor
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923207
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 173 Pikachu Art Rare
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923208
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 173 Pikachu Art Rare
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923209
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 173 Pikachu Art Rare
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923210
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2020 Pokemon Sword &amp; Shield Vivid Voltage 185 Full Art/Pokemon Center Lady
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923211
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2019 Pokemon Sun &amp; Moon Hidden Fates 68 Full Art/Jessie &amp; James
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+78923212
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 185 Charizard EX Super Rare
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
