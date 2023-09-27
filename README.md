@@ -41,3 +41,6 @@ Check out the `python-app.yml` int the `.github/workflows` repo. You'll also nee
 This is an encrypted token file. Github actions can't "login" to a google account so run the `manual.py` script and it will create a token file. Encrypt the file with `gpg --symmetric --cipher-algo AES256 token.pickle`. Add the `token.pickle.gpg` file to the repo.
 
 Note: see [here](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for more info
+
+# Cron
+`0 */3 * * * cd ~/Developer/projects/LevelUpSubs/grade-fetcher && ./run.sh >/dev/null 2>&1`
