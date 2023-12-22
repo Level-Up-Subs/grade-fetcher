@@ -1,0 +1,57 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+83959654
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1999 Pokemon Japanese CD Promo 6 Charizard-Holo CD Promo
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+83959655
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Pokemon Celebrations Ultra-Premium Collection 4 Charizard
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+83959656
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2021 Pokemon Celebrations Ultra-Premium Collection 58 Pikachu
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
