@@ -111,7 +111,7 @@ chrome_options = Options()
 chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
 chrome_service = Service('/opt/homebrew/bin/chromedriver')  # Specify the path to chromedriver executable
-chrome_service = Service('/usr/local/Caskroom/chromedriver/119.0.6045.105/chromedriver-mac-x64/chromedriver')
+chrome_service = Service('/usr/local/Caskroom/chromedriver/120.0.6099.109/chromedriver-mac-x64/chromedriver')
 
 # the browser
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
