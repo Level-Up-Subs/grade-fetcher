@@ -25,6 +25,8 @@ FTP_HOST = config.ftp_host
 FTP_USERNAME = config.ftp_username
 FTP_PASSWORD = config.ftp_password
 
+CHROMEDRIVER_PATH = config.chromedriver_path
+
 # PSA_USERNAME = os.environ['PSA_USERNAME']
 # PSA_PASSWORD = os.environ['PSA_PASSWORD']
 # #
@@ -110,8 +112,7 @@ max_attempts = 5
 chrome_options = Options()
 chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
-chrome_service = Service('/opt/homebrew/bin/chromedriver')  # Specify the path to chromedriver executable
-chrome_service = Service('/usr/local/Caskroom/chromedriver/120.0.6099.109/chromedriver-mac-x64/chromedriver')
+chrome_service = Service(CHROMEDRIVER_PATH) # Specify the path to chromedriver executable
 
 # the browser
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
