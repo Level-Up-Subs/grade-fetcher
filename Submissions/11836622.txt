@@ -1,0 +1,71 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+85133317
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Definitive Collection Defining Images Autograph Collection Diaaru Adley Rutschman Green
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+85133318
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Definitive Collection Definitive Rookie Patch Autographs Drpccc Corbin Carroll Green
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+85133319
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Definitive Collection Autograph Relic Collection Arcbwj Bobby Witt Jr. Red Laundry Tag 1/1
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+85133320
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            2023 Topps Definitive Collection Definitive Rookie Patch Autographs Drpcav Anthony Volpe Purple
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
