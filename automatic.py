@@ -110,7 +110,7 @@ max_attempts = 5
 
 # set options for browser
 chrome_options = Options()
-chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+# chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
 chrome_service = Service(CHROMEDRIVER_PATH) # Specify the path to chromedriver executable
 
@@ -210,7 +210,7 @@ for index, message in enumerate(messages):
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
-        title = wait.until(EC.title_contains("Submission"))
+        title = wait.until(EC.title_contains("Order"))
         
         # Get the page source
         page_source = driver.page_source
@@ -220,52 +220,52 @@ for index, message in enumerate(messages):
         table = soup.find('table')
         
          # Find the table header row
-        header_row = soup.find('thead').find('tr')
-        
-        # indices for columns that will be removed
-        line_column_index = 0
-        images_column_index = 5
-        type_column_index = 6
+        #header_row = soup.find('thead').find('tr')
+        #
+        ## indices for columns that will be removed
+        #line_column_index = 0
+        #images_column_index = 5
+        #type_column_index = 6
 
-        # Remove the columns from the header row
-        header_row.find_all('th')[type_column_index].extract()
-        header_row.find_all('th')[images_column_index].extract()
-        header_row.find_all('th')[line_column_index].extract()
-        
-        # Find the table body rows
-        body_rows = soup.find('tbody').find_all('tr')
-        
-        # Remove the columns from each body row
-        for row in body_rows:
-            row.find_all('td')[type_column_index].extract()
-            row.find_all('td')[images_column_index].extract()
-            row.find_all('td')[line_column_index].extract()
-        
-            # Remove the <a> tag from the "Cert #" columns in each body row
-            cert_column = row.find('td', {'data-title': 'Cert #'})
-            if cert_column is not None and cert_column.a:
-                cert_column.a.unwrap()
-                
-        # adjust the table
-        tables = soup.find_all('table')
+        ## Remove the columns from the header row
+        #header_row.find_all('th')[type_column_index].extract()
+        #header_row.find_all('th')[images_column_index].extract()
+        #header_row.find_all('th')[line_column_index].extract()
+        #
+        ## Find the table body rows
+        #body_rows = soup.find('tbody').find_all('tr')
+        #
+        ## Remove the columns from each body row
+        #for row in body_rows:
+        #    row.find_all('td')[type_column_index].extract()
+        #    row.find_all('td')[images_column_index].extract()
+        #    row.find_all('td')[line_column_index].extract()
+        #
+        #    # Remove the <a> tag from the "Cert #" columns in each body row
+        #    cert_column = row.find('td', {'data-title': 'Cert #'})
+        #    if cert_column is not None and cert_column.a:
+        #        cert_column.a.unwrap()
+        #
+        ## adjust the table
+        #tables = soup.find_all('table')
 
-        # Iterate through each table
-        for t in tables:
-            # Find all rows in the table
-            rows = t.find_all('tr')
+        ## Iterate through each table
+        #for t in tables:
+        #    # Find all rows in the table
+        #    rows = t.find_all('tr')
 
-            # Iterate through each row
-            for row in rows:
-                # Find all cells in the row
-                cells = row.find_all(['td', 'th'])
+        #    # Iterate through each row
+        #    for row in rows:
+        #        # Find all cells in the row
+        #        cells = row.find_all(['td', 'th'])
 
-                # Check if the row has at least 3 cells
-                if len(cells) >= 3:
-                    # Set the width of the 3rd column to 50%
-                    cells[3]['style'] = 'width: 50%;'
+        #        # Check if the row has at least 3 cells
+        #        if len(cells) >= 3:
+        #            # Set the width of the 3rd column to 50%
+        #            cells[3]['style'] = 'width: 50%;'
 
-            # Add black border lines between rows
-            t['style'] = 'border-collapse: collapse; border: 1px solid black;'
+        #    # Add black border lines between rows
+        #    t['style'] = 'border-collapse: collapse; border: 1px solid black;'
         
         # Use regex to find the number after "Submission"
         submission_number = 0
