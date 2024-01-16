@@ -1,0 +1,176 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398156/psa" target="_blank">83398156</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2022 Topps Allen &amp; Ginter Chrome Autographs HM Hideki Matsui
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751283" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398157/psa" target="_blank">83398157</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT-MINT 6                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2022 Topps Allen &amp; Ginter Framed Mini Non-Baseball Autographs Mamd Mark Duplass
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751284" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398158/psa" target="_blank">83398158</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT-MINT 6                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2022 Topps Allen &amp; Ginter Framed Mini Non-Baseball Autographs Mald Landon Donovan 
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751285" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398159/psa" target="_blank">83398159</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2015 Topps Allen &amp; Ginter Baseball Autographs Agajfo Julie Foudy 
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751286" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398160/psa" target="_blank">83398160</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2016 Topps Allen &amp; Ginter 160 Steve Kerr 
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751287" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">6</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398161/psa" target="_blank">83398161</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2020 SP Game Used 163 Mikey Anderson Blue Autograph
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751288" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">7</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83398162/psa" target="_blank">83398162</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1996 SPx GS1 Wayne Gretzky Tribute Autograph
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148751289" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>
