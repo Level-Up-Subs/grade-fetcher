@@ -1,0 +1,879 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082345/psa" target="_blank">85082345</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 020 Radiant Charizard
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733323" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082346/psa" target="_blank">85082346</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 184 Blastoise EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733324" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082347/psa" target="_blank">85082347</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 184 Blastoise EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733325" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082348/psa" target="_blank">85082348</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 184 Blastoise EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733326" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082349/psa" target="_blank">85082349</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 203 Erika's Invitation Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733327" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">6</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082350/psa" target="_blank">85082350</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG35 Full Art/Leafeon Vstar
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733328" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">7</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082351/psa" target="_blank">85082351</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Svp EN-SV Black Star Promo 044 Charmander Obsidian Flames Elite Trainer Box
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733329" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">8</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082352/psa" target="_blank">85082352</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG46 Full Art/Deoxys Vstar
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733330" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">9</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082353/psa" target="_blank">85082353</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 188 Alakazam EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733331" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">10</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082354/psa" target="_blank">85082354</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 181 Dragonair Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733332" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">11</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082355/psa" target="_blank">85082355</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Par EN-Paradox Rift 252 Gholdengo EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733333" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">12</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082356/psa" target="_blank">85082356</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG10 Full Art/Mew
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733334" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">13</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082357/psa" target="_blank">85082357</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Pokemon Sword &amp; Shield Astral Radiance TG14 Full Art/Ice Rider Calyrex V 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733335" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">14</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082358/psa" target="_blank">85082358</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Par EN-Paradox Rift 245 Garchomp EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733336" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">15</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082359/psa" target="_blank">85082359</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG63 Full Art/Irida
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733337" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">16</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082360/psa" target="_blank">85082360</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 147 Full Art/Elesa's Sparkle
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733338" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">17</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082361/psa" target="_blank">85082361</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 149 Full Art/Friends in Sinnoh
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733339" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">18</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082362/psa" target="_blank">85082362</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 149 Full Art/Friends in Sinnoh
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733340" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">19</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082363/psa" target="_blank">85082363</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG51 Full Art/Hisuian Samurott V
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733341" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">20</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082364/psa" target="_blank">85082364</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 207 Basic Psychic Energy Hyper Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733342" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">21</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082365/psa" target="_blank">85082365</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG69 Full Art/Giratina Vstar Secret
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733343" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">22</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082366/psa" target="_blank">85082366</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG70 Full Art/Arceus Vstar Secret
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733344" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">23</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082367/psa" target="_blank">85082367</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 193 Mew EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733345" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">24</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082368/psa" target="_blank">85082368</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 198 Venusaur EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733346" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">25</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082369/psa" target="_blank">85082369</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 198 Venusaur EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733347" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">26</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082370/psa" target="_blank">85082370</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 160 Full Art/Pikachu
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733348" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">27</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082371/psa" target="_blank">85082371</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 160 Full Art/Pikachu
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733349" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">28</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082372/psa" target="_blank">85082372</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 160 Full Art/Pikachu
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733350" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">29</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082373/psa" target="_blank">85082373</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 201 Alakazam EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733351" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">30</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082374/psa" target="_blank">85082374</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 201 Alakazam EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733352" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">31</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082375/psa" target="_blank">85082375</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 201 Alakazam EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733353" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">32</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082376/psa" target="_blank">85082376</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 201 Alakazam EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733354" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">33</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082377/psa" target="_blank">85082377</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Svp EN-SV Black Star Promo 056 Charizard EX Charizard EX Premium Collection
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733355" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">34</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082378/psa" target="_blank">85082378</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Svp EN-SV Black Star Promo 056 Charizard EX Charizard EX Premium Collection
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733356" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">35</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082379/psa" target="_blank">85082379</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG40 Full Art/Glaceon Vstar
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733357" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">36</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082380/psa" target="_blank">85082380</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG10 Full Art/Mew
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733358" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">37</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082381/psa" target="_blank">85082381</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 167 Ivysaur Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733359" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">38</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082382/psa" target="_blank">85082382</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Par EN-Paradox Rift 229 Roaring Moon EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733360" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">39</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082383/psa" target="_blank">85082383</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 170 Squirtle Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733361" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">40</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082384/psa" target="_blank">85082384</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Par EN-Paradox Rift 247 Tapu Koko EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733362" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">41</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082385/psa" target="_blank">85082385</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Par EN-Paradox Rift 212 Loudred Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733363" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">42</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082386/psa" target="_blank">85082386</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Obf EN-Obsidian Flames 223 Charizard EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733364" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">43</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082387/psa" target="_blank">85082387</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Obf EN-Obsidian Flames 199 Ninetales Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733365" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">44</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082388/psa" target="_blank">85082388</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Svp EN-SV Black Star Promo 027 Pikachu Paldea Evolved Elite Trainer Box
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733366" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">45</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082389/psa" target="_blank">85082389</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Pokemon Sword &amp; Shield Astral Radiance 167 Full Art/Origin Forme Palkia V
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733367" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">46</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082390/psa" target="_blank">85082390</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG38 Full Art/Suicune V
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733368" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">47</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082391/psa" target="_blank">85082391</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Par EN-Paradox Rift 208 Steelix Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733369" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">48</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082392/psa" target="_blank">85082392</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 199 Charizard EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733370" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">49</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082393/psa" target="_blank">85082393</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 167 Ivysaur Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733371" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">50</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082394/psa" target="_blank">85082394</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 203 Erika's Invitation Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733372" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">51</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082395/psa" target="_blank">85082395</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 205 Mew EX Hyper Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733373" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">52</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082396/psa" target="_blank">85082396</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 176 Poliwhirl Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733374" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">53</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082397/psa" target="_blank">85082397</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 176 Poliwhirl Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733375" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">54</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/85082398/psa" target="_blank">85082398</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 176 Poliwhirl Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="151733376" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>
