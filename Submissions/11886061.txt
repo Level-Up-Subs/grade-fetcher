@@ -1,0 +1,415 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242943/psa" target="_blank">86242943</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2020 Topps Inception Autograph Patch AR Austin Riley
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644676" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242944/psa" target="_blank">86242944</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome Update HMT1 Shohei Ohtani
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644677" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242945/psa" target="_blank">86242945</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome 150 Shohei Ohtani Pitching
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644678" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242946/psa" target="_blank">86242946</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Bowman Chrome 40 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644679" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242947/psa" target="_blank">86242947</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome Update HMT25 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644680" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">6</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242948/psa" target="_blank">86242948</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome Update HMT25 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644681" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">7</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242949/psa" target="_blank">86242949</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome 193 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644682" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">8</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242950/psa" target="_blank">86242950</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome 193 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644683" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">9</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242951/psa" target="_blank">86242951</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome 193 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644684" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">10</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242952/psa" target="_blank">86242952</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome 193 Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644685" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">11</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242953/psa" target="_blank">86242953</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Topps Chrome 193 Ronald Acuna Jr. Prism Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644686" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">12</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242954/psa" target="_blank">86242954</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Topps Gold Label 99 Ronald Acuna Jr. Class 2-Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644687" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">13</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242955/psa" target="_blank">86242955</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Topps High Tek HT-RA Ronald Acuna Jr. Rainbow Foil-Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644688" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">14</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242956/psa" target="_blank">86242956</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Topps High Tek HT-RA Ronald Acuna Jr. Rainbow Foil-Black
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644689" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">15</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242957/psa" target="_blank">86242957</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Bowman's Best 51 Ronald Acuna Jr. Green Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644690" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">16</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242958/psa" target="_blank">86242958</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Bowman's Best 51 Ronald Acuna Jr. Blue Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644691" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">17</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242959/psa" target="_blank">86242959</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Bowman's Best 51 Ronald Acuna Jr. Purple Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644692" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">18</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242960/psa" target="_blank">86242960</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2018 Bowman's Best 51 Ronald Acuna Jr. Atomic Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644693" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">19</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242961/psa" target="_blank">86242961</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Bowman's Best Best of 2018 Autographs B18ra Ronald Acuna Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644694" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">20</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242962/psa" target="_blank">86242962</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Chrome Rookie Autograph Ramh Michael Harris II
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644695" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">21</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242963/psa" target="_blank">86242963</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Topps Heritage 580 Ronald Acuna Jr. Chrome-Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644696" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">22</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242964/psa" target="_blank">86242964</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Topps Update 293 Charlie Culberson Vintage Stock
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644697" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">23</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242965/psa" target="_blank">86242965</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Draft Franchise Futures Dual Autographs LF Rhett Lowder/Ty Floyd
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644698" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">24</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242966/psa" target="_blank">86242966</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Now Draft D1 Victor Wembanyama 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644699" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">25</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86242967/psa" target="_blank">86242967</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Topps Home Run Challenge Winners HRCW18 Vladimir Guerrero Jr. July
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="152644700" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>
