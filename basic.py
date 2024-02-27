@@ -4,9 +4,10 @@ from selenium.webdriver.chrome.options import Options
 # Set up Chrome options
 chrome_options = Options()
 chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+chrome_service = Service('/usr/lib/chromium-browser/chromedriver') # Specify the path to chromedriver executable
 
 # Set up Selenium webdriver
-driver = webdriver.Chrome(options=chrome_options)  # No need for explicit path if Chrome WebDriver is in PATH
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)  # No need for explicit path if Chrome WebDriver is in PATH
 url = "https://example.com"  # Replace with your desired URL
 
 # Navigate to the website
