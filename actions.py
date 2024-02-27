@@ -25,6 +25,11 @@ FTP_PASSWORD = os.environ['FTP_PASSWORD']
 
 CHROMEDRIVER_PATH = '/usr/lib/chromium-browser/chromedriver'
 
+#################################
+# decode pickle and credentials #
+#################################
+
+
 ###########################
 # log into google account #
 ###########################

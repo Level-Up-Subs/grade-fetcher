@@ -44,3 +44,6 @@ Note: see [here](https://docs.github.com/en/actions/security-guides/encrypted-se
 
 # Cron
 `0 */3 * * * cd ~/Developer/projects/LevelUpSubs/grade-fetcher && ./run.sh >/dev/null 2>&1`
+
+# Newest additions
+use `base64 -i <file> -o <file>.base64` on token.pickle and credentials.json and add to github actions secrets

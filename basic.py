@@ -1,24 +1,43 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
+import os
+import pickle
+import sys
+import base64
+import re
 
-# Set up Chrome options
-chrome_options = Options()
-chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-chrome_service = Service('/usr/lib/chromium-browser/chromedriver') # Specify the path to chromedriver executable
+from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
+from googleapiclient.discovery import build
 
-# Set up Selenium webdriver
-driver = webdriver.Chrome(service=chrome_service, options=chrome_options)  # No need for explicit path if Chrome WebDriver is in PATH
-url = "https://example.com"  # Replace with your desired URL
+###########################
+# log into google account #
+###########################
 
-# Navigate to the website
-driver.get(url)
+sys.stdout.write('Checking google credentials...')
 
-# Get the page source (HTML)
-html = driver.page_source
+# set scope to access Gmail API
+SCOPES = ['https://mail.google.com/']
 
-# Close the webdriver
-driver.quit()
+credentials = None
 
-# Print the HTML
-print(html)
+home_folder = os.path.expanduser('~')
+pickle_path = os.path.join(home_folder, 'token.pickle')
+cred_path = os.path.join(home_folder, 'credentials.json')
+
+# check if credentials already exist
+if os.path.exists(pickle_path):
+    with open(pickle_path, 'rb') as token:
+        credentials = pickle.load(token)
+else:
+    # load credentials from JSON file downloaded from Google Developers Console
+    if not os.path.exists(cred_path):
+        sys.stdout.write('missing credentials.json file')
+        exit(1)
+        
+    flow = InstalledAppFlow.from_client_secrets_file(cred_path, SCOPES)
+    credentials = flow.run_local_server(port=0)
+    
+    # Save credentials for future use
+    with open(pickle_path, 'wb') as token:
+        pickle.dump(credentials, token)
+
+sys.stdout.write('complete!\n')

@@ -26,4 +26,6 @@ jobs:
 
       - name: Run Selenium script
         run: |
+          echo "${{ secrets.PICKLE_FILE }}" | base64 -d > token.pickle
+          echo "${{ secrets.CREDENTIALS_FILE }}" | base64 -d > credentials.json 
           python basic.py
