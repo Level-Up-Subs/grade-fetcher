@@ -110,8 +110,11 @@ while attempts < max_attempts:
 
     try:
     
+        sys.stdout.write('going to PSA website...')
         # navigate to PSA login
         driver.get('https://app.collectors.com/signin?b=PSA&r=http://www.psacard.com/myaccount?site%3Dpsa')
+        
+        sys.stdout.write('waiting for email field...')
         
         wait = WebDriverWait(driver, 10)
         email_element = wait.until(EC.presence_of_element_located((By.ID, 'email')))
@@ -120,9 +123,13 @@ while attempts < max_attempts:
         email_input = driver.find_element(By.ID, 'email')
         email_input.send_keys(PSA_USERNAME)
         
+        sys.stdout.write('submitting email...')
+        
         # Find the button with type="submit" and click it
         submit_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         submit_button.click()
+        
+        sys.stdout.write('waiting for password field...')
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 10)  # Adjust the timeout as needed
@@ -135,6 +142,8 @@ while attempts < max_attempts:
         # Find the button with type="submit" and click it
         login_button = driver.find_element(By.CSS_SELECTOR, 'button[type="submit"]')
         login_button.click()
+        
+        sys.stdout.write('submitting password...')
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
