@@ -40,3 +40,33 @@ else:
         pickle.dump(credentials, token)
 
 sys.stdout.write('complete!\n')
+
+#######################################
+# find all emails with matching title #
+#######################################
+
+# Build the Gmail API service
+gmail_service = build('gmail', 'v1', credentials=credentials)
+
+subject = 'Your PSA grades are available'
+
+results = gmail_service.users().messages().list(userId='me', labelIds=['INBOX'], q=f'subject:"{subject}"').execute()
+messages = results.get('messages', [])
+
+if not messages:
+    sys.stdout.write(f'No emails with subject: {subject}.\n')
+    
+    sys.stdout.write('Deleting all emails...')
+    
+    results = gmail_service.users().messages().list(userId='me').execute()
+    messages = results.get('messages', [])
+
+    # Delete each email
+    for message in messages:
+        gmail_service.users().messages().trash(userId='me', id=message['id']).execute()
+        
+    sys.stdout.write('done!\n')
+    
+    exit(0)
+    
+sys.stdout.write(f'{len(messages)} email(s) found with matching subject: {subject}.\n')
