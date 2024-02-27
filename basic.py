@@ -147,7 +147,7 @@ while attempts < max_attempts:
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
-        title = wait.until(EC.title_is('PSA Collectibles Authentication and Grading Service'))
+        # title = wait.until(EC.title_is('PSA Collectibles Authentication and Grading Service'))
         
         sys.stdout.write('success!\n')
         break
