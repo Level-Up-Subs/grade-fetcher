@@ -1,0 +1,29 @@
+name: Download HTML via Selenium
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  download_html:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Specify your desired Python version
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+          python -m pip install selenium
+
+      - name: Run Selenium script
+        run: |
+          python basic.py
