@@ -2,6 +2,8 @@ bs4
 selenium
 requests
 google-api-python-client 
+google-cloud
+google-cloud-vision
 google-auth-httplib2 
 google-auth-oauthlib
 chromedriver-autoinstaller
