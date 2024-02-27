@@ -42,7 +42,7 @@ jobs:
         PASSPHRASE: ${{ secrets.PASSPHRASE }}
       run: |
         gpg --quiet --batch --yes --decrypt --passphrase="$PASSPHRASE" --output $HOME/token.pickle token.pickle.gpg
-        python automatic.py
+        python actions.py
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git status --porcelain | grep -q . && git add Submissions/*.txt && git commit -m "Adding submissions to repo" && git push || [ $? -eq 1 ]
