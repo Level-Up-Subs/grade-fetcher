@@ -19,9 +19,8 @@ SCOPES = ['https://mail.google.com/']
 
 credentials = None
 
-home_folder = os.path.expanduser('~')
-pickle_path = os.path.join(home_folder, 'token.pickle')
-cred_path = os.path.join(home_folder, 'credentials.json')
+pickle_path = 'token.pickle'
+cred_path = 'credentials.json'
 
 # check if credentials already exist
 if os.path.exists(pickle_path):
