@@ -206,7 +206,7 @@ for index, message in enumerate(messages):
         
         # Wait until the page is loaded
         wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
-        title = wait.until(EC.title_contains("Order"))
+        # title = wait.until(EC.title_contains("Order"))
         
         # Get the page source
         page_source = driver.page_source
