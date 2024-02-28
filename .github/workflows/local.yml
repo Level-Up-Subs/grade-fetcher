@@ -40,11 +40,4 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add Submissions/*.txt
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "Add new files"
-          git remote set-url origin https://${{ github.repository_owner }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git push origin main
+          git status --porcelain | grep -q . && git add Submissions/*.txt && git commit -m "Adding submissions to repo" && git push || [ $? -eq 1 ]
