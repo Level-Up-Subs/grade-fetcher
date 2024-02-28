@@ -22,7 +22,7 @@ jobs:
       
       - name: Install chromedriver
         run: |
-          brew cask install chromedriver
+          brew install chromedriver
         
       - name: Install Requirements
         run: |
