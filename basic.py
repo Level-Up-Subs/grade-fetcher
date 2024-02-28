@@ -24,7 +24,7 @@ FTP_HOST = os.environ['FTP_HOST']
 FTP_USERNAME = os.environ['FTP_USERNAME']
 FTP_PASSWORD = os.environ['FTP_PASSWORD']
 
-CHROMEDRIVER_PATH = '/usr/lib/chromium-browser/chromedriver'
+CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
 
 ###########################
 # log into google account #
