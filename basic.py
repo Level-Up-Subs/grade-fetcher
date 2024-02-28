@@ -266,6 +266,8 @@ for index, message in enumerate(messages):
         # Use regex to find the number after "Submission"
         submission_number = 0
         
+        print(soup.prettify())
+        
         match = re.search(r"Submission (\d+)", str(soup.find('title')))
         if match:
             submission_number = match.group(1)
