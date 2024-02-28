@@ -36,10 +36,7 @@ jobs:
           echo "${{ secrets.CREDENTIALS_FILE }}" | base64 -d > credentials.json
           python basic.py
           
-      - name: Add Files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git status --porcelain | grep -q . && git add Submissions/*.txt && git commit -m "Adding submissions to repo" && git push || [ $? -eq 1 ]
+      # Commit all changed files back to the repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Adding submissions to repo
