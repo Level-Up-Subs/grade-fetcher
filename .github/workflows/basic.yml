@@ -1,9 +1,7 @@
 name: Download HTML via Selenium
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   download_html:
