@@ -52,7 +52,7 @@ url = f'https://www.psacard.com/myaccount/myorder?o={order_number}'
 # log into PSA account
 # set options for browser
 chrome_options = Options()
-#chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
 chrome_service = Service(CHROMEDRIVER_PATH) # Specify the path to chromedriver executable
 
@@ -99,7 +99,7 @@ try:
     
 except Exception as e:
     driver.quit()
-    print('Failed to login to PSA website: step {step}')
+    print(f'Failed to login to PSA website: step {step}')
     exit(1)
 
 # navigate to the grades page
