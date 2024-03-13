@@ -1,5 +1,37 @@
 # grade-fetcher
-Automatically fetch grades from PSA account. This project works in tandem with the [Sub Tracker](https://github.com/Level-Up-Subs/sub-tracker) project.
+Automatically fetch grades from PSA account. This project works in tandem with the 
+[Sub Tracker](https://github.com/Level-Up-Subs/sub-tracker) project. Version 2 works with 
+[Sub Tracker](https://github.com/Level-Up-Subs/sub-tracker), 
+[Grade Server](https://github.com/Level-Up-Subs/grade-server),
+and [PSA Grades](https://github.com/Level-Up-Subs/psa-grade).
+
+## Version 1
+* user enters submission number
+* call to PSA API with sub number
+* returns status (and order number)
+* if the order is done, checks grade-fetch repo for submission
+* if the submission exists in the repo, display the data
+* else, send an email to psagradetracker@gmail.com with order number
+* cron job on local computer that runs every hour
+    * log into psa
+    * navigate to order page
+    * get grade data and save it to a file in the repo
+    * push changes to github
+    
+### Requirements
+* config.py
+* credentials.json
+* token.pickle
+    
+## Version 2
+* user enters submission number
+* call to PSA API with sub number
+* returns status (and order number)
+* if the order is done, checks psa-grades repo for submission
+* if the submission exists in the repo, display the data
+* else, make a request to the server with the sub and order number
+
+
 
 ## Functionality
 What does this program do? PSA doesn't have a good API so users can't fetch their grades with a given submission number. Here is an overview of what the program does.
