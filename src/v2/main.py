@@ -127,7 +127,7 @@ owner = "Level-Up-Subs"
 repo_name = "psa-grades"
 
 # API endpoint for updating file content
-url = f"https://api.github.com/repos/{owner}/{repo_name}/contents/submissions/{sub_number}.txt"
+url = f"https://api.github.com/repos/{owner}/{repo_name}/contents/Submissions/{sub_number}.txt"
 
 # Base64 encode HTML content
 encoded_content = base64.b64encode(html_out.encode()).decode()
