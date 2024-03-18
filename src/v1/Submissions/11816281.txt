@@ -1,0 +1,31 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/67955028/psa" target="_blank">67955028</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2020 Topps Chrome Formula 1 113 Scuderia Ferrari Purple Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="131945374" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>

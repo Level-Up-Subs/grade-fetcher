@@ -1,0 +1,2414 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635828/psa" target="_blank">86635828</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman University Chrome 2007-08 Bowman 07B22 Caitlin Clark
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364567" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635829/psa" target="_blank">86635829</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman University Chrome 34 Caitlin Clark Pink
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364568" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635830/psa" target="_blank">86635830</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Panini Donruss 339 CJ Stroud Press Proof Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364569" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635831/psa" target="_blank">86635831</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini Prizm 343 Anthony Richardson
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364570" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635832/psa" target="_blank">86635832</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2002 Pokemon Legendary Collection 18 Venusaur-Reverse Foil
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364571" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">6</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635833/psa" target="_blank">86635833</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Game 15 Venusaur-Holo Shadowless
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364572" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">7</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635834/psa" target="_blank">86635834</a>
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Game 2 Blastoise-Holo Shadowless
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364573" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">8</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635835/psa" target="_blank">86635835</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Game 7 Hitmonchan-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364574" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">9</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635836/psa" target="_blank">86635836</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Topps Chrome Update Autograph Acjle Josh Lester Blue Raywave
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364575" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">10</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635837/psa" target="_blank">86635837</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Team Logo Commemorative Patch Tlpoc Oneil Cruz
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364576" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">11</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635838/psa" target="_blank">86635838</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2023 Topps 2022 Greatest Hits 22GH23 Adley Rutschman
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364577" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">12</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635839/psa" target="_blank">86635839</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Chronicles Prizm Black PB18 Christian Watson
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364578" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">13</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635840/psa" target="_blank">86635840</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 174 Romeo Doubs Meta
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364579" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">14</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635841/psa" target="_blank">86635841</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Rookies &amp; Stars 129 Romeo Doubs Signature-Orange
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364580" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">15</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635842/psa" target="_blank">86635842</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Rookies &amp; Stars 127 Christian Watson Signature-Orange
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364581" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">16</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+</td>
+<td data-title="Grade">
+N6: MINIMUM SIZE REQUIREMENT                                    </td>
+<td data-title="Description">
+                                            2022 Panini Rookies &amp; Stars 127 Christian Watson Signature
+                                        </td>
+<td data-title="Cert Image">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=153364582&amp;orderNumber=23819350&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">17</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635844/psa" target="_blank">86635844</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Illusions 137 Romeo Doubs Autograph Memorabilia-Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364583" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">18</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635845/psa" target="_blank">86635845</a>
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description">
+                                            2022 Panini Phoenix 135 Romeo Doubs Magenta Printing Plate 1/1
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364584" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">19</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635846/psa" target="_blank">86635846</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Chronicles Playoff Momentum Rookies PMR31 Romeo Doubs
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364585" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">20</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635847/psa" target="_blank">86635847</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2014 Panini Select 18 Aaron Rodgers Orange Prizm
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364586" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">21</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635848/psa" target="_blank">86635848</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Pokemon Japanese Sword &amp; Shield Vstar Universe 177 Full Art/Lapras
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364587" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">22</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635849/psa" target="_blank">86635849</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon 151 Ultra-Premium Collection 205 Mew EX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364588" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">23</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635850/psa" target="_blank">86635850</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Japanese Sv4a-Shiny Treasure EX 316 Oinkologne S
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364589" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">24</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635851/psa" target="_blank">86635851</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Japanese Sv4a-Shiny Treasure EX 327 Mew EX Ssr
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364590" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">25</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635852/psa" target="_blank">86635852</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Japanese Sv4a-Shiny Treasure EX 341 Mimikyu Art Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364591" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">26</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635853/psa" target="_blank">86635853</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 065 Alakazam EX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364592" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">27</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635854/psa" target="_blank">86635854</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2021 Panini Mosaic 328 Amon-RA St. Brown Camo Pink
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364593" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">28</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635855/psa" target="_blank">86635855</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 199 Charizard EX Special Illustration Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364594" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">29</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635856/psa" target="_blank">86635856</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith GG44 Full Art/Mewtwo Vstar
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364595" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">30</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635857/psa" target="_blank">86635857</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2007 Pokemon Diamond &amp; Pearl Black Star Promo DP12 Lucario LV.X Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364596" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">31</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635858/psa" target="_blank">86635858</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 160 Full Art/Pikachu
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364597" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">32</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635859/psa" target="_blank">86635859</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2019 Pokemon Sun &amp; Moon Unbroken Bonds 199 Full Art/Marshadow &amp; Machamp GX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364598" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">33</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635860/psa" target="_blank">86635860</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Japanese Sv4a-Shiny Treasure EX 349 Charizard EX Special Art Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364599" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">34</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635861/psa" target="_blank">86635861</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2020 Pokemon Swsh Black Star Promo 020 Full Art/Pikachu Figure Collection
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364600" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">35</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635862/psa" target="_blank">86635862</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Japanese Sv2a-Pokemon 151 008 Wartortle Master Ball Reverse Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364601" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">36</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635863/psa" target="_blank">86635863</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2014 Pokemon XY Furious Fists 113 M Lucario EX Ultra Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364602" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">37</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635864/psa" target="_blank">86635864</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Mew EN-151 205 Mew EX Hyper Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364603" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">38</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635865/psa" target="_blank">86635865</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2019 Pokemon Sun &amp; Moon Team Up 53 Gengar &amp; Mimikyu GX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364604" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">39</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635866/psa" target="_blank">86635866</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2016 Pokemon XY Evolutions 106 Full Art/Dragonite EX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364605" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">40</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635867/psa" target="_blank">86635867</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Sword and Shield Crown Zenith 020 Radiant Charizard
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364606" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">41</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635868/psa" target="_blank">86635868</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon 151 Ultra-Premium Collection 205 Mew EX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364607" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">42</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635869/psa" target="_blank">86635869</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Svp EN-SV Black Star Promo 052 Mewtwo 151 Ultra-Premium Collection
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364608" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">43</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635870/psa" target="_blank">86635870</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Svp EN-SV Black Star Promo 053 Mew EX 151 Ultra-Premium Collection
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364609" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">44</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635871/psa" target="_blank">86635871</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Obf EN-Obsidian Flames 228 Charizard EX Hyper Rare
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364610" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">45</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635872/psa" target="_blank">86635872</a>
+</td>
+<td data-title="Grade">
+VERY GOOD 3                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Game 10 Mewtwo-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364611" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">46</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635873/psa" target="_blank">86635873</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2019 Pokemon Sun &amp; Moon Unbroken Bonds 107 Greninja &amp; Zoroark GX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364612" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">47</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635874/psa" target="_blank">86635874</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2019 Pokemon Sun &amp; Moon Unified Minds 71 Mewtwo &amp; Mew GX
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364613" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">48</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635875/psa" target="_blank">86635875</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2015 Pokemon XY Ancient Origins 92 Full Art/M Tyranitar EX 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364614" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">49</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635876/psa" target="_blank">86635876</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Disney Lorcana EN 2-Rise of the Floodborn 210 Beast - Relentless Enchanted
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364615" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">50</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635877/psa" target="_blank">86635877</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023-Date Disney Lorcana Filler Card Discard Card Black Background
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364616" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">51</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635878/psa" target="_blank">86635878</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Fossil 15 Zapdos-Holo Corrected Foil
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364617" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">52</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635879/psa" target="_blank">86635879</a>
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Fossil 2 Articuno-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364618" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">53</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635880/psa" target="_blank">86635880</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Japanese Gym 2 3 Erika's Venusaur-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364619" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">54</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635881/psa" target="_blank">86635881</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2000 Pokemon Japanese Neo 249 Lugia-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364620" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">55</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635882/psa" target="_blank">86635882</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            2001 Pokemon Neo Revelation 13 Raikou-Holo 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364621" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">56</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635883/psa" target="_blank">86635883</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2021 Panini Prizm 331 Trevor Lawrence Autograph-Purple Power
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364622" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">57</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635884/psa" target="_blank">86635884</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            1987 Fleer 59 Michael Jordan
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364623" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">58</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635885/psa" target="_blank">86635885</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2020 Panini Prizm 307 Joe Burrow Orange Ice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364624" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">59</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635886/psa" target="_blank">86635886</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2012 Panini Marquee Slam Dunk Legends 3 Kobe Bryant
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364625" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">60</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635887/psa" target="_blank">86635887</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic 236 Chet Holmgren Fusion Red &amp; Yellow Choice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364626" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">61</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635888/psa" target="_blank">86635888</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss 202 Chet Holmgren Green Holo Laser
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364627" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">62</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635889/psa" target="_blank">86635889</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            1997 Topps Generations G24 Kobe Bryant
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364628" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">63</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635890/psa" target="_blank">86635890</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 195 Keegan Murray Interstellar
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364629" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">64</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635891/psa" target="_blank">86635891</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm Monopoly 36 Bennedict Mathurin Red Dice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364630" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">65</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635892/psa" target="_blank">86635892</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            1999 Topps Prodigy PR4 Kobe Bryant
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364631" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">66</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635893/psa" target="_blank">86635893</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2018 Panini Donruss Optic 198 Trae Young Shock
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364632" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">67</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635894/psa" target="_blank">86635894</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2020 Panini Donruss Optic 153 LaMelo Ball Hyper Pink
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364633" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">68</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635895/psa" target="_blank">86635895</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Panini Threads 171 Kobe Bryant
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364634" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">69</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635896/psa" target="_blank">86635896</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2009 Panini Crown Royale King on the Court 10 Kobe Bryant 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364635" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">70</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635897/psa" target="_blank">86635897</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            1999 Flair Showcase 50 Kobe Bryant
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364636" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">71</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635898/psa" target="_blank">86635898</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2010 Panini VIP Crown Royale National VIP1 Kobe Bryant 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364637" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">72</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635899/psa" target="_blank">86635899</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic 236 Chet Holmgren Variation-Fast Break
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364638" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">73</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635900/psa" target="_blank">86635900</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2019 Panini Absolute Memorabilia 66 LeBron James Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364639" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">74</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635901/psa" target="_blank">86635901</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini Prizm Draft Picks 2 Victor Wembanyama Green
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364640" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">75</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635902/psa" target="_blank">86635902</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2020 Panini Hoops Slam 4 Stephen Curry Winter
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364641" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">76</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635903/psa" target="_blank">86635903</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT+ 8.5                                    </td>
+<td data-title="Description">
+                                            2021 Panini Recon True Potential Signatures Tpsarv Austin Reaves
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364642" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">77</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635904/psa" target="_blank">86635904</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Chrome Mcdonald's All-American 68 Bronny James Mcdonald's Logo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364643" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">78</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635905/psa" target="_blank">86635905</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 199 Chet Holmgren Celestial
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364644" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">79</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635906/psa" target="_blank">86635906</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Draft Chrome Prospect Autograph Cdahb Homer Bush Jr.
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364645" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">80</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635907/psa" target="_blank">86635907</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Draft Chrome Prospect Autograph Cdajf Jonny Farmelo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364646" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">81</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635908/psa" target="_blank">86635908</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Chrome Prospect Autographs Cpajbo Juan Brito
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364647" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">82</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635909/psa" target="_blank">86635909</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Chrome Prospect Autographs Cpadjg Dyan Jorge
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364648" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">83</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635910/psa" target="_blank">86635910</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Bowman Chrome Prospects BCP10 Curtis Mead Blue Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364649" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">84</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635911/psa" target="_blank">86635911</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Draft BDC98 Joe Whitman Chrome-Orange
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364650" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">85</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635912/psa" target="_blank">86635912</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Chrome Prospect Autographs Cpahm Hans Montero Speckle
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364651" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">86</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635913/psa" target="_blank">86635913</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Chrome Prospect Autographs Cpahm Hans Montero
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364652" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">87</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635914/psa" target="_blank">86635914</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Bowman Chrome Prospect Autographs Cpajts James Triantos 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364653" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">88</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635915/psa" target="_blank">86635915</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Chrome Prospect Autographs Cpara Roman Anthony
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364654" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">89</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635916/psa" target="_blank">86635916</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2000 Pokemon Rocket 15 Here Comes Team Rocket!-Holo 1st Edition
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364655" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">90</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635917/psa" target="_blank">86635917</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Game 14 Raichu-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364656" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">91</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635918/psa" target="_blank">86635918</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2021 Panini Prizm Draft Picks 156 Tanner Bibee
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364657" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">92</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635919/psa" target="_blank">86635919</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Chrome Update 2023 All-Star Game 15 Nick Castellanos Superfractor 1/1
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364658" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">93</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635920/psa" target="_blank">86635920</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Chrome Update Autograph Acft Fernando Tatis Jr. Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364659" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">94</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635921/psa" target="_blank">86635921</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2021 Panini Prizm 331 Trevor Lawrence Lazer Prizm
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364660" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">95</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635922/psa" target="_blank">86635922</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Panini Donruss 331 Jahmyr Gibbs Press Proof Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364661" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">96</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635923/psa" target="_blank">86635923</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini Prizm Draft Picks 2 Victor Wembanyama Red Ice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364662" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">97</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635924/psa" target="_blank">86635924</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Panini National Treasures Colossal Material Signatures JH Jackson Holliday
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364663" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">98</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635925/psa" target="_blank">86635925</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Topps Chrome Update Sapphire Edition Autograph JW Jordan Walker
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364664" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">99</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635926/psa" target="_blank">86635926</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini National Treasures Die-Cut Material Signatures JH Jackson Holliday
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364665" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">100</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635927/psa" target="_blank">86635927</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic Collage Autographs Mosaic Cmkaj Kareem Abdul-Jabbar Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364666" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">101</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635928/psa" target="_blank">86635928</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic Storm Chasers 2 LeBron James
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364667" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">102</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635929/psa" target="_blank">86635929</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2015 Panini Prizm 328 Karl-Anthony Towns
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364668" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">103</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635930/psa" target="_blank">86635930</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2015 Topps Chrome 50 Tom Brady Black Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364669" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">104</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635931/psa" target="_blank">86635931</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2015 Topps Chrome 50 Tom Brady Camo Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364670" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">105</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635932/psa" target="_blank">86635932</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2015 Topps Chrome 50 Tom Brady Blue Wave Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364671" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">106</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635933/psa" target="_blank">86635933</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2015 Topps Chrome 50 Tom Brady Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364672" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">107</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635934/psa" target="_blank">86635934</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2015 Topps Chrome All-Time 4,000 Yard Club TB Tom Brady
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364673" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">108</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635935/psa" target="_blank">86635935</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic Razzle Dazzle 5 LeBron James
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364674" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">109</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635936/psa" target="_blank">86635936</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic Pictographs Mosaic Pmmwp Metta World Peace Black 1/1
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364675" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">110</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635937/psa" target="_blank">86635937</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select 226 LeBron James White Disco
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364676" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">111</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635938/psa" target="_blank">86635938</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2021-2022 Upper Deck UD Canvas C390 Moritz Seider/John-Jason Peterka Black
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364677" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">112</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635939/psa" target="_blank">86635939</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Now Offseason OS26 Shohei Ohtani/Yoshinobu Yamamoto
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364678" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">113</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635940/psa" target="_blank">86635940</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Now Offseason OS26 Shohei Ohtani/Yoshinobu Yamamoto
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364679" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">114</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635941/psa" target="_blank">86635941</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Now Offseason OS26 Shohei Ohtani/Yoshinobu Yamamoto
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364680" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">115</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635942/psa" target="_blank">86635942</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps Now Offseason OS26 Shohei Ohtani/Yoshinobu Yamamoto
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364681" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">116</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635943/psa" target="_blank">86635943</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Topps Chrome Black Autographs GM Greg Maddux Gold Mini Diamond Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364682" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">117</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635944/psa" target="_blank">86635944</a>
+</td>
+<td data-title="Grade">
+VERY GOOD-EXCELLENT 4                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Fossil 14 Raichu-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364683" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">118</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635945/psa" target="_blank">86635945</a>
+</td>
+<td data-title="Grade">
+VERY GOOD-EXCELLENT 4                                    </td>
+<td data-title="Description">
+                                            2000 Pokemon Game Base II 20 Zapdos-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364684" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">119</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635946/psa" target="_blank">86635946</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2020 Panini Chronicles Playoff Momentum Rookies M4 Jordan Love
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364685" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">120</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635947/psa" target="_blank">86635947</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2020 Panini Donruss Optic Downtown DT23 Brett Favre
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364686" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">121</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635948/psa" target="_blank">86635948</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            1991 Upper Deck SP1 Michael Jordan
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364687" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">122</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635949/psa" target="_blank">86635949</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Panini Prizm Draft Picks 2 Victor Wembanyama Purple Wave
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364688" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">123</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635950/psa" target="_blank">86635950</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini NBA Hoops 277 Victor Wembanyama
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364689" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">124</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635951/psa" target="_blank">86635951</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini NBA Hoops 298 Victor Wembanyama
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364690" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">125</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635952/psa" target="_blank">86635952</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            1993 Marvel Universe 3-D Holograms H-IV Spider-Man vs. Venom
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364691" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">126</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635953/psa" target="_blank">86635953</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            1992 Spider-Man the McFarlane Era P-2 Dynamic Prism
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364692" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">127</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635954/psa" target="_blank">86635954</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Bowman Draft Sapphire Edition Sapphire Selections Autograph Ssatt Tommy Troy Orange
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364693" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">128</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635955/psa" target="_blank">86635955</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Bowman's Best Best of 2023 Autographs B23jou James Outman Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364694" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">129</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635956/psa" target="_blank">86635956</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Topps All Aces AA11 Shohei Ohtani
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364695" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">130</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635957/psa" target="_blank">86635957</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2023 Topps All Aces AA51 Nolan Ryan Update
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364696" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">131</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635958/psa" target="_blank">86635958</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Topps All Aces AA64 Bobby Miller Update
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364697" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">132</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635959/psa" target="_blank">86635959</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2018 Panini Donruss 317 Lamar Jackson
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364698" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">133</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635960/psa" target="_blank">86635960</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Panini Donruss 339 CJ Stroud
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364699" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">134</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635961/psa" target="_blank">86635961</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Bowman Draft BDC168 Jackson Holliday Chrome-Refractor
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364700" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">135</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635962/psa" target="_blank">86635962</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2023 Topps MLS 201 Lionel Messi 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364701" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">136</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635963/psa" target="_blank">86635963</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Game 8 Machamp-Holo 1st Edition
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364702" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">137</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635964/psa" target="_blank">86635964</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Jungle 12 Vaporeon-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364703" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">138</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635965/psa" target="_blank">86635965</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Fossil 15 Zapdos-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364704" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">139</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635966/psa" target="_blank">86635966</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            1999 Pokemon Jungle 5 Kangaskhan-Holo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364705" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">140</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635967/psa" target="_blank">86635967</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon CLV-Trading Card Game Classic Venusaur &amp; Lugia EX Deck 016 Snorlax
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364706" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">141</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635968/psa" target="_blank">86635968</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clb-Trading Card Game Classic Blastoise &amp; Suicune EX Deck 014 Mewtwo
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364707" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">142</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635969/psa" target="_blank">86635969</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clb-Trading Card Game Classic Blastoise &amp; Suicune EX Deck 008 Lapras
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364708" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">143</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635970/psa" target="_blank">86635970</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clb-Trading Card Game Classic Blastoise &amp; Suicune EX Deck 007 Gyarados
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364709" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">144</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635971/psa" target="_blank">86635971</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clb-Trading Card Game Classic Blastoise &amp; Suicune EX Deck 009 Articuno
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364710" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">145</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635972/psa" target="_blank">86635972</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clb-Trading Card Game Classic Blastoise &amp; Suicune EX Deck 003 Blastoise
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364711" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">146</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635973/psa" target="_blank">86635973</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon CLV-Trading Card Game Classic Venusaur &amp; Lugia EX Deck 003 Venusaur
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364712" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">147</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635974/psa" target="_blank">86635974</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clc-Trading Card Game Classic Charizard &amp; HO-Oh EX Deck 003 Charizard
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364713" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">148</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635975/psa" target="_blank">86635975</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clc-Trading Card Game Classic Charizard &amp; HO-Oh EX Deck 013 Clefairy
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364714" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">149</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635976/psa" target="_blank">86635976</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clc-Trading Card Game Classic Charizard &amp; HO-Oh EX Deck 012 Zapdos
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364715" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">150</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/86635977/psa" target="_blank">86635977</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2023 Pokemon Clb-Trading Card Game Classic Blastoise &amp; Suicune EX Deck 016 LT. Surge's Raticate
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="153364716" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>

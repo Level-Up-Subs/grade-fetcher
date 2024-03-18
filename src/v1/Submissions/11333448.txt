@@ -1,0 +1,36 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74470693
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2007 UD Exquisite Collection Limited Logos Autograph Patch LL-Bo Chris Bosh
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+</tbody>
+</table>

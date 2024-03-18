@@ -1,0 +1,477 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920045
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 174 Ted Lyons 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920046
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 183 Ted Kluszewski Photo G.Bearden
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920047
+</td>
+<td data-title="Grade">
+GOOD 2                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 140 Bill Dickey 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920048
+</td>
+<td data-title="Grade">
+AA: AUTHENTIC ALTERED                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 179 Yogi Berra 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920049
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 145 Joe DiMaggio 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920050
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 164 Joe Cronin 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920051
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 142 Rogers Hornsby 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920052
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 172 Carl Hubbell 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920053
+</td>
+<td data-title="Grade">
+VERY GOOD 3                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 167 Lloyd Waner 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920054
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 171 Grover Alexander 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920055
+</td>
+<td data-title="Grade">
+POOR 1 MK                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1966 Venezuela Topps 1 Willie Mays
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920056
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 150 Willie Mays
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920057
+</td>
+<td data-title="Grade">
+VERY GOOD 3 MC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1933 Goudey 150 Ray Kolp
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920058
+</td>
+<td data-title="Grade">
+GOOD+ 2.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1933 Goudey 137 Red Lucas
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920059
+</td>
+<td data-title="Grade">
+GOOD 2                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1933 Goudey 177 Walter French 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920060
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1966 Venezuela Topps 110 Ernie Banks 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920061
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1966 Venezuela Topps 225 NL Strikeout Ldrs. Koufax/Veale/Gibson
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920062
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 225 Roger Maris
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920063
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1966 Venezuela Topps 30 Pete Rose
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920064
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1966 Venezuela Topps 160 Whitey Ford
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920065
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1909 E90-1 American Caramel  Oscar Stanage 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920066
+</td>
+<td data-title="Grade">
+GOOD 2                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1968 Venezuela Topps 221 Braves Team 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920067
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1968 Venezuela Topps 225 Richie Allen 
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920068
+</td>
+<td data-title="Grade">
+VERY GOOD 3                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1968 Venezuela Topps 154 World Series Game 4 Gibson Hurls Shutout!
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920069
+</td>
+<td data-title="Grade">
+GOOD 2                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1962 Venezuela Topps 61 Cardinals Team
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920070
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 11 N.L. R.B.I. Leaders H.Aaron/K.Boyer/B.White
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920071
+</td>
+<td data-title="Grade">
+VERY GOOD-EXCELLENT 4 MC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1966 Venezuela Topps 223 NL Pitching Leaders Koufax/Cloninger/Drysdale
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920072
+</td>
+<td data-title="Grade">
+N0: AUTHENTIC                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 260 Frank Robinson
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920073
+</td>
+<td data-title="Grade">
+GOOD 2                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1962 Venezuela Topps 100 Warren Spahn
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920074
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 331 A.L. Bombers Maris/Cash/Mantle/Kaline
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920075
+</td>
+<td data-title="Grade">
+VERY GOOD 3                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 8 AL Batting Leaders Yastrzemski/Kaline/Rollins
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920076
+</td>
+<td data-title="Grade">
+FAIR 1.5                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1964 Venezuela Topps 200 Sandy Koufax
+                                        </td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79920077
+</td>
+<td data-title="Grade">
+POOR 1                                    </td>
+<td data-title="Description" style="width: 50%;">
+                                            1967 Venezuela Topps 307 Lou Brock
+                                        </td>
+
+
+</tr>
+</tbody>
+</table>
