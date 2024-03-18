@@ -110,7 +110,7 @@ max_attempts = 5
 
 # set options for browser
 chrome_options = Options()
-chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+#chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
 chrome_service = Service(CHROMEDRIVER_PATH) # Specify the path to chromedriver executable
 
@@ -126,7 +126,7 @@ while attempts < max_attempts:
         # navigate to PSA login
         driver.get('https://app.collectors.com/signin?b=PSA&r=http://www.psacard.com/myaccount?site%3Dpsa')
         
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 100)
         email_element = wait.until(EC.presence_of_element_located((By.ID, 'email')))
         
         # Find the input element with id="email" and enter an email
@@ -138,7 +138,7 @@ while attempts < max_attempts:
         submit_button.click()
         
         # Wait until the page is loaded
-        wait = WebDriverWait(driver, 10)  # Adjust the timeout as needed
+        wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
         password_element = wait.until(EC.presence_of_element_located((By.ID, 'password')))
         
         # Find the element with id="password" and enter the password
