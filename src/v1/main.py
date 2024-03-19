@@ -110,7 +110,7 @@ max_attempts = 5
 
 # set options for browser
 chrome_options = Options()
-#chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 chrome_options.add_argument('--disable-gpu')
 chrome_service = Service(CHROMEDRIVER_PATH) # Specify the path to chromedriver executable
 
