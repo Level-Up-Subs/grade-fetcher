@@ -1,0 +1,1676 @@
+<table class="table table-transform-thin vertical-middle">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Description</th>
+<th>Status</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr class="report-error-row" data-certno="88085785" data-description="2023 PANINI PRIZM 136 VICTOR WEMBANYAMA" data-itemnumber="1" data-linenumber="1" data-orderlinecerterrorid="">
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085785</td>
+<td data-title="Description">2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963088&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085786" data-description="2023 PANINI PRIZM 339 CJ STROUD SILVER" data-itemnumber="1" data-linenumber="2" data-orderlinecerterrorid="">
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085786</td>
+<td data-title="Description">2023 PANINI PRIZM 339 CJ STROUD SILVER</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963089&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085787" data-description="2023 PANINI PRIZM 339 CJ STROUD GREEN WAVE" data-itemnumber="1" data-linenumber="3" data-orderlinecerterrorid="">
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085787</td>
+<td data-title="Description">2023 PANINI PRIZM 339 CJ STROUD GREEN WAVE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963090&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085788" data-description="2022 TOPPS CHROME UPDATE USC35 BOBBY WITT JR. PURPLE REFRACTOR" data-itemnumber="1" data-linenumber="4" data-orderlinecerterrorid="">
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085788</td>
+<td data-title="Description">2022 TOPPS CHROME UPDATE USC35 BOBBY WITT JR. PURPLE REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963091&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085789" data-description="2023 PANINI PRIZM MONOPOLY 27 AUSAR THOMPSON MONOPOLY RED PATTERN" data-itemnumber="1" data-linenumber="5" data-orderlinecerterrorid="">
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085789</td>
+<td data-title="Description">2023 PANINI PRIZM MONOPOLY 27 AUSAR THOMPSON MONOPOLY RED PATTERN</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963092&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085790" data-description="2021 PANINI DONRUSS OPTIC 169 ALPEREN SENGUN BLUE VELOCITY" data-itemnumber="1" data-linenumber="6" data-orderlinecerterrorid="">
+<td data-title="Line #">6</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085790</td>
+<td data-title="Description">2021 PANINI DONRUSS OPTIC 169 ALPEREN SENGUN BLUE VELOCITY</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963093&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085791" data-description="2022 PANINI PRIZM 249 PAOLO BANCHERO GREEN PRIZM" data-itemnumber="1" data-linenumber="7" data-orderlinecerterrorid="">
+<td data-title="Line #">7</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085791</td>
+<td data-title="Description">2022 PANINI PRIZM 249 PAOLO BANCHERO GREEN PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963094&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085792" data-description="2022 PANINI PRIZM 246 JALEN WILLIAMS GREEN PRIZM" data-itemnumber="1" data-linenumber="8" data-orderlinecerterrorid="">
+<td data-title="Line #">8</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085792</td>
+<td data-title="Description">2022 PANINI PRIZM 246 JALEN WILLIAMS GREEN PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963095&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085793" data-description="2022 PANINI PRIZM 268 MARJON BEAUCHAMP GREEN PRIZM" data-itemnumber="1" data-linenumber="9" data-orderlinecerterrorid="">
+<td data-title="Line #">9</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085793</td>
+<td data-title="Description">2022 PANINI PRIZM 268 MARJON BEAUCHAMP GREEN PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963096&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085794" data-description="2004 TOPPS CHROME 192 SASHA VUJACIC " data-itemnumber="1" data-linenumber="10" data-orderlinecerterrorid="">
+<td data-title="Line #">10</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085794</td>
+<td data-title="Description">2004 TOPPS CHROME 192 SASHA VUJACIC </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963097&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085795" data-description="2004 TOPPS CHROME 192 SASHA VUJACIC " data-itemnumber="1" data-linenumber="11" data-orderlinecerterrorid="">
+<td data-title="Line #">11</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085795</td>
+<td data-title="Description">2004 TOPPS CHROME 192 SASHA VUJACIC </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963098&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085796" data-description="2004 TOPPS CHROME 192 SASHA VUJACIC REFRACTOR" data-itemnumber="1" data-linenumber="12" data-orderlinecerterrorid="">
+<td data-title="Line #">12</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085796</td>
+<td data-title="Description">2004 TOPPS CHROME 192 SASHA VUJACIC REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963099&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085797" data-description="2004 TOPPS CHROME 192 SASHA VUJACIC X-FRACTOR" data-itemnumber="1" data-linenumber="13" data-orderlinecerterrorid="">
+<td data-title="Line #">13</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085797</td>
+<td data-title="Description">2004 TOPPS CHROME 192 SASHA VUJACIC X-FRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963100&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085798" data-description="2004 TOPPS CHROME 192 SASHA VUJACIC BLACK REFRACTOR" data-itemnumber="1" data-linenumber="14" data-orderlinecerterrorid="">
+<td data-title="Line #">14</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085798</td>
+<td data-title="Description">2004 TOPPS CHROME 192 SASHA VUJACIC BLACK REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963101&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085799" data-description="2004 TOPPS CHROME 192 SASHA VUJACIC GOLD REFRACTOR" data-itemnumber="1" data-linenumber="15" data-orderlinecerterrorid="">
+<td data-title="Line #">15</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085799</td>
+<td data-title="Description">2004 TOPPS CHROME 192 SASHA VUJACIC GOLD REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963102&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085800" data-description="2023 PANINI PRIZM 343 ANTHONY RICHARDSON PANDORA" data-itemnumber="1" data-linenumber="16" data-orderlinecerterrorid="">
+<td data-title="Line #">16</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085800</td>
+<td data-title="Description">2023 PANINI PRIZM 343 ANTHONY RICHARDSON PANDORA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963103&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085801" data-description="2023 PANINI PRIZM 343 ANTHONY RICHARDSON PANDORA" data-itemnumber="1" data-linenumber="17" data-orderlinecerterrorid="">
+<td data-title="Line #">17</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085801</td>
+<td data-title="Description">2023 PANINI PRIZM 343 ANTHONY RICHARDSON PANDORA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963104&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085802" data-description="2023 PANINI PRIZM 311 BRYCE YOUNG PANDORA" data-itemnumber="1" data-linenumber="18" data-orderlinecerterrorid="">
+<td data-title="Line #">18</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085802</td>
+<td data-title="Description">2023 PANINI PRIZM 311 BRYCE YOUNG PANDORA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963105&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085803" data-description="2023 PANINI PRIZM 311 BRYCE YOUNG PANDORA" data-itemnumber="1" data-linenumber="19" data-orderlinecerterrorid="">
+<td data-title="Line #">19</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085803</td>
+<td data-title="Description">2023 PANINI PRIZM 311 BRYCE YOUNG PANDORA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963106&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085804" data-description="2023 PANINI PRIZM 311 BRYCE YOUNG PANDORA" data-itemnumber="1" data-linenumber="20" data-orderlinecerterrorid="">
+<td data-title="Line #">20</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085804</td>
+<td data-title="Description">2023 PANINI PRIZM 311 BRYCE YOUNG PANDORA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963107&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085805" data-description="2023 PANINI PRIZM 139 CASON WALLACE RUBY WAVE" data-itemnumber="1" data-linenumber="21" data-orderlinecerterrorid="">
+<td data-title="Line #">21</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085805</td>
+<td data-title="Description">2023 PANINI PRIZM 139 CASON WALLACE RUBY WAVE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963108&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085806" data-description="2021 PANINI SELECT 19 ALPEREN SENGUN NEON GREEN PRIZM" data-itemnumber="1" data-linenumber="22" data-orderlinecerterrorid="">
+<td data-title="Line #">22</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085806</td>
+<td data-title="Description">2021 PANINI SELECT 19 ALPEREN SENGUN NEON GREEN PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963109&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085807" data-description="1996 COLLECTOR'S CHOICE MINI II JERMAINE O'NEAL/KOBE BRYANT/KEVIN GARNETT MINI II-GOLD" data-itemnumber="1" data-linenumber="23" data-orderlinecerterrorid="">
+<td data-title="Line #">23</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085807</td>
+<td data-title="Description">1996 COLLECTOR'S CHOICE MINI II JERMAINE O'NEAL/KOBE BRYANT/KEVIN GARNETT MINI II-GOLD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963110&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085808" data-description="1996 COLLECTOR'S CHOICE 267 KOBE BRYANT" data-itemnumber="1" data-linenumber="24" data-orderlinecerterrorid="">
+<td data-title="Line #">24</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085808</td>
+<td data-title="Description">1996 COLLECTOR'S CHOICE 267 KOBE BRYANT</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963111&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085809" data-description="2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS" data-itemnumber="1" data-linenumber="25" data-orderlinecerterrorid="">
+<td data-title="Line #">25</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085809</td>
+<td data-title="Description">2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963112&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085810" data-description="2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS" data-itemnumber="1" data-linenumber="26" data-orderlinecerterrorid="">
+<td data-title="Line #">26</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085810</td>
+<td data-title="Description">2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963113&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085811" data-description="2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS" data-itemnumber="1" data-linenumber="27" data-orderlinecerterrorid="">
+<td data-title="Line #">27</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085811</td>
+<td data-title="Description">2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963114&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085812" data-description="2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS" data-itemnumber="1" data-linenumber="28" data-orderlinecerterrorid="">
+<td data-title="Line #">28</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085812</td>
+<td data-title="Description">2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963115&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085813" data-description="2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS" data-itemnumber="1" data-linenumber="29" data-orderlinecerterrorid="">
+<td data-title="Line #">29</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085813</td>
+<td data-title="Description">2019 POKEMON SM BLACK STAR PROMO SM193 FULL ART/GARCHOMP &amp; GIRATINA GX POWER PARTNERSHIP TINS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963116&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085814" data-description="2017 POKEMON MEGA POWERS COLLECTION PROMO 55a FULL ART/M LUCARIO EX" data-itemnumber="1" data-linenumber="30" data-orderlinecerterrorid="">
+<td data-title="Line #">30</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085814</td>
+<td data-title="Description">2017 POKEMON MEGA POWERS COLLECTION PROMO 55a FULL ART/M LUCARIO EX</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963117&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085815" data-description="2019 POKEMON SM BLACK STAR PROMO SM167 FULL ART/CELEBI &amp; VENUSAUR GX TAG TEAM TINS" data-itemnumber="1" data-linenumber="31" data-orderlinecerterrorid="">
+<td data-title="Line #">31</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085815</td>
+<td data-title="Description">2019 POKEMON SM BLACK STAR PROMO SM167 FULL ART/CELEBI &amp; VENUSAUR GX TAG TEAM TINS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963118&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085816" data-description="2023 POKEMON JAPANESE SV-P PROMO 098 DETECTIVE PIKACHU DETECTIVE PIKACHU RETURNS PRE-ORDER" data-itemnumber="1" data-linenumber="32" data-orderlinecerterrorid="">
+<td data-title="Line #">32</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085816</td>
+<td data-title="Description">2023 POKEMON JAPANESE SV-P PROMO 098 DETECTIVE PIKACHU DETECTIVE PIKACHU RETURNS PRE-ORDER</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963119&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085817" data-description="2015 POKEMON XY BREAKTHROUGH 161 FULL ART/BRIGETTE" data-itemnumber="1" data-linenumber="33" data-orderlinecerterrorid="">
+<td data-title="Line #">33</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085817</td>
+<td data-title="Description">2015 POKEMON XY BREAKTHROUGH 161 FULL ART/BRIGETTE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963120&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085818" data-description="2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPACM CRISTIAN MENA BLUE RAYWAVE" data-itemnumber="1" data-linenumber="34" data-orderlinecerterrorid="">
+<td data-title="Line #">34</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085818</td>
+<td data-title="Description">2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPACM CRISTIAN MENA BLUE RAYWAVE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963121&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085819" data-description="2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAMVA MARCO VARGAS SPECKLE" data-itemnumber="1" data-linenumber="35" data-orderlinecerterrorid="">
+<td data-title="Line #">35</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085819</td>
+<td data-title="Description">2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAMVA MARCO VARGAS SPECKLE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963122&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085820" data-description="2023 ONE PIECE AWAKENING OF THE NEW ERA 069 TRAFALGAR LAW" data-itemnumber="1" data-linenumber="36" data-orderlinecerterrorid="">
+<td data-title="Line #">36</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085820</td>
+<td data-title="Description">2023 ONE PIECE AWAKENING OF THE NEW ERA 069 TRAFALGAR LAW</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963123&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085821" data-description="2023 ONE PIECE AWAKENING OF THE NEW ERA 100 ENEL" data-itemnumber="1" data-linenumber="37" data-orderlinecerterrorid="">
+<td data-title="Line #">37</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085821</td>
+<td data-title="Description">2023 ONE PIECE AWAKENING OF THE NEW ERA 100 ENEL</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963124&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085822" data-description="2023 ONE PIECE AWAKENING OF THE NEW ERA 091 REBECCA" data-itemnumber="1" data-linenumber="38" data-orderlinecerterrorid="">
+<td data-title="Line #">38</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085822</td>
+<td data-title="Description">2023 ONE PIECE AWAKENING OF THE NEW ERA 091 REBECCA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963125&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085823" data-description="2023 ONE PIECE AWAKENING OF THE NEW ERA 034 BABY 5 ALTERNATE ART" data-itemnumber="1" data-linenumber="39" data-orderlinecerterrorid="">
+<td data-title="Line #">39</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085823</td>
+<td data-title="Description">2023 ONE PIECE AWAKENING OF THE NEW ERA 034 BABY 5 ALTERNATE ART</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963126&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085824" data-description="2023 ONE PIECE AWAKENING OF THE NEW ERA 119 MONKEY D. LUFFY" data-itemnumber="1" data-linenumber="40" data-orderlinecerterrorid="">
+<td data-title="Line #">40</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085824</td>
+<td data-title="Description">2023 ONE PIECE AWAKENING OF THE NEW ERA 119 MONKEY D. LUFFY</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963127&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085825" data-description="2023 ONE PIECE AWAKENING OF THE NEW ERA 069 TRAFALGAR LAW ALTERNATE ART" data-itemnumber="1" data-linenumber="41" data-orderlinecerterrorid="">
+<td data-title="Line #">41</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085825</td>
+<td data-title="Description">2023 ONE PIECE AWAKENING OF THE NEW ERA 069 TRAFALGAR LAW ALTERNATE ART</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963128&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085826" data-description="2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAKH KYLE HARRISON MAGENTA PRINTING PLATE 1/1" data-itemnumber="1" data-linenumber="42" data-orderlinecerterrorid="">
+<td data-title="Line #">42</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085826</td>
+<td data-title="Description">2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAKH KYLE HARRISON MAGENTA PRINTING PLATE 1/1</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963129&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085827" data-description="2020 BOWMAN CHROME PROSPECTS BCP139 ANTHONY VOLPE" data-itemnumber="1" data-linenumber="43" data-orderlinecerterrorid="">
+<td data-title="Line #">43</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085827</td>
+<td data-title="Description">2020 BOWMAN CHROME PROSPECTS BCP139 ANTHONY VOLPE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963130&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085828" data-description="2023 BOWMAN DRAFT MOOD RING MR3 WYATT LANGFORD" data-itemnumber="1" data-linenumber="44" data-orderlinecerterrorid="">
+<td data-title="Line #">44</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085828</td>
+<td data-title="Description">2023 BOWMAN DRAFT MOOD RING MR3 WYATT LANGFORD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963131&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085829" data-description="2020 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAED EZEQUIEL DURAN " data-itemnumber="1" data-linenumber="45" data-orderlinecerterrorid="">
+<td data-title="Line #">45</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085829</td>
+<td data-title="Description">2020 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAED EZEQUIEL DURAN </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963132&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085830" data-description="2022 BOWMAN CHROME PROSPECT AUTOGRAPHS CPALB LEONARDO BALCAZAR REFRACTOR" data-itemnumber="1" data-linenumber="46" data-orderlinecerterrorid="">
+<td data-title="Line #">46</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085830</td>
+<td data-title="Description">2022 BOWMAN CHROME PROSPECT AUTOGRAPHS CPALB LEONARDO BALCAZAR REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963133&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085831" data-description="2023 PANINI PRIZM 392 ZACH CHARBONNET NAVY CAMO" data-itemnumber="1" data-linenumber="47" data-orderlinecerterrorid="">
+<td data-title="Line #">47</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085831</td>
+<td data-title="Description">2023 PANINI PRIZM 392 ZACH CHARBONNET NAVY CAMO</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963134&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085832" data-description="2022 BOWMAN CHROME PROSPECTS BCP79 JACKSON CHOURIO" data-itemnumber="1" data-linenumber="48" data-orderlinecerterrorid="">
+<td data-title="Line #">48</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085832</td>
+<td data-title="Description">2022 BOWMAN CHROME PROSPECTS BCP79 JACKSON CHOURIO</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963135&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085833" data-description="2022 BOWMAN DRAFT BDC168 JACKSON HOLLIDAY CHROME" data-itemnumber="1" data-linenumber="49" data-orderlinecerterrorid="">
+<td data-title="Line #">49</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085833</td>
+<td data-title="Description">2022 BOWMAN DRAFT BDC168 JACKSON HOLLIDAY CHROME</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963136&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085834" data-description="2023 PANINI PRIZM 314 ZACH CHARBONNET VARIATION" data-itemnumber="1" data-linenumber="50" data-orderlinecerterrorid="">
+<td data-title="Line #">50</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085834</td>
+<td data-title="Description">2023 PANINI PRIZM 314 ZACH CHARBONNET VARIATION</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963137&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085835" data-description="2023 PANINI PRIZM 322 DORIAN THOMPSON-ROBINSON DISCO" data-itemnumber="1" data-linenumber="51" data-orderlinecerterrorid="">
+<td data-title="Line #">51</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085835</td>
+<td data-title="Description">2023 PANINI PRIZM 322 DORIAN THOMPSON-ROBINSON DISCO</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963138&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085836" data-description="2023 PANINI PRIZM 322 DORIAN THOMPSON-ROBINSON DISCO" data-itemnumber="1" data-linenumber="52" data-orderlinecerterrorid="">
+<td data-title="Line #">52</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085836</td>
+<td data-title="Description">2023 PANINI PRIZM 322 DORIAN THOMPSON-ROBINSON DISCO</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963139&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085837" data-description="2023 PANINI PRIZM 339 CJ STROUD RED/WHITE/BLUE" data-itemnumber="1" data-linenumber="53" data-orderlinecerterrorid="">
+<td data-title="Line #">53</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085837</td>
+<td data-title="Description">2023 PANINI PRIZM 339 CJ STROUD RED/WHITE/BLUE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963140&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085838" data-description="2023 PANINI PRIZM 397 WILL LEVIS RED/WHITE/BLUE" data-itemnumber="1" data-linenumber="54" data-orderlinecerterrorid="">
+<td data-title="Line #">54</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085838</td>
+<td data-title="Description">2023 PANINI PRIZM 397 WILL LEVIS RED/WHITE/BLUE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963141&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085839" data-description="2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA PURPLE" data-itemnumber="1" data-linenumber="55" data-orderlinecerterrorid="">
+<td data-title="Line #">55</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085839</td>
+<td data-title="Description">2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA PURPLE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963142&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085840" data-description="2021 PANINI MOSAIC 247 JA’MARR CHASE REACTIVE ORANGE" data-itemnumber="1" data-linenumber="56" data-orderlinecerterrorid="">
+<td data-title="Line #">56</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085840</td>
+<td data-title="Description">2021 PANINI MOSAIC 247 JA’MARR CHASE REACTIVE ORANGE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963143&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085841" data-description="2021 PANINI MOSAIC 328 AMON-RA ST. BROWN CAMO PINK" data-itemnumber="1" data-linenumber="57" data-orderlinecerterrorid="">
+<td data-title="Line #">57</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085841</td>
+<td data-title="Description">2021 PANINI MOSAIC 328 AMON-RA ST. BROWN CAMO PINK</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963144&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085842" data-description="2020 PANINI SELECT 57 CEEDEE LAMB DIE-CUT PURPLE PRIZM" data-itemnumber="1" data-linenumber="58" data-orderlinecerterrorid="">
+<td data-title="Line #">58</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085842</td>
+<td data-title="Description">2020 PANINI SELECT 57 CEEDEE LAMB DIE-CUT PURPLE PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963145&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085843" data-description="2021 BOWMAN DRAFT BDC93 GAVIN WILLIAMS CHROME-BLACK &amp; WHITE RAYWAVE REFRACTOR" data-itemnumber="1" data-linenumber="59" data-orderlinecerterrorid="">
+<td data-title="Line #">59</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085843</td>
+<td data-title="Description">2021 BOWMAN DRAFT BDC93 GAVIN WILLIAMS CHROME-BLACK &amp; WHITE RAYWAVE REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963146&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085844" data-description="2021 BOWMAN MEGA BOX CHROME BCP97 KEVIN ALCANTARA" data-itemnumber="1" data-linenumber="60" data-orderlinecerterrorid="">
+<td data-title="Line #">60</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085844</td>
+<td data-title="Description">2021 BOWMAN MEGA BOX CHROME BCP97 KEVIN ALCANTARA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963147&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085845" data-description="2021 TOPPS NOW 340B JACOB DeGROM AUTOGRAPH-BLUE" data-itemnumber="1" data-linenumber="61" data-orderlinecerterrorid="">
+<td data-title="Line #">61</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085845</td>
+<td data-title="Description">2021 TOPPS NOW 340B JACOB DeGROM AUTOGRAPH-BLUE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963148&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085846" data-description="2022 PANINI FLUX 93 CADE CUNNINGHAM LUNAR ECLIPSE" data-itemnumber="1" data-linenumber="62" data-orderlinecerterrorid="">
+<td data-title="Line #">62</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085846</td>
+<td data-title="Description">2022 PANINI FLUX 93 CADE CUNNINGHAM LUNAR ECLIPSE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963149&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085847" data-description="2022 BOWMAN CHROME UNIVERSITY 34 GG JACKSON BLUE REFRACTOR" data-itemnumber="1" data-linenumber="63" data-orderlinecerterrorid="">
+<td data-title="Line #">63</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085847</td>
+<td data-title="Description">2022 BOWMAN CHROME UNIVERSITY 34 GG JACKSON BLUE REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963150&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085848" data-description="2021 TOPPS CHROME OVERTIME ELITE 81 AMEN THOMPSON AQUA/GREEN OTE" data-itemnumber="1" data-linenumber="64" data-orderlinecerterrorid="">
+<td data-title="Line #">64</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085848</td>
+<td data-title="Description">2021 TOPPS CHROME OVERTIME ELITE 81 AMEN THOMPSON AQUA/GREEN OTE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963151&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085849" data-description="2022 PANINI PRIZM 227 ANDREW NEMBHARD PURPLE ICE" data-itemnumber="1" data-linenumber="65" data-orderlinecerterrorid="">
+<td data-title="Line #">65</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085849</td>
+<td data-title="Description">2022 PANINI PRIZM 227 ANDREW NEMBHARD PURPLE ICE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963152&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085850" data-description="2022 PANINI DONRUSS OPTIC 222 MALAKI BRANHAM LIME GREEN" data-itemnumber="1" data-linenumber="66" data-orderlinecerterrorid="">
+<td data-title="Line #">66</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085850</td>
+<td data-title="Description">2022 PANINI DONRUSS OPTIC 222 MALAKI BRANHAM LIME GREEN</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963153&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085851" data-description="2022 PANINI DONRUSS OPTIC ROOKIE OPTICS AUTOGRAPHS ROAJDH JADEN HARDY " data-itemnumber="1" data-linenumber="67" data-orderlinecerterrorid="">
+<td data-title="Line #">67</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085851</td>
+<td data-title="Description">2022 PANINI DONRUSS OPTIC ROOKIE OPTICS AUTOGRAPHS ROAJDH JADEN HARDY </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963154&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085852" data-description="2022 PANINI CHRONICLES 600 JEREMY SOCHAN PURPLE" data-itemnumber="1" data-linenumber="68" data-orderlinecerterrorid="">
+<td data-title="Line #">68</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085852</td>
+<td data-title="Description">2022 PANINI CHRONICLES 600 JEREMY SOCHAN PURPLE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963155&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085853" data-description="2019 PANINI HOOPS PREMIUM STOCK 299 De'ANDRE HUNTER GOLD CRACKED ICE" data-itemnumber="1" data-linenumber="69" data-orderlinecerterrorid="">
+<td data-title="Line #">69</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085853</td>
+<td data-title="Description">2019 PANINI HOOPS PREMIUM STOCK 299 De'ANDRE HUNTER GOLD CRACKED ICE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963156&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085854" data-description="2022 PANINI SELECT 83 CHET HOLMGREN RED CRACKED ICE" data-itemnumber="1" data-linenumber="70" data-orderlinecerterrorid="">
+<td data-title="Line #">70</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085854</td>
+<td data-title="Description">2022 PANINI SELECT 83 CHET HOLMGREN RED CRACKED ICE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963157&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085855" data-description="2023 PANINI PRIZM 397 WILL LEVIS" data-itemnumber="1" data-linenumber="71" data-orderlinecerterrorid="">
+<td data-title="Line #">71</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085855</td>
+<td data-title="Description">2023 PANINI PRIZM 397 WILL LEVIS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963158&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085856" data-description="2023 PANINI PHOENIX FIRE FORGED FF6 CJ STROUD" data-itemnumber="1" data-linenumber="72" data-orderlinecerterrorid="">
+<td data-title="Line #">72</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085856</td>
+<td data-title="Description">2023 PANINI PHOENIX FIRE FORGED FF6 CJ STROUD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963159&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085857" data-description="2023 PANINI PHOENIX 102 CJ STROUD SILVER" data-itemnumber="1" data-linenumber="73" data-orderlinecerterrorid="">
+<td data-title="Line #">73</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085857</td>
+<td data-title="Description">2023 PANINI PHOENIX 102 CJ STROUD SILVER</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963160&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085858" data-description="2023 PANINI DONRUSS 343 ANTHONY RICHARDSON" data-itemnumber="1" data-linenumber="74" data-orderlinecerterrorid="">
+<td data-title="Line #">74</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085858</td>
+<td data-title="Description">2023 PANINI DONRUSS 343 ANTHONY RICHARDSON</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963161&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085859" data-description="2022 PANINI CHRONICLES LUMINANCE UPDATE ROOKIES 213 BROCK PURDY" data-itemnumber="1" data-linenumber="75" data-orderlinecerterrorid="">
+<td data-title="Line #">75</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085859</td>
+<td data-title="Description">2022 PANINI CHRONICLES LUMINANCE UPDATE ROOKIES 213 BROCK PURDY</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963162&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085860" data-description="2023 PANINI PRIZM UFC 172 MERAB DVALISHVILI UNDERCARD PRIZM" data-itemnumber="1" data-linenumber="76" data-orderlinecerterrorid="">
+<td data-title="Line #">76</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085860</td>
+<td data-title="Description">2023 PANINI PRIZM UFC 172 MERAB DVALISHVILI UNDERCARD PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963163&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085861" data-description="2021 PANINI ILLUSIONS 62 JUSTIN FIELDS" data-itemnumber="1" data-linenumber="77" data-orderlinecerterrorid="">
+<td data-title="Line #">77</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085861</td>
+<td data-title="Description">2021 PANINI ILLUSIONS 62 JUSTIN FIELDS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963164&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085862" data-description="2022 PANINI PRIZM 273 TOM BRADY RED/WHITE/BLUE" data-itemnumber="1" data-linenumber="78" data-orderlinecerterrorid="">
+<td data-title="Line #">78</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085862</td>
+<td data-title="Description">2022 PANINI PRIZM 273 TOM BRADY RED/WHITE/BLUE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963165&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085863" data-description="2021 PANINI ILLUSIONS 59 TREVOR LAWRENCE" data-itemnumber="1" data-linenumber="79" data-orderlinecerterrorid="">
+<td data-title="Line #">79</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085863</td>
+<td data-title="Description">2021 PANINI ILLUSIONS 59 TREVOR LAWRENCE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963166&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085864" data-description="2021 PANINI DONRUSS RETRO 1991 91-31 PATRICK MAHOMES II" data-itemnumber="1" data-linenumber="80" data-orderlinecerterrorid="">
+<td data-title="Line #">80</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085864</td>
+<td data-title="Description">2021 PANINI DONRUSS RETRO 1991 91-31 PATRICK MAHOMES II</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963167&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085865" data-description="2022 TOPPS STADIUM CLUB 2 BOBBY WITT JR. SEPIA" data-itemnumber="1" data-linenumber="81" data-orderlinecerterrorid="">
+<td data-title="Line #">81</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085865</td>
+<td data-title="Description">2022 TOPPS STADIUM CLUB 2 BOBBY WITT JR. SEPIA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963168&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085866" data-description="2010 PANINI TOTALLY CERTIFIED 106 DeMAR DeROZAN RED" data-itemnumber="1" data-linenumber="82" data-orderlinecerterrorid="">
+<td data-title="Line #">82</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085866</td>
+<td data-title="Description">2010 PANINI TOTALLY CERTIFIED 106 DeMAR DeROZAN RED</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963169&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085867" data-description="2009 SP GAME USED MULTI MARKS TRIPLE AL THORNTON/LaMARCUS ALDRIDGE/CHRIS BOSH" data-itemnumber="1" data-linenumber="83" data-orderlinecerterrorid="">
+<td data-title="Line #">83</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085867</td>
+<td data-title="Description">2009 SP GAME USED MULTI MARKS TRIPLE AL THORNTON/LaMARCUS ALDRIDGE/CHRIS BOSH</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963170&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085868" data-description="1989 UPPER DECK 1 KEN GRIFFEY JR. STAR ROOKIE" data-itemnumber="1" data-linenumber="84" data-orderlinecerterrorid="">
+<td data-title="Line #">84</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085868</td>
+<td data-title="Description">1989 UPPER DECK 1 KEN GRIFFEY JR. STAR ROOKIE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963171&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085869" data-description="1993 TOPPS GOLD 98 DEREK JETER " data-itemnumber="1" data-linenumber="85" data-orderlinecerterrorid="">
+<td data-title="Line #">85</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085869</td>
+<td data-title="Description">1993 TOPPS GOLD 98 DEREK JETER </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963172&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085870" data-description="1993 TOPPS GOLD 700 NOLAN RYAN " data-itemnumber="1" data-linenumber="86" data-orderlinecerterrorid="">
+<td data-title="Line #">86</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085870</td>
+<td data-title="Description">1993 TOPPS GOLD 700 NOLAN RYAN </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963173&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085871" data-description="2023 BOWMAN MEGA BOX CHROME 145 XAVIER ISAAC" data-itemnumber="1" data-linenumber="87" data-orderlinecerterrorid="">
+<td data-title="Line #">87</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085871</td>
+<td data-title="Description">2023 BOWMAN MEGA BOX CHROME 145 XAVIER ISAAC</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963174&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085872" data-description="2022 BOWMAN CHROME PROSPECT AUTOGRAPHS CPASM SAMUEL MUNOZ " data-itemnumber="1" data-linenumber="88" data-orderlinecerterrorid="">
+<td data-title="Line #">88</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085872</td>
+<td data-title="Description">2022 BOWMAN CHROME PROSPECT AUTOGRAPHS CPASM SAMUEL MUNOZ </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963175&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085873" data-description="2022 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAAG ANTHONY GUTIERREZ" data-itemnumber="1" data-linenumber="89" data-orderlinecerterrorid="">
+<td data-title="Line #">89</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085873</td>
+<td data-title="Description">2022 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAAG ANTHONY GUTIERREZ</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963176&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085874" data-description="2023 BOWMAN DRAFT CHROME PROSPECT AUTOGRAPH CDACE COLT EMERSON" data-itemnumber="1" data-linenumber="90" data-orderlinecerterrorid="">
+<td data-title="Line #">90</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085874</td>
+<td data-title="Description">2023 BOWMAN DRAFT CHROME PROSPECT AUTOGRAPH CDACE COLT EMERSON</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963177&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085875" data-description="2023 BOWMAN DRAFT CHROME PROSPECT AUTOGRAPH CDAHB HOMER BUSH JR." data-itemnumber="1" data-linenumber="91" data-orderlinecerterrorid="">
+<td data-title="Line #">91</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085875</td>
+<td data-title="Description">2023 BOWMAN DRAFT CHROME PROSPECT AUTOGRAPH CDAHB HOMER BUSH JR.</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963178&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085876" data-description="2023 BOWMAN MEGA BOX CHROME 58 LAZARO MONTES" data-itemnumber="1" data-linenumber="92" data-orderlinecerterrorid="">
+<td data-title="Line #">92</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085876</td>
+<td data-title="Description">2023 BOWMAN MEGA BOX CHROME 58 LAZARO MONTES</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963179&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085877" data-description="2023 BOWMAN MEGA BOX CHROME 58 LAZARO MONTES" data-itemnumber="1" data-linenumber="93" data-orderlinecerterrorid="">
+<td data-title="Line #">93</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085877</td>
+<td data-title="Description">2023 BOWMAN MEGA BOX CHROME 58 LAZARO MONTES</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963180&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085878" data-description="2021 BOWMAN DRAFT BDC194 JORDAN LAWLAR CHROME-REFRACTOR" data-itemnumber="1" data-linenumber="94" data-orderlinecerterrorid="">
+<td data-title="Line #">94</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085878</td>
+<td data-title="Description">2021 BOWMAN DRAFT BDC194 JORDAN LAWLAR CHROME-REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963181&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085879" data-description="2023 LEAF POP CENTURY INFLUENCER IA-13 DILLON THE PICKLE AUTOGRAPH" data-itemnumber="1" data-linenumber="95" data-orderlinecerterrorid="">
+<td data-title="Line #">95</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085879</td>
+<td data-title="Description">2023 LEAF POP CENTURY INFLUENCER IA-13 DILLON THE PICKLE AUTOGRAPH</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963182&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085880" data-description="2023 PANINI PRIZM 161 TAYLOR HENDRICKS SILVER" data-itemnumber="1" data-linenumber="96" data-orderlinecerterrorid="">
+<td data-title="Line #">96</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085880</td>
+<td data-title="Description">2023 PANINI PRIZM 161 TAYLOR HENDRICKS SILVER</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963183&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085881" data-description="2022 PANINI DONRUSS OPTIC 69 LAURI MARKKANEN GOLD SPARKLE" data-itemnumber="1" data-linenumber="97" data-orderlinecerterrorid="">
+<td data-title="Line #">97</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085881</td>
+<td data-title="Description">2022 PANINI DONRUSS OPTIC 69 LAURI MARKKANEN GOLD SPARKLE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963184&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085882" data-description="2022 PANINI DONRUSS OPTIC ROOKIE OPTICS AUTOGRAPHS ROAJWL JALEN WILLIAMS " data-itemnumber="1" data-linenumber="98" data-orderlinecerterrorid="">
+<td data-title="Line #">98</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085882</td>
+<td data-title="Description">2022 PANINI DONRUSS OPTIC ROOKIE OPTICS AUTOGRAPHS ROAJWL JALEN WILLIAMS </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963185&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085883" data-description="2023 BOWMAN UNIVERSITY CHROME RAMBLIN' MAN AUTOGRAPHS RMAXW XAVIER WORTHY GOLD" data-itemnumber="1" data-linenumber="99" data-orderlinecerterrorid="">
+<td data-title="Line #">99</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085883</td>
+<td data-title="Description">2023 BOWMAN UNIVERSITY CHROME RAMBLIN' MAN AUTOGRAPHS RMAXW XAVIER WORTHY GOLD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963186&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085884" data-description="2023 PANINI MOSAIC 325 JAKE HAENER AUTOGRAPH-BLUE" data-itemnumber="1" data-linenumber="100" data-orderlinecerterrorid="">
+<td data-title="Line #">100</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085884</td>
+<td data-title="Description">2023 PANINI MOSAIC 325 JAKE HAENER AUTOGRAPH-BLUE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963187&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085885" data-description="2023 PANINI PRIZM 302 CLAYTON TUNE ORANGE WAVE" data-itemnumber="1" data-linenumber="101" data-orderlinecerterrorid="">
+<td data-title="Line #">101</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085885</td>
+<td data-title="Description">2023 PANINI PRIZM 302 CLAYTON TUNE ORANGE WAVE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963188&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085886" data-description="2023 PANINI PRIZM 311 BRYCE YOUNG SILVER" data-itemnumber="1" data-linenumber="102" data-orderlinecerterrorid="">
+<td data-title="Line #">102</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085886</td>
+<td data-title="Description">2023 PANINI PRIZM 311 BRYCE YOUNG SILVER</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963189&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085887" data-description="2023 PANINI PRIZM 178 AUSAR THOMPSON SILVER" data-itemnumber="1" data-linenumber="103" data-orderlinecerterrorid="">
+<td data-title="Line #">103</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085887</td>
+<td data-title="Description">2023 PANINI PRIZM 178 AUSAR THOMPSON SILVER</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963190&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085888" data-description="2019 PANINI MOSAIC AUTOGRAPHS FAST BREAK FBGAN GIANNIS ANTETOKOUNMPO" data-itemnumber="1" data-linenumber="104" data-orderlinecerterrorid="">
+<td data-title="Line #">104</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085888</td>
+<td data-title="Description">2019 PANINI MOSAIC AUTOGRAPHS FAST BREAK FBGAN GIANNIS ANTETOKOUNMPO</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963191&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085889" data-description="1998 TOPPS 352 RANDY MOSS" data-itemnumber="1" data-linenumber="105" data-orderlinecerterrorid="">
+<td data-title="Line #">105</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085889</td>
+<td data-title="Description">1998 TOPPS 352 RANDY MOSS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963192&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085890" data-description="2018 BOWMAN PROSPECTS CHROME 21 LUIS ROBERT " data-itemnumber="1" data-linenumber="106" data-orderlinecerterrorid="">
+<td data-title="Line #">106</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085890</td>
+<td data-title="Description">2018 BOWMAN PROSPECTS CHROME 21 LUIS ROBERT </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963193&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085891" data-description="2023 BOWMAN STERLING BSR29 MAIKEL GARCIA BLACK LAVA" data-itemnumber="1" data-linenumber="107" data-orderlinecerterrorid="">
+<td data-title="Line #">107</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085891</td>
+<td data-title="Description">2023 BOWMAN STERLING BSR29 MAIKEL GARCIA BLACK LAVA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963194&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085892" data-description="2023 TOPPS HERITAGE 599 ANTHONY VOLPE CHROME-PURPLE HOT BOX REFRACTOR" data-itemnumber="1" data-linenumber="108" data-orderlinecerterrorid="">
+<td data-title="Line #">108</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085892</td>
+<td data-title="Description">2023 TOPPS HERITAGE 599 ANTHONY VOLPE CHROME-PURPLE HOT BOX REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963195&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085893" data-description="2023 PANINI MOSAIC 292 CJ STROUD" data-itemnumber="1" data-linenumber="109" data-orderlinecerterrorid="">
+<td data-title="Line #">109</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085893</td>
+<td data-title="Description">2023 PANINI MOSAIC 292 CJ STROUD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963196&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085894" data-description="2023 PANINI PRIZM FIREWORKS F5 DAK PRESCOTT BLUE ICE" data-itemnumber="1" data-linenumber="110" data-orderlinecerterrorid="">
+<td data-title="Line #">110</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085894</td>
+<td data-title="Description">2023 PANINI PRIZM FIREWORKS F5 DAK PRESCOTT BLUE ICE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963197&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085895" data-description="2023 PANINI PRIZM FIREWORKS F10 CJ STROUD" data-itemnumber="1" data-linenumber="111" data-orderlinecerterrorid="">
+<td data-title="Line #">111</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085895</td>
+<td data-title="Description">2023 PANINI PRIZM FIREWORKS F10 CJ STROUD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963198&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085896" data-description="2021 PANINI PRIZM 190 PATRICK MAHOMES II RED ICE" data-itemnumber="1" data-linenumber="112" data-orderlinecerterrorid="">
+<td data-title="Line #">112</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085896</td>
+<td data-title="Description">2021 PANINI PRIZM 190 PATRICK MAHOMES II RED ICE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963199&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085897" data-description="2023 PANINI MOSAIC NFL DEBUT ND9 BIJAN ROBINSON CAMO PINK" data-itemnumber="1" data-linenumber="113" data-orderlinecerterrorid="">
+<td data-title="Line #">113</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085897</td>
+<td data-title="Description">2023 PANINI MOSAIC NFL DEBUT ND9 BIJAN ROBINSON CAMO PINK</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963200&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085898" data-description="2023 PANINI INSTANT 5 VICTOR WEMBANYAMA " data-itemnumber="1" data-linenumber="114" data-orderlinecerterrorid="">
+<td data-title="Line #">114</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085898</td>
+<td data-title="Description">2023 PANINI INSTANT 5 VICTOR WEMBANYAMA </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963201&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085899" data-description="2023 TOPPS NOW OFFSEASON OS17 RONALD ACUNA JR." data-itemnumber="1" data-linenumber="115" data-orderlinecerterrorid="">
+<td data-title="Line #">115</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085899</td>
+<td data-title="Description">2023 TOPPS NOW OFFSEASON OS17 RONALD ACUNA JR.</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963202&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085900" data-description="1987 TOPPS 170 BO JACKSON FUTURE STARS" data-itemnumber="1" data-linenumber="116" data-orderlinecerterrorid="">
+<td data-title="Line #">116</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085900</td>
+<td data-title="Description">1987 TOPPS 170 BO JACKSON FUTURE STARS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963203&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085901" data-description="1999 TOPPS ALL-MATRIX AM6 EMMITT SMITH" data-itemnumber="1" data-linenumber="117" data-orderlinecerterrorid="">
+<td data-title="Line #">117</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085901</td>
+<td data-title="Description">1999 TOPPS ALL-MATRIX AM6 EMMITT SMITH</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963204&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085902" data-description="1984 TOPPS 63 JOHN ELWAY" data-itemnumber="1" data-linenumber="118" data-orderlinecerterrorid="">
+<td data-title="Line #">118</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085902</td>
+<td data-title="Description">1984 TOPPS 63 JOHN ELWAY</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963205&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085903" data-description="1984 TOPPS 123 DAN MARINO" data-itemnumber="1" data-linenumber="119" data-orderlinecerterrorid="">
+<td data-title="Line #">119</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085903</td>
+<td data-title="Description">1984 TOPPS 123 DAN MARINO</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963206&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085904" data-description="2018 PANINI SELECT 166 TOM BRADY SILVER PRIZM" data-itemnumber="1" data-linenumber="120" data-orderlinecerterrorid="">
+<td data-title="Line #">120</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085904</td>
+<td data-title="Description">2018 PANINI SELECT 166 TOM BRADY SILVER PRIZM</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963207&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085905" data-description="2021 PANINI PRIZM 221 JALEN HURTS NO HUDDLE RED" data-itemnumber="1" data-linenumber="121" data-orderlinecerterrorid="">
+<td data-title="Line #">121</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085905</td>
+<td data-title="Description">2021 PANINI PRIZM 221 JALEN HURTS NO HUDDLE RED</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963208&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085906" data-description="2023 PANINI PRIZM 305 BIJAN ROBINSON BLUE ICE" data-itemnumber="1" data-linenumber="122" data-orderlinecerterrorid="">
+<td data-title="Line #">122</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085906</td>
+<td data-title="Description">2023 PANINI PRIZM 305 BIJAN ROBINSON BLUE ICE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963209&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085907" data-description="2023 TOPPS CHROME FORMULA 1 148 MAX VERSTAPPEN PINK" data-itemnumber="1" data-linenumber="123" data-orderlinecerterrorid="">
+<td data-title="Line #">123</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085907</td>
+<td data-title="Description">2023 TOPPS CHROME FORMULA 1 148 MAX VERSTAPPEN PINK</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963210&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085908" data-description="2023 TOPPS CHROME FORMULA 1 148 MAX VERSTAPPEN CHECKER FLAG" data-itemnumber="1" data-linenumber="124" data-orderlinecerterrorid="">
+<td data-title="Line #">124</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085908</td>
+<td data-title="Description">2023 TOPPS CHROME FORMULA 1 148 MAX VERSTAPPEN CHECKER FLAG</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963211&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085909" data-description="2023 TOPPS CHROME FORMULA 1 42 OSCAR PIASTRI FUCHSIA LAVA" data-itemnumber="1" data-linenumber="125" data-orderlinecerterrorid="">
+<td data-title="Line #">125</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085909</td>
+<td data-title="Description">2023 TOPPS CHROME FORMULA 1 42 OSCAR PIASTRI FUCHSIA LAVA</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963212&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085910" data-description="1998 SKYBOX MOLTEN METAL XPLOSION 141 MICHAEL JORDAN" data-itemnumber="1" data-linenumber="126" data-orderlinecerterrorid="">
+<td data-title="Line #">126</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085910</td>
+<td data-title="Description">1998 SKYBOX MOLTEN METAL XPLOSION 141 MICHAEL JORDAN</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963213&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085911" data-description="2001 BOWMAN'S BEST 121 DREW BREES" data-itemnumber="1" data-linenumber="127" data-orderlinecerterrorid="">
+<td data-title="Line #">127</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085911</td>
+<td data-title="Description">2001 BOWMAN'S BEST 121 DREW BREES</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963214&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085912" data-description="1997 FINEST 137 KOBE BRYANT REFRACTOR W/COATING" data-itemnumber="1" data-linenumber="128" data-orderlinecerterrorid="">
+<td data-title="Line #">128</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085912</td>
+<td data-title="Description">1997 FINEST 137 KOBE BRYANT REFRACTOR W/COATING</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963215&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085913" data-description="2021 TOPPS CHROME UEFA CHAMPIONS LEAGUE 1 KYLIAN MBAPPE NEON GREEN REFRACTOR" data-itemnumber="1" data-linenumber="129" data-orderlinecerterrorid="">
+<td data-title="Line #">129</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085913</td>
+<td data-title="Description">2021 TOPPS CHROME UEFA CHAMPIONS LEAGUE 1 KYLIAN MBAPPE NEON GREEN REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963216&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085914" data-description="2021-2022 UPPER DECK UD CANVAS C256 QUINTON BYFIELD" data-itemnumber="1" data-linenumber="130" data-orderlinecerterrorid="">
+<td data-title="Line #">130</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085914</td>
+<td data-title="Description">2021-2022 UPPER DECK UD CANVAS C256 QUINTON BYFIELD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963217&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085915" data-description="2022 UPPER DECK 201 MATT BOLDY" data-itemnumber="1" data-linenumber="131" data-orderlinecerterrorid="">
+<td data-title="Line #">131</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085915</td>
+<td data-title="Description">2022 UPPER DECK 201 MATT BOLDY</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963218&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085916" data-description="2023 UPPER DECK 237 DEVON LEVI " data-itemnumber="1" data-linenumber="132" data-orderlinecerterrorid="">
+<td data-title="Line #">132</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085916</td>
+<td data-title="Description">2023 UPPER DECK 237 DEVON LEVI </td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963219&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085917" data-description="2023 UPPER DECK 229 WYATT KAISER OUTBURST RED" data-itemnumber="1" data-linenumber="133" data-orderlinecerterrorid="">
+<td data-title="Line #">133</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085917</td>
+<td data-title="Description">2023 UPPER DECK 229 WYATT KAISER OUTBURST RED</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963220&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085918" data-description="2022 UPPER DECK 243 MARCO ROSSI CLEAR CUT" data-itemnumber="1" data-linenumber="134" data-orderlinecerterrorid="">
+<td data-title="Line #">134</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085918</td>
+<td data-title="Description">2022 UPPER DECK 243 MARCO ROSSI CLEAR CUT</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963221&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085919" data-description="2016 UPPER DECK 205 BRAYDEN POINT" data-itemnumber="1" data-linenumber="135" data-orderlinecerterrorid="">
+<td data-title="Line #">135</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085919</td>
+<td data-title="Description">2016 UPPER DECK 205 BRAYDEN POINT</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963222&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085920" data-description="2022 UPPER DECK 201 MATT BOLDY" data-itemnumber="1" data-linenumber="136" data-orderlinecerterrorid="">
+<td data-title="Line #">136</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085920</td>
+<td data-title="Description">2022 UPPER DECK 201 MATT BOLDY</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963223&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085921" data-description="2021-2022 UPPER DECK 745 SETH JARVIS" data-itemnumber="1" data-linenumber="137" data-orderlinecerterrorid="">
+<td data-title="Line #">137</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085921</td>
+<td data-title="Description">2021-2022 UPPER DECK 745 SETH JARVIS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963224&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085922" data-description="2021-2022 UPPER DECK FLUORESCENCE FL50 COLE CAUFIELD" data-itemnumber="1" data-linenumber="138" data-orderlinecerterrorid="">
+<td data-title="Line #">138</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085922</td>
+<td data-title="Description">2021-2022 UPPER DECK FLUORESCENCE FL50 COLE CAUFIELD</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963225&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085923" data-description="2024 POKEMON PAF EN-PALDEAN FATES 232 MEW EX SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="139" data-orderlinecerterrorid="">
+<td data-title="Line #">139</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085923</td>
+<td data-title="Description">2024 POKEMON PAF EN-PALDEAN FATES 232 MEW EX SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963226&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085924" data-description="2018 POKEMON SUN &amp; MOON CELESTIAL STORM 177a FULL ART/RAYQUAZA GX 2019 YELLOW A HIDDEN FATES PREMIUM COLLECTION" data-itemnumber="1" data-linenumber="140" data-orderlinecerterrorid="">
+<td data-title="Line #">140</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085924</td>
+<td data-title="Description">2018 POKEMON SUN &amp; MOON CELESTIAL STORM 177a FULL ART/RAYQUAZA GX 2019 YELLOW A HIDDEN FATES PREMIUM COLLECTION</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963227&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085925" data-description="2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF" data-itemnumber="1" data-linenumber="141" data-orderlinecerterrorid="">
+<td data-title="Line #">141</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085925</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963228&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085926" data-description="2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF" data-itemnumber="1" data-linenumber="142" data-orderlinecerterrorid="">
+<td data-title="Line #">142</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085926</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963229&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085927" data-description="2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF" data-itemnumber="1" data-linenumber="143" data-orderlinecerterrorid="">
+<td data-title="Line #">143</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085927</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963230&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085928" data-description="2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF" data-itemnumber="1" data-linenumber="144" data-orderlinecerterrorid="">
+<td data-title="Line #">144</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085928</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS ACES ACE5 COCO GAUFF</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963231&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085929" data-description="2021 TOPPS CHROME TENNIS 100 COCO GAUFF REFRACTOR" data-itemnumber="1" data-linenumber="145" data-orderlinecerterrorid="">
+<td data-title="Line #">145</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085929</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS 100 COCO GAUFF REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963232&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085930" data-description="2021 TOPPS CHROME TENNIS 100 COCO GAUFF REFRACTOR" data-itemnumber="1" data-linenumber="146" data-orderlinecerterrorid="">
+<td data-title="Line #">146</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085930</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS 100 COCO GAUFF REFRACTOR</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963233&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085931" data-description="2021 TOPPS CHROME TENNIS CHROME AUTOGRAPHS CAMH MARTINA HINGIS" data-itemnumber="1" data-linenumber="147" data-orderlinecerterrorid="">
+<td data-title="Line #">147</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085931</td>
+<td data-title="Description">2021 TOPPS CHROME TENNIS CHROME AUTOGRAPHS CAMH MARTINA HINGIS</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963234&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085932" data-description="2023 PANINI DONRUSS ELITE TURN OF THE CENTURY AUTOGRAPH TCARI ANTHONY RICHARDSON" data-itemnumber="1" data-linenumber="148" data-orderlinecerterrorid="">
+<td data-title="Line #">148</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085932</td>
+<td data-title="Description">2023 PANINI DONRUSS ELITE TURN OF THE CENTURY AUTOGRAPH TCARI ANTHONY RICHARDSON</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963235&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085933" data-description="2024 POKEMON PAF EN-PALDEAN FATES 232 MEW EX SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="149" data-orderlinecerterrorid="">
+<td data-title="Line #">149</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085933</td>
+<td data-title="Description">2024 POKEMON PAF EN-PALDEAN FATES 232 MEW EX SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963236&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085934" data-description="2024 POKEMON PAF EN-PALDEAN FATES 233 GARDEVOIR EX SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="150" data-orderlinecerterrorid="">
+<td data-title="Line #">150</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085934</td>
+<td data-title="Description">2024 POKEMON PAF EN-PALDEAN FATES 233 GARDEVOIR EX SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963237&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr class="report-error-row" data-certno="88085935" data-description="2024 TOPPS 141 ELLY DE LA CRUZ" data-itemnumber="1" data-linenumber="151" data-orderlinecerterrorid="">
+<td data-title="Line #">151</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">88085935</td>
+<td data-title="Description">2024 TOPPS 141 ELLY DE LA CRUZ</td>
+<td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+<td data-title="First View">
+<span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963238&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>
