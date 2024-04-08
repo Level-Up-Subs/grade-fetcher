@@ -1452,11 +1452,11 @@
 </td>
 <td data-title="Type">Card</td>
 </tr>
-<tr class="report-error-row" data-certno="88085916" data-description="2023 UPPER DECK 237 DEVON LEVI " data-itemnumber="1" data-linenumber="132" data-orderlinecerterrorid="">
+<tr class="report-error-row" data-certno="88085916" data-description="2023 UPPER DECK 237 DEVON LEVI" data-itemnumber="1" data-linenumber="132" data-orderlinecerterrorid="">
 <td data-title="Line #">132</td>
 <td data-title="Item #">1</td>
 <td data-title="Cert #">88085916</td>
-<td data-title="Description">2023 UPPER DECK 237 DEVON LEVI </td>
+<td data-title="Description">2023 UPPER DECK 237 DEVON LEVI</td>
 <td class="report-error-col" data-title="Status"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
 <td data-title="First View">
 <span class="firstview-preview" data-url="/MyAccount/GetFirstViewImage?certId=154963219&amp;orderNumber=23886036&amp;departmentId=10">First View</span>
