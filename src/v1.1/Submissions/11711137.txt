@@ -1,0 +1,61 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82738385/psa" target="_blank">82738385</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GOOD+ 2.5                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1959 Topps 212 Fence Busters Gray Back
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148464890" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82738386/psa" target="_blank">82738386</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT 5                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1972 Topps 150 Elvin Hayes 
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148464891" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>

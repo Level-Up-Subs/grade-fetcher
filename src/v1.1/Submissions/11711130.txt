@@ -1,0 +1,130 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82739762/psa" target="_blank">82739762</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT 7                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1996 SPx Mike Piazza Tribute Mpa-1 Mike Piazza Commemorative Autograph-D.G. Only
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148462988" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82739763/psa" target="_blank">82739763</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT-MINT 6                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1998 Upper Deck Willie O'Ree Commemorative Card 22 Willie O'Ree
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148462989" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82739764/psa" target="_blank">82739764</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT 5                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1997 Big League Chew Alumni Brooks Robinson
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148462990" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82739765/psa" target="_blank">82739765</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT 5                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1997 Big League Chew Alumni Billy Williams
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148462991" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/82739766/psa" target="_blank">82739766</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT 5                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1997 Big League Chew Alumni Juan Marichal
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="148462992" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>

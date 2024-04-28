@@ -1,0 +1,1365 @@
+<table class="table table-transform-thin vertical-middle" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Description</th>
+<th style="width: 50%;">Status</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr class="report-error-row" data-certno="84351659" data-description="2022 PANINI DONRUSS OPTIC 94 PATRICK MAHOMES II ONE HUNDRED" data-itemnumber="1" data-linenumber="1" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351659</td>
+<td data-title="Description">2022 PANINI DONRUSS OPTIC 94 PATRICK MAHOMES II ONE HUNDRED</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351660" data-description="2003 UPPER DECK 245 ERIC STAAL\MARC-ANDRE FLEURY\NATHAN HORTON " data-itemnumber="1" data-linenumber="2" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351660</td>
+<td data-title="Description">2003 UPPER DECK 245 ERIC STAAL\MARC-ANDRE FLEURY\NATHAN HORTON </td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351661" data-description="2022 TOPPS FINEST 97 COREY SEAGER BLUE/AQUA VAPOR REFRACTOR" data-itemnumber="1" data-linenumber="3" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351661</td>
+<td data-title="Description">2022 TOPPS FINEST 97 COREY SEAGER BLUE/AQUA VAPOR REFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351662" data-description="2023 TOPPS 105 SETH BEER GOLD" data-itemnumber="1" data-linenumber="4" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351662</td>
+<td data-title="Description">2023 TOPPS 105 SETH BEER GOLD</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351663" data-description="2023 TOPPS 227 YANDY DIAZ GOLD" data-itemnumber="1" data-linenumber="5" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351663</td>
+<td data-title="Description">2023 TOPPS 227 YANDY DIAZ GOLD</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351664" data-description="1997 UPPER DECK 354 PATRICK MARLEAU " data-itemnumber="1" data-linenumber="6" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351664</td>
+<td data-title="Description">1997 UPPER DECK 354 PATRICK MARLEAU </td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351665" data-description="2022 UPPER DECK 732 MATTY BENIERS" data-itemnumber="1" data-linenumber="7" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351665</td>
+<td data-title="Description">2022 UPPER DECK 732 MATTY BENIERS</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351666" data-description="2016 TOPPS WWE DIVAS REVOLUTION 41 LIV MORGAN" data-itemnumber="1" data-linenumber="8" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351666</td>
+<td data-title="Description">2016 TOPPS WWE DIVAS REVOLUTION 41 LIV MORGAN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351667" data-description="2018 TOPPS WWE WOMEN'S DIVISION 15 LIV MORGAN" data-itemnumber="1" data-linenumber="9" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351667</td>
+<td data-title="Description">2018 TOPPS WWE WOMEN'S DIVISION 15 LIV MORGAN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351668" data-description="2022 UPPER DECK EXTENDED SERIES 2007-08 UPPER DECK RETRO T84 WYATT JOHNSTON EXCLUSIVE" data-itemnumber="1" data-linenumber="10" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351668</td>
+<td data-title="Description">2022 UPPER DECK EXTENDED SERIES 2007-08 UPPER DECK RETRO T84 WYATT JOHNSTON EXCLUSIVE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351669" data-description="2023 TOPPS MAJOR LEAGUE MATERIAL RELICS MLMCY CHRISTIAN YELICH" data-itemnumber="1" data-linenumber="11" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351669</td>
+<td data-title="Description">2023 TOPPS MAJOR LEAGUE MATERIAL RELICS MLMCY CHRISTIAN YELICH</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351670" data-description="2022 TOPPS 660 SHOHEI OHTANI BLACK" data-itemnumber="1" data-linenumber="12" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351670</td>
+<td data-title="Description">2022 TOPPS 660 SHOHEI OHTANI BLACK</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351671" data-description="2022 TOPPS X NATUREL 1952 25 SHOHEI OHTANI RAINBOW FOIL" data-itemnumber="1" data-linenumber="13" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351671</td>
+<td data-title="Description">2022 TOPPS X NATUREL 1952 25 SHOHEI OHTANI RAINBOW FOIL</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351672" data-description="2022 TOPPS 411 NOLAN RYAN SERIES 2-SSP" data-itemnumber="1" data-linenumber="14" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351672</td>
+<td data-title="Description">2022 TOPPS 411 NOLAN RYAN SERIES 2-SSP</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351673" data-description="2022 TOPPS 509 SPENCER STRIDER SERIES 2-SP" data-itemnumber="1" data-linenumber="15" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351673</td>
+<td data-title="Description">2022 TOPPS 509 SPENCER STRIDER SERIES 2-SP</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351674" data-description="NEEDS PSA/DNA, NO GRADE, NO CHARGE" data-itemnumber="1" data-linenumber="16" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351674</td>
+<td data-title="Description">NEEDS PSA/DNA, NO GRADE, NO CHARGE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351675" data-description="2022 TOPPS SILVER PACK 1987 CHROME PROMO T87C298 ONEIL CRUZ SERIES 2-AUTOGRAPH" data-itemnumber="1" data-linenumber="17" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351675</td>
+<td data-title="Description">2022 TOPPS SILVER PACK 1987 CHROME PROMO T87C298 ONEIL CRUZ SERIES 2-AUTOGRAPH</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351676" data-description="2022 TOPPS 660 SHOHEI OHTANI SERIES 2-SP" data-itemnumber="1" data-linenumber="18" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351676</td>
+<td data-title="Description">2022 TOPPS 660 SHOHEI OHTANI SERIES 2-SP</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351677" data-description="2022 TOPPS SILVER PACK 1987 CHROME PROMO T87C269 RONALD ACUNA JR. SERIES 2-GOLD REFRACTOR" data-itemnumber="1" data-linenumber="19" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351677</td>
+<td data-title="Description">2022 TOPPS SILVER PACK 1987 CHROME PROMO T87C269 RONALD ACUNA JR. SERIES 2-GOLD REFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351678" data-description="2023 TOPPS GILDED COLLECTION 44 HANK AARON" data-itemnumber="1" data-linenumber="20" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351678</td>
+<td data-title="Description">2023 TOPPS GILDED COLLECTION 44 HANK AARON</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351679" data-description="2023 TOPPS GILDED COLLECTION 143 YOGI BERRA MINI DIAMOND GOLD ETCH" data-itemnumber="1" data-linenumber="21" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351679</td>
+<td data-title="Description">2023 TOPPS GILDED COLLECTION 143 YOGI BERRA MINI DIAMOND GOLD ETCH</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351680" data-description="2023 TOPPS GILDED COLLECTION 65 CHIPPER JONES" data-itemnumber="1" data-linenumber="22" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351680</td>
+<td data-title="Description">2023 TOPPS GILDED COLLECTION 65 CHIPPER JONES</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351681" data-description="2022 SKYBOX MARVEL METAL UNIVERSE SPIDER-MAN 189 THOR LIGHT FX TURQUOISE" data-itemnumber="1" data-linenumber="23" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351681</td>
+<td data-title="Description">2022 SKYBOX MARVEL METAL UNIVERSE SPIDER-MAN 189 THOR LIGHT FX TURQUOISE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351682" data-description="2022 TOPPS 1987 TOPPS BASEBALL AUTOGRAPHS 87BAFTJ FERNANDO TATIS JR. SERIES 2" data-itemnumber="1" data-linenumber="24" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351682</td>
+<td data-title="Description">2022 TOPPS 1987 TOPPS BASEBALL AUTOGRAPHS 87BAFTJ FERNANDO TATIS JR. SERIES 2</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351683" data-description="2009 TOPPS CHROME 98 DEREK JETER BLUE REFRACTOR" data-itemnumber="1" data-linenumber="25" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351683</td>
+<td data-title="Description">2009 TOPPS CHROME 98 DEREK JETER BLUE REFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351684" data-description="2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE" data-itemnumber="1" data-linenumber="26" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351684</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351685" data-description="2022 PANINI HONORS 88 TYQUAN THORNTON SIGNATURE" data-itemnumber="1" data-linenumber="27" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351685</td>
+<td data-title="Description">2022 PANINI HONORS 88 TYQUAN THORNTON SIGNATURE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351686" data-description="2020 PANINI PLAYOFF 287 TREVON DIGGS 1ST DOWN" data-itemnumber="1" data-linenumber="28" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351686</td>
+<td data-title="Description">2020 PANINI PLAYOFF 287 TREVON DIGGS 1ST DOWN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351687" data-description="2020 PANINI PLAYOFF 287 TREVON DIGGS 3RD DOWN" data-itemnumber="1" data-linenumber="29" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351687</td>
+<td data-title="Description">2020 PANINI PLAYOFF 287 TREVON DIGGS 3RD DOWN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351688" data-description="2020 PANINI PLAYOFF CONTENDERS ROOKIE TICKET PREVIEW AUTOGRAPHS V134 JOSHUA KELLEY RED" data-itemnumber="1" data-linenumber="30" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351688</td>
+<td data-title="Description">2020 PANINI PLAYOFF CONTENDERS ROOKIE TICKET PREVIEW AUTOGRAPHS V134 JOSHUA KELLEY RED</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351689" data-description="2022 PANINI HONORS 49 TRAVON WALKER PURPLE" data-itemnumber="1" data-linenumber="31" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351689</td>
+<td data-title="Description">2022 PANINI HONORS 49 TRAVON WALKER PURPLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351690" data-description="2022 PANINI PHOENIX 15 LAMAR JACKSON FIRE &amp; ICE" data-itemnumber="1" data-linenumber="32" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351690</td>
+<td data-title="Description">2022 PANINI PHOENIX 15 LAMAR JACKSON FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351691" data-description="2022 PANINI PHOENIX 15 LAMAR JACKSON FIRE &amp; ICE" data-itemnumber="1" data-linenumber="33" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351691</td>
+<td data-title="Description">2022 PANINI PHOENIX 15 LAMAR JACKSON FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351692" data-description='2022 PANINI PHOENIX 128 AHMAD "SAUCE" GARDNER FIRE &amp; ICE' data-itemnumber="1" data-linenumber="34" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351692</td>
+<td data-title="Description">2022 PANINI PHOENIX 128 AHMAD "SAUCE" GARDNER FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351693" data-description="2021 PANINI PHOENIX 111 NAJEE HARRIS FIRE &amp; ICE" data-itemnumber="1" data-linenumber="35" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351693</td>
+<td data-title="Description">2021 PANINI PHOENIX 111 NAJEE HARRIS FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351694" data-description="2021 PANINI PHOENIX 112 TRAVIS ETIENNE JR. FIRE &amp; ICE" data-itemnumber="1" data-linenumber="36" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351694</td>
+<td data-title="Description">2021 PANINI PHOENIX 112 TRAVIS ETIENNE JR. FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351695" data-description="2021 PANINI PHOENIX 106 JAYLEN WADDLE FIRE &amp; ICE LAZER" data-itemnumber="1" data-linenumber="37" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351695</td>
+<td data-title="Description">2021 PANINI PHOENIX 106 JAYLEN WADDLE FIRE &amp; ICE LAZER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351696" data-description="2021 PANINI PHOENIX 107 DEVONTA SMITH FIRE &amp; ICE" data-itemnumber="1" data-linenumber="38" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351696</td>
+<td data-title="Description">2021 PANINI PHOENIX 107 DEVONTA SMITH FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351697" data-description="2021 PANINI PHOENIX 107 DEVONTA SMITH FIRE &amp; ICE LAZER" data-itemnumber="1" data-linenumber="39" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351697</td>
+<td data-title="Description">2021 PANINI PHOENIX 107 DEVONTA SMITH FIRE &amp; ICE LAZER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351698" data-description="2020 PANINI PHOENIX 4 DESHAUN WATSON FIRE &amp; ICE" data-itemnumber="1" data-linenumber="40" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351698</td>
+<td data-title="Description">2020 PANINI PHOENIX 4 DESHAUN WATSON FIRE &amp; ICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351699" data-description="2020 TOPPS HOLIDAY HW2 LUIS ROBERT SSSP" data-itemnumber="1" data-linenumber="41" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351699</td>
+<td data-title="Description">2020 TOPPS HOLIDAY HW2 LUIS ROBERT SSSP</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351700" data-description="2020 TOPPS HOLIDAY HW2 LUIS ROBERT" data-itemnumber="1" data-linenumber="42" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351700</td>
+<td data-title="Description">2020 TOPPS HOLIDAY HW2 LUIS ROBERT</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351701" data-description="2020 TOPPS HOLIDAY HW2 LUIS ROBERT SP" data-itemnumber="1" data-linenumber="43" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351701</td>
+<td data-title="Description">2020 TOPPS HOLIDAY HW2 LUIS ROBERT SP</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351702" data-description="2020 TOPPS HOLIDAY HW2 LUIS ROBERT METALLIC" data-itemnumber="1" data-linenumber="44" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351702</td>
+<td data-title="Description">2020 TOPPS HOLIDAY HW2 LUIS ROBERT METALLIC</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351703" data-description="2008 UPPER DECK THUNDER 11 RUSSELL WESTBROOK " data-itemnumber="1" data-linenumber="45" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351703</td>
+<td data-title="Description">2008 UPPER DECK THUNDER 11 RUSSELL WESTBROOK </td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351704" data-description="1996 TOPPS MANTLE FINEST 1 1951 BOWMAN REPRINT REFRACTOR,W/COATING" data-itemnumber="1" data-linenumber="46" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351704</td>
+<td data-title="Description">1996 TOPPS MANTLE FINEST 1 1951 BOWMAN REPRINT REFRACTOR,W/COATING</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351705" data-description="1998 TOPPS 257 DAVID ORTIZ\DARYLE WARD\RICHIE SEXSON MINTED IN COOPERSTOWN" data-itemnumber="1" data-linenumber="47" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351705</td>
+<td data-title="Description">1998 TOPPS 257 DAVID ORTIZ\DARYLE WARD\RICHIE SEXSON MINTED IN COOPERSTOWN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351706" data-description="1999 UPPER DECK TEXTBOOK EXCELLENCE T2 GREG MADDUX TRIPLE" data-itemnumber="1" data-linenumber="48" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351706</td>
+<td data-title="Description">1999 UPPER DECK TEXTBOOK EXCELLENCE T2 GREG MADDUX TRIPLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351707" data-description="2004 SPx SWATCH SUPREMACY SIGNATURE SS-CR CAL RIPKEN JR." data-itemnumber="1" data-linenumber="49" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351707</td>
+<td data-title="Description">2004 SPx SWATCH SUPREMACY SIGNATURE SS-CR CAL RIPKEN JR.</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351708" data-description="1989 UPPER DECK 1 KEN GRIFFEY JR. STAR ROOKIE" data-itemnumber="1" data-linenumber="50" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351708</td>
+<td data-title="Description">1989 UPPER DECK 1 KEN GRIFFEY JR. STAR ROOKIE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351709" data-description="1993 UPPER DECK 449 DEREK JETER" data-itemnumber="1" data-linenumber="51" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351709</td>
+<td data-title="Description">1993 UPPER DECK 449 DEREK JETER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351710" data-description="1993 UPPER DECK 449 DEREK JETER" data-itemnumber="1" data-linenumber="52" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351710</td>
+<td data-title="Description">1993 UPPER DECK 449 DEREK JETER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351711" data-description="1996 UPPER DECK FOLZ VENDING MACHINE MINIS 8 GREG MADDUX" data-itemnumber="1" data-linenumber="53" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351711</td>
+<td data-title="Description">1996 UPPER DECK FOLZ VENDING MACHINE MINIS 8 GREG MADDUX</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351712" data-description="1999 ULTRA 70P MARK McGWIRE PLATINUM MEDALLION" data-itemnumber="1" data-linenumber="54" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351712</td>
+<td data-title="Description">1999 ULTRA 70P MARK McGWIRE PLATINUM MEDALLION</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351713" data-description="2004 SPx WINNING MATERIALS DUAL JERSEY WM-GM GREG MADDUX" data-itemnumber="1" data-linenumber="55" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351713</td>
+<td data-title="Description">2004 SPx WINNING MATERIALS DUAL JERSEY WM-GM GREG MADDUX</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351714" data-description="2007 TOPPS 40 DEREK JETER BUSH/MANTLE" data-itemnumber="1" data-linenumber="56" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351714</td>
+<td data-title="Description">2007 TOPPS 40 DEREK JETER BUSH/MANTLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351715" data-description="2000 FLEER TRADITION FRESH INK PEDRO MARTINEZ" data-itemnumber="1" data-linenumber="57" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351715</td>
+<td data-title="Description">2000 FLEER TRADITION FRESH INK PEDRO MARTINEZ</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351716" data-description="1980 TOPPS 482 RICKEY HENDERSON" data-itemnumber="1" data-linenumber="58" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351716</td>
+<td data-title="Description">1980 TOPPS 482 RICKEY HENDERSON</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351717" data-description="2022 PANINI FLUX HOT STOCK SIGNATURES HSSSHS SHAEDON SHARPE GOLD" data-itemnumber="1" data-linenumber="59" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351717</td>
+<td data-title="Description">2022 PANINI FLUX HOT STOCK SIGNATURES HSSSHS SHAEDON SHARPE GOLD</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351718" data-description="2023 TOPPS CHROME 2 GUNNAR HENDERSON SP-GOLD SPECKLE" data-itemnumber="1" data-linenumber="60" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351718</td>
+<td data-title="Description">2023 TOPPS CHROME 2 GUNNAR HENDERSON SP-GOLD SPECKLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351719" data-description="2023 POKEMON SVP EN-SV BLACK STAR PROMO 085 PIKACHU WITH GREY FELT HAT POKEMON X VAN GOGH" data-itemnumber="1" data-linenumber="61" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351719</td>
+<td data-title="Description">2023 POKEMON SVP EN-SV BLACK STAR PROMO 085 PIKACHU WITH GREY FELT HAT POKEMON X VAN GOGH</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351720" data-description="2022 PANINI MOSAIC STAINED GLASS 8 GIANNIS ANTETOKOUNMPO" data-itemnumber="1" data-linenumber="62" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351720</td>
+<td data-title="Description">2022 PANINI MOSAIC STAINED GLASS 8 GIANNIS ANTETOKOUNMPO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351721" data-description="2021 PANINI PRIZM 301 JOSH GIDDEY BLUE FAST BREAK" data-itemnumber="1" data-linenumber="63" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351721</td>
+<td data-title="Description">2021 PANINI PRIZM 301 JOSH GIDDEY BLUE FAST BREAK</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351722" data-description="2022 BOWMAN UNIVERSITY BEST 51 VICTOR WEMBANYAMA REFRACTOR" data-itemnumber="1" data-linenumber="64" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351722</td>
+<td data-title="Description">2022 BOWMAN UNIVERSITY BEST 51 VICTOR WEMBANYAMA REFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351723" data-description="FACTORY MIS-PRINT, NO GRADE, NO CHARGE" data-itemnumber="1" data-linenumber="65" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351723</td>
+<td data-title="Description">FACTORY MIS-PRINT, NO GRADE, NO CHARGE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351724" data-description="2023 TOPPS GILDED COLLECTION TOPPS CHROME GOLD ETCH AUTOGRAPHS CGAMH MICHAEL HARRIS II BLUE" data-itemnumber="1" data-linenumber="66" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351724</td>
+<td data-title="Description">2023 TOPPS GILDED COLLECTION TOPPS CHROME GOLD ETCH AUTOGRAPHS CGAMH MICHAEL HARRIS II BLUE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351725" data-description="2010 LEAF MMA AUTOGRAPHS AU-JM3 JOHN McCARTHY" data-itemnumber="1" data-linenumber="67" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351725</td>
+<td data-title="Description">2010 LEAF MMA AUTOGRAPHS AU-JM3 JOHN McCARTHY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351726" data-description="2022 PANINI PRIZM UFC SIGNATURES SGMCA MICHAEL CHANDLER RED PRIZM" data-itemnumber="1" data-linenumber="68" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351726</td>
+<td data-title="Description">2022 PANINI PRIZM UFC SIGNATURES SGMCA MICHAEL CHANDLER RED PRIZM</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351727" data-description="2019 TOPPS UFC MUSEUM COLLECTION 43 MAYCEE BARBER COPPER" data-itemnumber="1" data-linenumber="69" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351727</td>
+<td data-title="Description">2019 TOPPS UFC MUSEUM COLLECTION 43 MAYCEE BARBER COPPER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351728" data-description="2014 TOPPS UFC BLOODLINES 98 CONOR McGREGOR" data-itemnumber="1" data-linenumber="70" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351728</td>
+<td data-title="Description">2014 TOPPS UFC BLOODLINES 98 CONOR McGREGOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351729" data-description="2021 PANINI CHRONICLES UFC 173 CONOR McGREGOR BLUE" data-itemnumber="1" data-linenumber="71" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351729</td>
+<td data-title="Description">2021 PANINI CHRONICLES UFC 173 CONOR McGREGOR BLUE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351730" data-description="2022 BOWMAN INCEPTION PROSPECT AUTOGRAPHS PAJCO JACKSON CHOURIO GOLD FOIL" data-itemnumber="1" data-linenumber="72" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351730</td>
+<td data-title="Description">2022 BOWMAN INCEPTION PROSPECT AUTOGRAPHS PAJCO JACKSON CHOURIO GOLD FOIL</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351731" data-description="2020 TOPPS CHROME UPDATE U53 YORDAN ALVAREZ X-FRACTOR" data-itemnumber="1" data-linenumber="73" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351731</td>
+<td data-title="Description">2020 TOPPS CHROME UPDATE U53 YORDAN ALVAREZ X-FRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351732" data-description="2023 BOWMAN MEGA BOX CHROME 189 SEBASTIAN WALCOTT GOLD" data-itemnumber="1" data-linenumber="74" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351732</td>
+<td data-title="Description">2023 BOWMAN MEGA BOX CHROME 189 SEBASTIAN WALCOTT GOLD</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351733" data-description="2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO" data-itemnumber="1" data-linenumber="75" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351733</td>
+<td data-title="Description">2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351734" data-description="2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO" data-itemnumber="1" data-linenumber="76" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351734</td>
+<td data-title="Description">2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351735" data-description="2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO" data-itemnumber="1" data-linenumber="77" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351735</td>
+<td data-title="Description">2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351736" data-description="2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO" data-itemnumber="1" data-linenumber="78" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351736</td>
+<td data-title="Description">2016 POKEMON XY EVOLUTIONS 11 CHARIZARD-HOLO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351737" data-description="2019 POKEMON SUN &amp; MOON TEAM UP 174 FULL ART/ERIKA'S HOSPITALITY" data-itemnumber="1" data-linenumber="79" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351737</td>
+<td data-title="Description">2019 POKEMON SUN &amp; MOON TEAM UP 174 FULL ART/ERIKA'S HOSPITALITY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351738" data-description="2021 POKEMON SWORD &amp; SHIELD EVOLVING SKIES 209 FULL ART/GLACEON VMAX SECRET" data-itemnumber="1" data-linenumber="80" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351738</td>
+<td data-title="Description">2021 POKEMON SWORD &amp; SHIELD EVOLVING SKIES 209 FULL ART/GLACEON VMAX SECRET</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351739" data-description="2021 POKEMON SWORD &amp; SHIELD EVOLVING SKIES 204 FULL ART/LEAFEON VMAX SECRET" data-itemnumber="1" data-linenumber="81" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351739</td>
+<td data-title="Description">2021 POKEMON SWORD &amp; SHIELD EVOLVING SKIES 204 FULL ART/LEAFEON VMAX SECRET</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351740" data-description="2023 LEAF SUPERLATIVE SIGNATURES SSHW1 HINES WARD" data-itemnumber="1" data-linenumber="82" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351740</td>
+<td data-title="Description">2023 LEAF SUPERLATIVE SIGNATURES SSHW1 HINES WARD</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351741" data-description="2003 PLAYOFF HOGG HEAVEN 198 TROY POLAMALU" data-itemnumber="1" data-linenumber="83" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351741</td>
+<td data-title="Description">2003 PLAYOFF HOGG HEAVEN 198 TROY POLAMALU</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351742" data-description="2020 PANINI PLATES &amp; PATCHES PRINTING PLATES 3 DAVID NJOKU 2019 PANINI PRIZM HYPE BLACK PRINTING PLATE 1/1" data-itemnumber="1" data-linenumber="84" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351742</td>
+<td data-title="Description">2020 PANINI PLATES &amp; PATCHES PRINTING PLATES 3 DAVID NJOKU 2019 PANINI PRIZM HYPE BLACK PRINTING PLATE 1/1</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351743" data-description="1999 UPPER DECK RETRO 75 ANDRE RISON PLATINUM 1/1" data-itemnumber="1" data-linenumber="85" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351743</td>
+<td data-title="Description">1999 UPPER DECK RETRO 75 ANDRE RISON PLATINUM 1/1</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351744" data-description="2017 PANINI FLAWLESS FLAWLESS PENMANSHIP FP-JB JEROME BETTIS" data-itemnumber="1" data-linenumber="86" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351744</td>
+<td data-title="Description">2017 PANINI FLAWLESS FLAWLESS PENMANSHIP FP-JB JEROME BETTIS</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351745" data-description="2023 LEAF VIVID TECHNICOLOR AUTOGRAPHS TDM1 DRAKE MAYE WHITE CRYSTAL" data-itemnumber="1" data-linenumber="87" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351745</td>
+<td data-title="Description">2023 LEAF VIVID TECHNICOLOR AUTOGRAPHS TDM1 DRAKE MAYE WHITE CRYSTAL</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351746" data-description="2019 PANINI CHRONICLES 116 JA MORANT" data-itemnumber="1" data-linenumber="88" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351746</td>
+<td data-title="Description">2019 PANINI CHRONICLES 116 JA MORANT</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351747" data-description="2019 PANINI CHRONICLES 116 JA MORANT" data-itemnumber="1" data-linenumber="89" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351747</td>
+<td data-title="Description">2019 PANINI CHRONICLES 116 JA MORANT</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351748" data-description="2020 PANINI OBSIDIAN GALAXY AUTOGRAPHS MPJ MICHAEL PORTER JR." data-itemnumber="1" data-linenumber="90" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351748</td>
+<td data-title="Description">2020 PANINI OBSIDIAN GALAXY AUTOGRAPHS MPJ MICHAEL PORTER JR.</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351749" data-description="2022 PANINI PRIZM 6 MALCOLM BROGDON GREEN SPARKLE" data-itemnumber="1" data-linenumber="91" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351749</td>
+<td data-title="Description">2022 PANINI PRIZM 6 MALCOLM BROGDON GREEN SPARKLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351750" data-description="2022 PANINI DONRUSS OPTIC 71 KLAY THOMPSON PINK VELOCITY" data-itemnumber="1" data-linenumber="92" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351750</td>
+<td data-title="Description">2022 PANINI DONRUSS OPTIC 71 KLAY THOMPSON PINK VELOCITY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351751" data-description="2022 PANINI ROOKIES &amp; STARS 145 BROCK PURDY" data-itemnumber="1" data-linenumber="93" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351751</td>
+<td data-title="Description">2022 PANINI ROOKIES &amp; STARS 145 BROCK PURDY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351752" data-description="2023 PANINI DONRUSS ELITE PASSING THE TORCH SIGNATURE PTT4 DEREK CARR" data-itemnumber="1" data-linenumber="94" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351752</td>
+<td data-title="Description">2023 PANINI DONRUSS ELITE PASSING THE TORCH SIGNATURE PTT4 DEREK CARR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351753" data-description="2023 BOWMAN UNIVERSITY CHROME 200 DRAKE MAYE AUTOGRAPH-GOLD LAVA" data-itemnumber="1" data-linenumber="95" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351753</td>
+<td data-title="Description">2023 BOWMAN UNIVERSITY CHROME 200 DRAKE MAYE AUTOGRAPH-GOLD LAVA</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351754" data-description="1999 STADIUM CLUB VIDEO REPLAY VR3 KEN GRIFFEY JR. VIDEO REPLAY" data-itemnumber="1" data-linenumber="96" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351754</td>
+<td data-title="Description">1999 STADIUM CLUB VIDEO REPLAY VR3 KEN GRIFFEY JR. VIDEO REPLAY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351755" data-description="2012 FLEER RETRO 1 MICHAEL JORDAN " data-itemnumber="1" data-linenumber="97" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351755</td>
+<td data-title="Description">2012 FLEER RETRO 1 MICHAEL JORDAN </td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351756" data-description="2017 PANINI ABSOLUTE ROOKIE ROUNDUP 20 PATRICK MAHOMES II RETAIL" data-itemnumber="1" data-linenumber="98" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351756</td>
+<td data-title="Description">2017 PANINI ABSOLUTE ROOKIE ROUNDUP 20 PATRICK MAHOMES II RETAIL</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351757" data-description="2023 TOPPS CHROME 81 JAMES OUTMAN GREEN SONAR" data-itemnumber="1" data-linenumber="99" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351757</td>
+<td data-title="Description">2023 TOPPS CHROME 81 JAMES OUTMAN GREEN SONAR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351758" data-description="2011 BOWMAN PROSPECTS BP1 BRYCE HARPER" data-itemnumber="1" data-linenumber="100" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351758</td>
+<td data-title="Description">2011 BOWMAN PROSPECTS BP1 BRYCE HARPER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351759" data-description="2023 TOPPS CHROME 95 CORBIN CARROLL X-FRACTOR" data-itemnumber="1" data-linenumber="101" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351759</td>
+<td data-title="Description">2023 TOPPS CHROME 95 CORBIN CARROLL X-FRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351760" data-description="2023 POKEMON MEW EN-151 203 ERIKA'S INVITATION SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="102" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351760</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 203 ERIKA'S INVITATION SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351761" data-description="2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE" data-itemnumber="1" data-linenumber="103" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351761</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351762" data-description="2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE" data-itemnumber="1" data-linenumber="104" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351762</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351763" data-description="2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE" data-itemnumber="1" data-linenumber="105" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351763</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 183 CHARIZARD EX ULTRA RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351764" data-description="2023 POKEMON MEW EN-151 193 MEW EX ULTRA RARE" data-itemnumber="1" data-linenumber="106" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351764</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 193 MEW EX ULTRA RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351765" data-description="2023 POKEMON MEW EN-151 201 ALAKAZAM EX SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="107" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351765</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 201 ALAKAZAM EX SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351766" data-description="2023 POKEMON MEW EN-151 184 BLASTOISE EX ULTRA RARE" data-itemnumber="1" data-linenumber="108" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351766</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 184 BLASTOISE EX ULTRA RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351767" data-description="2023 POKEMON MEW EN-151 198 VENUSAUR EX SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="109" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351767</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 198 VENUSAUR EX SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351768" data-description="2021 PANINI CONTENDERS 116 ALPEREN SENGUN VARIATION-AUTOGRAPH" data-itemnumber="1" data-linenumber="110" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351768</td>
+<td data-title="Description">2021 PANINI CONTENDERS 116 ALPEREN SENGUN VARIATION-AUTOGRAPH</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351769" data-description="2021 PANINI PRIZM 307 JONATHAN KUMINGA NBA 75TH PRIZM" data-itemnumber="1" data-linenumber="111" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351769</td>
+<td data-title="Description">2021 PANINI PRIZM 307 JONATHAN KUMINGA NBA 75TH PRIZM</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351770" data-description="2022 PANINI DONRUSS 247 KENDALL BROWN RATED ROOKIE SIGNATURE-GOLD HOLO LASER" data-itemnumber="1" data-linenumber="112" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351770</td>
+<td data-title="Description">2022 PANINI DONRUSS 247 KENDALL BROWN RATED ROOKIE SIGNATURE-GOLD HOLO LASER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351771" data-description="2023 PANINI SCORE 341 TUCKER KRAFT AUTOGRAPH-GOLD ZONE" data-itemnumber="1" data-linenumber="113" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351771</td>
+<td data-title="Description">2023 PANINI SCORE 341 TUCKER KRAFT AUTOGRAPH-GOLD ZONE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351772" data-description="2018 TOPPS DEFINITIVE FRAMED AUTOGRAPH COLLECTION CK CLAYTON KERSHAW PURPLE" data-itemnumber="1" data-linenumber="114" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351772</td>
+<td data-title="Description">2018 TOPPS DEFINITIVE FRAMED AUTOGRAPH COLLECTION CK CLAYTON KERSHAW PURPLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351773" data-description="2020 PANINI DONRUSS OPTIC 164 JALEN HURTS PINK" data-itemnumber="1" data-linenumber="115" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351773</td>
+<td data-title="Description">2020 PANINI DONRUSS OPTIC 164 JALEN HURTS PINK</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351774" data-description="2020 PANINI SELECT 350 JALEN HURTS DIE-CUT LIGHT BLUE PRIZM" data-itemnumber="1" data-linenumber="116" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351774</td>
+<td data-title="Description">2020 PANINI SELECT 350 JALEN HURTS DIE-CUT LIGHT BLUE PRIZM</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351775" data-description="2023 PANINI MOSAIC 292 CJ STROUD FUSION RED &amp; YELLOW CHOICE" data-itemnumber="1" data-linenumber="117" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351775</td>
+<td data-title="Description">2023 PANINI MOSAIC 292 CJ STROUD FUSION RED &amp; YELLOW CHOICE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351776" data-description="2023 PANINI NATIONAL SILVER PACKS ROOKIES 2 CJ STROUD RED" data-itemnumber="1" data-linenumber="118" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351776</td>
+<td data-title="Description">2023 PANINI NATIONAL SILVER PACKS ROOKIES 2 CJ STROUD RED</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351777" data-description="2018 TOPPS HIGH TEK HT-SO SHOHEI OHTANI BLACK &amp; WHITE-GALACTIC DIFFRACTOR" data-itemnumber="1" data-linenumber="119" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351777</td>
+<td data-title="Description">2018 TOPPS HIGH TEK HT-SO SHOHEI OHTANI BLACK &amp; WHITE-GALACTIC DIFFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351778" data-description="2022 LEAF METAL DRAFT TOUCHDOWN KINGS AUTOGRAPHS TKCW1 CALEB WILLIAMS GREEN PRISMATIC" data-itemnumber="1" data-linenumber="120" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351778</td>
+<td data-title="Description">2022 LEAF METAL DRAFT TOUCHDOWN KINGS AUTOGRAPHS TKCW1 CALEB WILLIAMS GREEN PRISMATIC</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351779" data-description="2016 PANINI DONRUSS ELITE GAME FACE GFTB TOM BRADY BLUE" data-itemnumber="1" data-linenumber="121" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351779</td>
+<td data-title="Description">2016 PANINI DONRUSS ELITE GAME FACE GFTB TOM BRADY BLUE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351780" data-description="2022 PANINI NATIONAL 24 NIKOLA JOKIC GREEN" data-itemnumber="1" data-linenumber="122" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351780</td>
+<td data-title="Description">2022 PANINI NATIONAL 24 NIKOLA JOKIC GREEN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351781" data-description="2022 TOPPS CHROME VETERAN AUTOGRAPHS CVAJCJ JAZZ CHISHOLM JR. PURPLE REFRACTOR" data-itemnumber="1" data-linenumber="123" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351781</td>
+<td data-title="Description">2022 TOPPS CHROME VETERAN AUTOGRAPHS CVAJCJ JAZZ CHISHOLM JR. PURPLE REFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351782" data-description="2020 PANINI DONRUSS OPTIC DOWNTOWN DT15 AARON RODGERS" data-itemnumber="1" data-linenumber="124" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351782</td>
+<td data-title="Description">2020 PANINI DONRUSS OPTIC DOWNTOWN DT15 AARON RODGERS</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351783" data-description="2022 PANINI SELECT 120 JOE BURROW DIE-CUT ZEBRA PRIZM" data-itemnumber="1" data-linenumber="125" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351783</td>
+<td data-title="Description">2022 PANINI SELECT 120 JOE BURROW DIE-CUT ZEBRA PRIZM</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351784" data-description="2023 PANINI IMMACULATE COLLECTION COLLEGIATE ROOKIE PATCH AUTOGRAPHS 7 BIJAN ROBINSON RUBY" data-itemnumber="1" data-linenumber="126" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351784</td>
+<td data-title="Description">2023 PANINI IMMACULATE COLLECTION COLLEGIATE ROOKIE PATCH AUTOGRAPHS 7 BIJAN ROBINSON RUBY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351785" data-description="1982 TOPPS 21 ORIOLES FUTURE STARS BONNER/RIPKEN/SCHNEIDER" data-itemnumber="1" data-linenumber="127" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351785</td>
+<td data-title="Description">1982 TOPPS 21 ORIOLES FUTURE STARS BONNER/RIPKEN/SCHNEIDER</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351786" data-description="2023 TOPPS NOW 472 VICTOR WEMBANYAMA" data-itemnumber="1" data-linenumber="128" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351786</td>
+<td data-title="Description">2023 TOPPS NOW 472 VICTOR WEMBANYAMA</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351787" data-description="2023 PANINI INSTANT RPS FIRST LOOK RPS1 VICTOR WEMBANYAMA" data-itemnumber="1" data-linenumber="129" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351787</td>
+<td data-title="Description">2023 PANINI INSTANT RPS FIRST LOOK RPS1 VICTOR WEMBANYAMA</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351788" data-description="2023 PANINI INSTANT RPS FIRST LOOK RPS1 VICTOR WEMBANYAMA" data-itemnumber="1" data-linenumber="130" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351788</td>
+<td data-title="Description">2023 PANINI INSTANT RPS FIRST LOOK RPS1 VICTOR WEMBANYAMA</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351789" data-description="2022 BOWMAN DRAFT 1ST EDITION 168 JACKSON HOLLIDAY" data-itemnumber="1" data-linenumber="131" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351789</td>
+<td data-title="Description">2022 BOWMAN DRAFT 1ST EDITION 168 JACKSON HOLLIDAY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351790" data-description="2022 BOWMAN DRAFT HEIR APPARENT HA1 JACKSON HOLLIDAY" data-itemnumber="1" data-linenumber="132" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351790</td>
+<td data-title="Description">2022 BOWMAN DRAFT HEIR APPARENT HA1 JACKSON HOLLIDAY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351791" data-description="2022 BOWMAN DRAFT BD168 JACKSON HOLLIDAY" data-itemnumber="1" data-linenumber="133" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351791</td>
+<td data-title="Description">2022 BOWMAN DRAFT BD168 JACKSON HOLLIDAY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351792" data-description="2023 BOWMAN CHROME PROSPECTS BCP61 JUNIOR CAMINERO ORANGE REFRACTOR" data-itemnumber="1" data-linenumber="134" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351792</td>
+<td data-title="Description">2023 BOWMAN CHROME PROSPECTS BCP61 JUNIOR CAMINERO ORANGE REFRACTOR</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351793" data-description="2000 POKEMON ROCKET 4 DARK CHARIZARD-HOLO" data-itemnumber="1" data-linenumber="135" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351793</td>
+<td data-title="Description">2000 POKEMON ROCKET 4 DARK CHARIZARD-HOLO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351794" data-description="2023 POKEMON MEW EN-151 198 VENUSAUR EX SPECIAL ILLUSTRATION RARE" data-itemnumber="1" data-linenumber="136" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351794</td>
+<td data-title="Description">2023 POKEMON MEW EN-151 198 VENUSAUR EX SPECIAL ILLUSTRATION RARE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351795" data-description="2022 PANINI FLAWLESS COLLEGIATE 74 RANDY MOSS EMERALD" data-itemnumber="1" data-linenumber="137" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351795</td>
+<td data-title="Description">2022 PANINI FLAWLESS COLLEGIATE 74 RANDY MOSS EMERALD</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351796" data-description="1981 TOPPS 21 MAGIC JOHNSON" data-itemnumber="1" data-linenumber="138" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351796</td>
+<td data-title="Description">1981 TOPPS 21 MAGIC JOHNSON</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351797" data-description="1989 HOOPS 150 LARRY BIRD " data-itemnumber="1" data-linenumber="139" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351797</td>
+<td data-title="Description">1989 HOOPS 150 LARRY BIRD </td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351798" data-description="1993 UPPER DECK 466 MICHAEL JORDAN" data-itemnumber="1" data-linenumber="140" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351798</td>
+<td data-title="Description">1993 UPPER DECK 466 MICHAEL JORDAN</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351799" data-description="2020 PANINI DONRUSS 230 TOM BRADY" data-itemnumber="1" data-linenumber="141" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351799</td>
+<td data-title="Description">2020 PANINI DONRUSS 230 TOM BRADY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351800" data-description="2020 PANINI DONRUSS 230 TOM BRADY" data-itemnumber="1" data-linenumber="142" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351800</td>
+<td data-title="Description">2020 PANINI DONRUSS 230 TOM BRADY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351801" data-description="2020 PANINI DONRUSS 230 TOM BRADY" data-itemnumber="1" data-linenumber="143" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351801</td>
+<td data-title="Description">2020 PANINI DONRUSS 230 TOM BRADY</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351802" data-description="2020 PANINI PRIZM 363 JORDAN LOVE GREEN PRIZM" data-itemnumber="1" data-linenumber="144" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351802</td>
+<td data-title="Description">2020 PANINI PRIZM 363 JORDAN LOVE GREEN PRIZM</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351803" data-description="2022 LEAF VALIANT ALL-AMERICAN AUTOGRAPHS AACW1 CALEB WILLIAMS PURPLE CRYSTAL" data-itemnumber="1" data-linenumber="145" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351803</td>
+<td data-title="Description">2022 LEAF VALIANT ALL-AMERICAN AUTOGRAPHS AACW1 CALEB WILLIAMS PURPLE CRYSTAL</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351804" data-description="2022 LEAF PRO SET METAL POWER SURGE AUTOGRAPHS PSCW1 CALEB WILLIAMS PINK WAVE" data-itemnumber="1" data-linenumber="146" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351804</td>
+<td data-title="Description">2022 LEAF PRO SET METAL POWER SURGE AUTOGRAPHS PSCW1 CALEB WILLIAMS PINK WAVE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351805" data-description="2022 LEAF PRO SET METAL AUTOGRAPHS PACW2 CALEB WILLIAMS RWB MOJO" data-itemnumber="1" data-linenumber="147" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351805</td>
+<td data-title="Description">2022 LEAF PRO SET METAL AUTOGRAPHS PACW2 CALEB WILLIAMS RWB MOJO</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351806" data-description="2022 LEAF VALIANT RISING STOCK AUTOGRAPHS RSCW1 CALEB WILLIAMS PURPLE" data-itemnumber="1" data-linenumber="148" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351806</td>
+<td data-title="Description">2022 LEAF VALIANT RISING STOCK AUTOGRAPHS RSCW1 CALEB WILLIAMS PURPLE</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351807" data-description="2023 BOWMAN UNIVERSITY CHROME RAMBLIN' MAN AUTOGRAPHS RMAMHJ MARVIN HARRISON JR." data-itemnumber="1" data-linenumber="149" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351807</td>
+<td data-title="Description">2023 BOWMAN UNIVERSITY CHROME RAMBLIN' MAN AUTOGRAPHS RMAMHJ MARVIN HARRISON JR.</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+<tr class="report-error-row" data-certno="84351808" data-description="2022 LEAF FLASH AUTOGRAPHS BABR1 BIJAN ROBINSON LEOPARD METALIZED SPARKLES" data-itemnumber="1" data-linenumber="150" data-orderlinecerterrorid="">
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">84351808</td>
+<td data-title="Description">2022 LEAF FLASH AUTOGRAPHS BABR1 BIJAN ROBINSON LEOPARD METALIZED SPARKLES</td>
+<td class="report-error-col" data-title="Status" style="width: 50%;"><a class="report-error-badge report-error-link" href="#"><span class="report-error-icon"></span>Report Error</a></td>
+
+
+</tr>
+</tbody>
+</table>

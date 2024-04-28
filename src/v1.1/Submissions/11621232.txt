@@ -1,0 +1,120 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79261529
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Contenders 127 Kenny Pickett Autograph-Playoff Ticket
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79261530
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Donruss Optic Rookie Dominators Signatures Rdspbc Paolo Banchero
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79261531
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>MINT 9</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2021 Panini Prizm 334 Justin Fields Purple Prizm
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79261532
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>NM-MT 8</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2021 Panini Prizm 334 Justin Fields Green Scope
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+79261533
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2021 Panini Flawless Rookie Patches RP9 Justin Fields
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+</tbody>
+</table>

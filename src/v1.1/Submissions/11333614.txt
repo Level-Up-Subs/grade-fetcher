@@ -1,0 +1,561 @@
+<table class="table table-transform-thin" style="border-collapse: collapse; border: 1px solid black;">
+<thead>
+<tr>
+
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th style="width: 50%;">Description</th>
+
+
+</tr>
+</thead>
+<tbody>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487969
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2017 Topps Diamond Icons Autographs Audo David Ortiz
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487970
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2020 Leaf Metal Joe Montana Collection Autographs JMC13 Joe Montana
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487971
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2021 Panini Court Kings Heir Apparent Autographs HA-Arv Austin Reaves
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487972
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2021 Panini Prizm Sensational Signatures Sstmu Trey Murphy III Choice
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487973
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Donruss 304 Desmond Ridder Autograph
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487974
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2003 Upper Deck Legends Legendary Signatures LS-MA Magic Johnson
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487975
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2016 Bowman Draft Chrome Draft Picks Autographs Cdaws Will Smith Blue Wave Refractor
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487976
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2013 Panini Prizm 238 Geno Smith Autograph-Prizm
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487977
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>MINT 9</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2001 Topps Archives Reserve 92 Dick Butkus
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487978
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Spectra 211 Kenny Pickett Rookie Patch Autograph-Neon Blue
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487979
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>MINT 9</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2019 Panini Prizm 323 Josh Jacobs Autograph-Neon Green Pulsar
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487980
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>MINT 9</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2012 Multi-Ad Sacramento River Cats 24 Justin Souza
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487981
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospect Autographs Cpaocs Oscar Colas Purple Refractor
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487982
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospect Autographs Cpaocs Oscar Colas Purple Refractor
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487983
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatlb Trey Lipscomb Purple Refractor
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487984
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdatlb Trey Lipscomb Orange Refractor
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487985
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospect Autographs Cpajco Jackson Chourio 
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487986
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>MINT 9</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdajh Jackson Holliday
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487987
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Draft Chrome Draft Pick Autographs Cdaeg Elijah Green
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487988
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Bowman Chrome Prospect Autographs Cpacmy Colson Montgomery Speckle Refractor
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487989
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 309 Garrett Wilson Autograph
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487990
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 303 Malik Willis Autograph
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487991
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2022 Panini Prizm 305 Bailey Zappe Autograph
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487992
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+NEAR MINT-MINT 8                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2020 Panini National Treasures Colossal Material Autographs Tyh Tyrese Haliburton
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487993
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+EXCELLENT 5                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2020 Panini Prizm 343 Jalen Hurts Autograph-Red Wave
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+<tr>
+
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+74487994
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>GEM MT 10</span>
+</td>
+<td class="psadna-row" data-title="Description" style="width: 50%;">
+                                            2020 Panini Donruss Optic 151 Anthony Edwards Fanatics Box Set
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+
+
+</tr>
+</tbody>
+</table>

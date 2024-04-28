@@ -1,0 +1,1487 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769973/psa" target="_blank">87769973</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2019 Panini Mosaic Scripts Scadv Anthony Davis
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234858" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769974/psa" target="_blank">87769974</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 209 Marjon Beauchamp Jersey Autograph-Marble
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234859" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769975/psa" target="_blank">87769975</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2021 Panini Spectra 181 Jonathan Kuminga Jersey Autograph-Astral
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234860" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769976/psa" target="_blank">87769976</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 220 David Roddy Jersey Autograph-Meta
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234861" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">5</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769977/psa" target="_blank">87769977</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2021 Panini Spectra 187 Jalen Green Jersey Autograph
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234862" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">6</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769978/psa" target="_blank">87769978</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 216 Blake Wesley Jersey Autograph-Asia
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234863" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">7</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769979/psa" target="_blank">87769979</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 202 AJ Griffin Jersey Autograph
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234864" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">8</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769980/psa" target="_blank">87769980</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra Radiant Signatures Rsmjb Marjon Beauchamp Astral
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234865" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">9</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769981/psa" target="_blank">87769981</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra Aspiring Autographs Aaoca Ochai Agbaji Purple
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234866" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">10</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769982/psa" target="_blank">87769982</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution 92 Nikola Jokic Asia-Holo Silver
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234867" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">11</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769983/psa" target="_blank">87769983</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution 46 Anthony Edwards Asia-Holo Silver
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234868" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">12</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769984/psa" target="_blank">87769984</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution 58 LeBron James Asia-Holo Silver
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234869" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">13</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769985/psa" target="_blank">87769985</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select 181 Max Christie Green Wave
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234870" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">14</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769986/psa" target="_blank">87769986</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2021 Panini Prizm 308 Moses Moody Purple Fast Break
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234871" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">15</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769987/psa" target="_blank">87769987</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 25 Charles Barkley Astral
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234872" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">16</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769988/psa" target="_blank">87769988</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 134 Devin Booker Black Velocity
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234873" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">17</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769989/psa" target="_blank">87769989</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 222 Malaki Branham Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234874" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">18</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769990/psa" target="_blank">87769990</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select 75 Marjon Beauchamp White Disco
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234875" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">19</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769991/psa" target="_blank">87769991</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 233 Dyson Daniels Orange Prizm
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234876" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">20</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769992/psa" target="_blank">87769992</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 233 Dyson Daniels Purple Ice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234877" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">21</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769993/psa" target="_blank">87769993</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 250 Dyson Daniels Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234878" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">22</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769994/psa" target="_blank">87769994</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 225 David Roddy Black Velocity
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234879" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">23</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769995/psa" target="_blank">87769995</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select 85 Christian Braun Light Blue Disco
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234880" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">24</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769996/psa" target="_blank">87769996</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian 165 Christian Braun Electric Etch Purple
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234881" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">25</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769997/psa" target="_blank">87769997</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Crown Royale 73 Joel Embiid Crystal Green Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234882" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">26</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769998/psa" target="_blank">87769998</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Crown Royale 38 Jalen Brunson Crystal Green Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234883" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">27</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87769999/psa" target="_blank">87769999</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Crown Royale 91 Ja Morant Crystal Green Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234884" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">28</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770000/psa" target="_blank">87770000</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Crown Royale 83 Scottie Barnes Crystal Green Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234885" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">29</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770001/psa" target="_blank">87770001</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic 184 Jonathan Kuminga Pink Swirl Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234886" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">30</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770002/psa" target="_blank">87770002</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Contenders Optic Sophomore Contenders Autographs Scascb Scottie Barnes Orange
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234887" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">31</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770003/psa" target="_blank">87770003</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm Fast Break Autographs Fbtps Tony Parker
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234888" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">32</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770004/psa" target="_blank">87770004</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2021 Panini Revolution Rookie Autographs RA-Asg Alperen Sengun Asia
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234889" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">33</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770005/psa" target="_blank">87770005</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2017 Panini Prizm 298 Derrick White Autograph
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234890" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">34</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770006/psa" target="_blank">87770006</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Contenders Sophomore Contenders Autographs Scdml Davion Mitchell Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234891" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">35</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770007/psa" target="_blank">87770007</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution Rookie Autographs Ramjb Marjon Beauchamp
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234892" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">36</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770008/psa" target="_blank">87770008</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 225 David Roddy Signature
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234893" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">37</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770009/psa" target="_blank">87770009</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm Fast Break Autographs Fbjsj John Stockton
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234894" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">38</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770010/psa" target="_blank">87770010</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm Sensational Signatures Ssjy Jaylin Williams Silver Prizm
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234895" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">39</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770011/psa" target="_blank">87770011</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm Fast Break Autographs Fbrjb RJ Barrett
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234896" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">40</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770012/psa" target="_blank">87770012</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 229 Caleb Houstan Pink Velocity
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234897" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">41</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770013/psa" target="_blank">87770013</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 229 Caleb Houstan Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234898" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">42</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770014/psa" target="_blank">87770014</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 229 Caleb Houstan Fast Break Purple
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234899" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">43</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770015/psa" target="_blank">87770015</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic 246 Caleb Houstan Pink Swirl Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234900" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">44</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770016/psa" target="_blank">87770016</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution 109 Christian Braun Asia-Holo Silver
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234901" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">45</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770017/psa" target="_blank">87770017</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 215 Blake Wesley Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234902" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">46</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770018/psa" target="_blank">87770018</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 264 Blake Wesley Blue Shimmer Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234903" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">47</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770019/psa" target="_blank">87770019</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic 249 Blake Wesley Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234904" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">48</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770020/psa" target="_blank">87770020</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select 77 Andrew Nembhard Light Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234905" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">49</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770021/psa" target="_blank">87770021</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution 135 Peyton Watson Asia-Holo Silver
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234906" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">50</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770022/psa" target="_blank">87770022</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm Widescreen 2 LeBron James Fast Break
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234907" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">51</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770023/psa" target="_blank">87770023</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 65 Aaron Wiggins Black Prizm 1/1
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234908" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">52</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770024/psa" target="_blank">87770024</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 83 Alex Caruso Green Choice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234909" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">53</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770025/psa" target="_blank">87770025</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 68 Aaron Gordon Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234910" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">54</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770026/psa" target="_blank">87770026</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian 58 OG Anunoby Electric Etch Yellow Flood
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234911" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">55</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770027/psa" target="_blank">87770027</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Mosaic 121 PJ Washington Jr. Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234912" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">56</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770028/psa" target="_blank">87770028</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 246 Jaylin Williams Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234913" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">57</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770029/psa" target="_blank">87770029</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 11 Jalen Brunson Green Choice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234914" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">58</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770030/psa" target="_blank">87770030</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 66 Donovan Mitchell Gold Shimmer Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234915" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">59</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770031/psa" target="_blank">87770031</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 10 Fred Vanvleet Fast Break Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234916" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">60</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770032/psa" target="_blank">87770032</a>
+</td>
+<td data-title="Grade">
+EXCELLENT 5                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Elite 224 AJ Griffin Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234917" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">61</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770033/psa" target="_blank">87770033</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Spectra 166 AJ Griffin Marble
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234918" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">62</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770034/psa" target="_blank">87770034</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 284 Karl Malone Gold Shimmer Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234919" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">63</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770035/psa" target="_blank">87770035</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution 49 Kristaps Porzingis Lava
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234920" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">64</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770036/psa" target="_blank">87770036</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2021 Panini Crown Royale Test of Time 12 Russell Westbrook Asia Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234921" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">65</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770037/psa" target="_blank">87770037</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 94 Saddiq Bey Gold
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234922" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">66</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770038/psa" target="_blank">87770038</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select Rookie Signatures Rsanh Andrew Nembhard Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234923" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">67</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770039/psa" target="_blank">87770039</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Contenders 129 AJ Griffin Autograph
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234924" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">68</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770040/psa" target="_blank">87770040</a>
+</td>
+<td data-title="Grade">
+NEAR MINT 7                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Next Day Autographs Ndanp Andrew Nembhard
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234925" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">69</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770041/psa" target="_blank">87770041</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Court Kings Impressionist Ink Iirmt Rudy Gobert Sapphire
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234926" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">70</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770042/psa" target="_blank">87770042</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 176 Ja Morant Blue
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234927" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">71</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770043/psa" target="_blank">87770043</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 127 Trae Young Purple Stars Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234928" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">72</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770044/psa" target="_blank">87770044</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 133 Russell Westbrook Purple Choice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234929" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">73</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770045/psa" target="_blank">87770045</a>
+</td>
+<td data-title="Grade">
+EXCELLENT-MINT 6                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 70 Rudy Gobert Fast Break Pink
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234930" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">74</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770046/psa" target="_blank">87770046</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2021 Panini Obsidian 134 Larry Bird Electric Etch Green Flood
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234931" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">75</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770047/psa" target="_blank">87770047</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Select 65 Kawhi Leonard Light Blue Disco
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234932" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">76</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770048/psa" target="_blank">87770048</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 5 Kyrie Irving Blue Shimmer Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234933" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">77</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770049/psa" target="_blank">87770049</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian Orbital 2 Kevin Durant Electric Etch Purple
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234934" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">78</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770050/psa" target="_blank">87770050</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian 150 Tim Duncan Electric Etch Green Flood Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234935" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">79</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770051/psa" target="_blank">87770051</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian 150 Tim Duncan Electric Etch Green Flood Fotl
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234936" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">80</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770052/psa" target="_blank">87770052</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Court Kings 186 Ochai Agbaji
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234937" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">81</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770053/psa" target="_blank">87770053</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 176 Ja Morant Photon
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234938" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">82</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770054/psa" target="_blank">87770054</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 181 Zion Williamson Photon
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234939" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">83</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770055/psa" target="_blank">87770055</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic 3 Jalen Brunson Photon
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234940" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">84</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770056/psa" target="_blank">87770056</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Court Kings 156 Ochai Agbaji
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234941" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">85</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770057/psa" target="_blank">87770057</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Court Kings 135 Blake Wesley
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234942" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">86</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770058/psa" target="_blank">87770058</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Revolution Star Factor 14 Anthony Edwards 
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234943" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">87</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770059/psa" target="_blank">87770059</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Prizm 67 Rudy Gobert Tiger Stripe Choice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234944" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">88</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770060/psa" target="_blank">87770060</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2021 Panini Mosaic 268 Jonathan Kuminga Fusion Red/Yellow Choice
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234945" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">89</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770061/psa" target="_blank">87770061</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Donruss Optic Elite Dominators 17 Trae Young Red
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234946" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">90</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770062/psa" target="_blank">87770062</a>
+</td>
+<td data-title="Grade">
+MINT 9                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian 38 Tyrese Maxey Electric Etch Red/Yellow/Green Flood
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234947" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">91</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770063/psa" target="_blank">87770063</a>
+</td>
+<td data-title="Grade">
+GEM MINT 10                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian Equinox 27 Ja Morant Electric Etch Green
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234948" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">92</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/87770064/psa" target="_blank">87770064</a>
+</td>
+<td data-title="Grade">
+NEAR MINT-MINT 8                                    </td>
+<td data-title="Description">
+                                            2022 Panini Obsidian Orbital 7 Ja Morant Electric Etch Orange
+                                        </td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="154234949" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>

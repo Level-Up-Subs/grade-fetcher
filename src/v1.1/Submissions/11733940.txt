@@ -1,0 +1,107 @@
+<table class="table table-transform-thin">
+<thead>
+<tr>
+<th>Line #</th>
+<th>Item #</th>
+<th>Cert #</th>
+<th>Grade</th>
+<th>Description</th>
+<th>Images</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Line #">1</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83141840/psa" target="_blank">83141840</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            1996 Topps NBA Stars Reprint 30 George Mikan 1948 Reprint-Autograph-D.G. Only
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="149051146" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">2</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83141841/psa" target="_blank">83141841</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2023 Carddass DISNEY100 Wonder Card Collection Colors of the Wind
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="149051147" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">3</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83141842/psa" target="_blank">83141842</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+GEM MINT 10                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2023 Carddass DISNEY100 Wonder Card Collection Bambi Stamp
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="149051148" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+<tr>
+<td data-title="Line #">4</td>
+<td data-title="Item #">1</td>
+<td data-title="Cert #">
+<a href="/cert/83141843/psa" target="_blank">83141843</a>
+</td>
+<td data-title="Grade">
+<strong>Item Grade:</strong>
+MINT 9                                                <hr style="margin: 8px 0"/>
+<strong>Auto Grade:</strong>
+<span>Authentic</span>
+</td>
+<td class="psadna-row" data-title="Description">
+                                            2023 Carddass DISNEY100 Wonder Card Collection Bambi Polygon
+                                            <div class="psadna-certified">
+<span></span>PSA/DNA Certified
+                                            </div>
+</td>
+<td data-title="Cert Image">
+<span class="cert-preview" data-cert-id="149051149" data-dept-id="10">Cert Image</span>
+</td>
+<td data-title="Type">Card</td>
+</tr>
+</tbody>
+</table>
