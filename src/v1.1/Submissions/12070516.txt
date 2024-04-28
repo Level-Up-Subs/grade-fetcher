@@ -1,0 +1,112 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89616915</td>
+            <td>MINT 9</td>
+            <td>2023 UPPER DECK 451 CONNOR BEDARD</td>
+            </tr>
+            
+            <tr>
+            <td>89616916</td>
+            <td>MINT 9</td>
+            <td>2022 TOPPS COSMIC CHROME AUTOGRAPHS OC ONEIL CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>89616917</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89616918</td>
+            <td>EX-MT 6</td>
+            <td>2024 TOPPS 1989 TOPPS BASEBALL AUTOGRAPHS 89BAED ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>89616919</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS CHROME MLS 58 LIONEL MESSI</td>
+            </tr>
+            
+            <tr>
+            <td>89616920</td>
+            <td>MINT 9</td>
+            <td>2023 UPPER DECK 451 CONNOR BEDARD</td>
+            </tr>
+            
+            <tr>
+            <td>89616921</td>
+            <td>GEM MT 10</td>
+            <td>2023 UPPER DECK 451 CONNOR BEDARD</td>
+            </tr>
+            
+            <tr>
+            <td>89616922</td>
+            <td>NM-MT 8</td>
+            <td>2008 TOPPS UPDATE & HIGHLIGHTS UH240 CLAYTON KERSHAW</td>
+            </tr>
+            
+            <tr>
+            <td>89616923</td>
+            <td>NM-MT 8</td>
+            <td>2008 TOPPS UPDATE & HIGHLIGHTS UH240 CLAYTON KERSHAW</td>
+            </tr>
+            
+            <tr>
+            <td>89616924</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 208 RAGING BOLT ex</td>
+            </tr>
+            
+            <tr>
+            <td>89616925</td>
+            <td>MINT 9</td>
+            <td>2017 PANINI PRIZM 269 PATRICK MAHOMES II</td>
+            </tr>
+            
+            <tr>
+            <td>89616926</td>
+            <td>NM-MT 8</td>
+            <td>2017 PANINI PRIZM 269 PATRICK MAHOMES II</td>
+            </tr>
+            
+            <tr>
+            <td>89616927</td>
+            <td>NM-MT 8</td>
+            <td>2020 PANINI FLAWLESS ROOKIE GEMS SIGNATURES RGSTTA TUA TAGOVAILOA</td>
+            </tr>
+            
+            <tr>
+            <td>89616928</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI CHRONICLES CROWN ROYALE CR4 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>89616929</td>
+            <td>NM-MT 8</td>
+            <td>2022 PANINI DONRUSS OPTIC DOWNTOWN DTBP BROCK PURDY</td>
+            </tr>
+            
+            <tr>
+            <td>89616930</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 339 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89616931</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 3 TRAE YOUNG</td>
+            </tr>
+            
+    </table>
+    
