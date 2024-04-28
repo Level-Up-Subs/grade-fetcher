@@ -5,6 +5,24 @@ Automatically fetch grades from PSA account. This project works in tandem with t
 [Grade Server](https://github.com/Level-Up-Subs/grade-server),
 and [PSA Grades](https://github.com/Level-Up-Subs/psa-grade).
 
+## Version 1.1
+PSA has started displaying a CAPTCHA when navigating to order pages. This is 
+very tricky to bypass so we take another approach. 
+
+* user enters submission number
+* call to PSA API with sub number
+* returns status (and order number)
+* if the order is done, checks grade-fetch repo for submission
+* if the submission exists in the repo, display the data
+* else, send an email to psagradetracker@gmail.com with order number
+* cron job on local computer that runs every n minutes; adjust n accordingly
+    * log into psa
+    * construct a URL that PSA uses to fetch order data
+    * for each cert number received
+        * call to PSA API with cert number
+        * format data for HTML
+        * save file in submissions folder
+
 ## Version 1
 * user enters submission number
 * call to PSA API with sub number
