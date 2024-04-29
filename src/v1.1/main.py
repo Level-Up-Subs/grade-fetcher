@@ -200,16 +200,16 @@ for index, message in enumerate(messages):
                 order_number = int(match.group(2))
             else:
                 print("Submission number and order number not found in the email body.")
-                exit(1)
+                continue
         else:
             print("No body data found in the email.")
-            exit(1)
+            continue
     else:
         print("No text/plain part found in the email payload.")
-        exit(1)
+        continue
     
-    print(submission_number)
-    print(order_number)
+    #print(submission_number)
+    #print(order_number)
     
     # format the request based on the order number
     r1 = f'{{"orderNumber": "{order_number}"}}'
