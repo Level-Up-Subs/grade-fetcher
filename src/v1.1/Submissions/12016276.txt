@@ -7,6 +7,78 @@
     </tr>
     
             <tr>
+            <td>88888128</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>88888129</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>88888130</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>88888131</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>88888132</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>88888133</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 69 JOEL EMBIID</td>
+            </tr>
+            
+            <tr>
+            <td>88888134</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 84 GRADEY DICK</td>
+            </tr>
+            
+            <tr>
+            <td>88888135</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PRIZM BREAK 5 STEPHEN CURRY</td>
+            </tr>
+            
+            <tr>
+            <td>88888136</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM PORTALS PO2 HENDON HOOKER</td>
+            </tr>
+            
+            <tr>
+            <td>88888137</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 149 JALEN SLAWSON</td>
+            </tr>
+            
+            <tr>
+            <td>88888056</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM SENSATIONAL SIGNATURES SSFP FILIP PETRUSEV</td>
+            </tr>
+            
+            <tr>
+            <td>88888029</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 331 JAHMYR GIBBS</td>
+            </tr>
+            
+            <tr>
             <td>88888027</td>
             <td>MINT 9</td>
             <td>2023 PANINI PRIZM 331 JAHMYR GIBBS</td>
@@ -14,12 +86,6 @@
             
             <tr>
             <td>88888028</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM 331 JAHMYR GIBBS</td>
-            </tr>
-            
-            <tr>
-            <td>88888029</td>
             <td>GEM MT 10</td>
             <td>2023 PANINI PRIZM 331 JAHMYR GIBBS</td>
             </tr>
@@ -178,12 +244,6 @@
             <td>88888055</td>
             <td>GEM MT 10</td>
             <td>2023 PANINI PRIZM 180 CHARLES BARKLEY</td>
-            </tr>
-            
-            <tr>
-            <td>88888056</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM SENSATIONAL SIGNATURES SSFP FILIP PETRUSEV</td>
             </tr>
             
             <tr>
@@ -610,66 +670,6 @@
             <td>88888127</td>
             <td>MINT 9</td>
             <td>2023 PANINI PRIZM 381 JALEN CARTER</td>
-            </tr>
-            
-            <tr>
-            <td>88888128</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
-            </tr>
-            
-            <tr>
-            <td>88888129</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
-            </tr>
-            
-            <tr>
-            <td>88888130</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
-            </tr>
-            
-            <tr>
-            <td>88888131</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
-            </tr>
-            
-            <tr>
-            <td>88888132</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
-            </tr>
-            
-            <tr>
-            <td>88888133</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM MONOPOLY 69 JOEL EMBIID</td>
-            </tr>
-            
-            <tr>
-            <td>88888134</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM MONOPOLY 84 GRADEY DICK</td>
-            </tr>
-            
-            <tr>
-            <td>88888135</td>
-            <td>GEM MT 10</td>
-            <td>2023 PANINI PRIZM PRIZM BREAK 5 STEPHEN CURRY</td>
-            </tr>
-            
-            <tr>
-            <td>88888136</td>
-            <td>MINT 9</td>
-            <td>2023 PANINI PRIZM PORTALS PO2 HENDON HOOKER</td>
-            </tr>
-            
-            <tr>
-            <td>88888137</td>
-            <td>MINT 9</td>
-            <td>2023 PANINI PRIZM 149 JALEN SLAWSON</td>
             </tr>
             
     </table>
