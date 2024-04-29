@@ -1,0 +1,106 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89845393</td>
+            <td>GEM MT 10</td>
+            <td>2021 BOWMAN DRAFT CHROME DRAFT PICK AUTOGRAPHS CDACC COLTON COWSER</td>
+            </tr>
+            
+            <tr>
+            <td>89845394</td>
+            <td>GEM MT 10</td>
+            <td>2021 BOWMAN DRAFT CHROME DRAFT PICK AUTOGRAPHS CDACC COLTON COWSER</td>
+            </tr>
+            
+            <tr>
+            <td>89845395</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS CHROME ROOKIE AUTOGRAPH RAGHE GUNNAR HENDERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89845396</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>89845397</td>
+            <td>MINT 9</td>
+            <td>1998 UPPER DECK BLACK DIAMOND YEAR OF THE GREAT ONE 55 WAYNE GRETZKY</td>
+            </tr>
+            
+            <tr>
+            <td>89845398</td>
+            <td>NM-MT 8</td>
+            <td>1998 UPPER DECK BLACK DIAMOND YEAR OF THE GREAT ONE 55 WAYNE GRETZKY</td>
+            </tr>
+            
+            <tr>
+            <td>89845399</td>
+            <td>EX-MT 6</td>
+            <td>1998 UPPER DECK BLACK DIAMOND YEAR OF THE GREAT ONE 55 WAYNE GRETZKY</td>
+            </tr>
+            
+            <tr>
+            <td>89845400</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>89845401</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>89845402</td>
+            <td>NM-MT 8</td>
+            <td>1996 UPPER DECK BLACK DIAMOND 180 WAYNE GRETZKY</td>
+            </tr>
+            
+            <tr>
+            <td>89845403</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>89845404</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI DONRUSS DOWNTOWN DTTB TOM BRADY</td>
+            </tr>
+            
+            <tr>
+            <td>89845405</td>
+            <td>NM-MT 8</td>
+            <td>1996 TOPPS CHROME 138 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>89845406</td>
+            <td>MINT 9</td>
+            <td>2023 UPPER DECK 451 CONNOR BEDARD</td>
+            </tr>
+            
+            <tr>
+            <td>89845407</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89845408</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN DRAFT CHROME PROSPECT AUTOGRAPH CDAWL WYATT LANGFORD</td>
+            </tr>
+            
+    </table>
+    
