@@ -1,0 +1,16 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89839323</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI PRIZM 343 ANTHONY RICHARDSON</td>
+            </tr>
+            
+    </table>
+    
