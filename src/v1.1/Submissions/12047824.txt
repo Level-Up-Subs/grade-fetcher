@@ -1,0 +1,34 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89442114</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPADO DYLAN O'RAE</td>
+            </tr>
+            
+            <tr>
+            <td>89442115</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI NATIONAL TREASURES 159 DESMOND RIDDER</td>
+            </tr>
+            
+            <tr>
+            <td>89442116</td>
+            <td>EX-MT 6</td>
+            <td>2022 PANINI NATIONAL TREASURES 159 DESMOND RIDDER</td>
+            </tr>
+            
+            <tr>
+            <td>89442117</td>
+            <td>NM-MT 8</td>
+            <td>2022 PANINI CONTENDERS OPTIC 139 JADEN IVEY</td>
+            </tr>
+            
+    </table>
+    
