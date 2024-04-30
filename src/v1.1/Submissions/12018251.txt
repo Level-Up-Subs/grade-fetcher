@@ -1,0 +1,166 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>88890787</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2023 PANINI STARS & STRIPES USA 42 MAXWELL CLARK</td>
+            </tr>
+            
+            <tr>
+            <td>88890788</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2023 PANINI STARS & STRIPES USA 42 MAXWELL CLARK</td>
+            </tr>
+            
+            <tr>
+            <td>88890789</td>
+            <td>N0: AUTHENTIC</td>
+            <td>1990 CLASSIC DRAFT PICKS 1 CHIPPER JONES</td>
+            </tr>
+            
+            <tr>
+            <td>88890790</td>
+            <td>N0: AUTHENTIC</td>
+            <td>1993 STADIUM CLUB BRAVES 9 CHIPPER JONES</td>
+            </tr>
+            
+            <tr>
+            <td>88890791</td>
+            <td>N0: AUTHENTIC</td>
+            <td>1991 UPPER DECK JERRY WEST HEROES 4 JERRY WEST</td>
+            </tr>
+            
+            <tr>
+            <td>88890792</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2022 PANINI OBSIDIAN 196 MAX CHRISTIE</td>
+            </tr>
+            
+            <tr>
+            <td>88890793</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2022 PANINI NBA HOOPS RISE N SHINE MEMORABILIA RSMC MAX CHRISTIE</td>
+            </tr>
+            
+            <tr>
+            <td>88890794</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890795</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890796</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890797</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890798</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890799</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890800</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890801</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890802</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890803</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890804</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890805</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890806</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>88890807</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2014 TOPPS ALLEN & GINTER 241 DAVE PORTNOY</td>
+            </tr>
+            
+            <tr>
+            <td>88890808</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2014 TOPPS ALLEN & GINTER 241 DAVE PORTNOY</td>
+            </tr>
+            
+            <tr>
+            <td>88890809</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2014 TOPPS ALLEN & GINTER 241 DAVE PORTNOY</td>
+            </tr>
+            
+            <tr>
+            <td>88890810</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2014 TOPPS ALLEN & GINTER 241 DAVE PORTNOY</td>
+            </tr>
+            
+            <tr>
+            <td>88890811</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2007 SCORE 55 DONALD DRIVER</td>
+            </tr>
+            
+            <tr>
+            <td>88890812</td>
+            <td>N0: AUTHENTIC</td>
+            <td>2022 LEAF IN THE GAME USED AUTOGRAPHS GUAEH1 ERLING HAALAND</td>
+            </tr>
+            
+    </table>
+    
