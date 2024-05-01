@@ -1,0 +1,16 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90847419</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE KABOOM! VERTICAL K33 BROCK PURDY</td>
+            </tr>
+            
+    </table>
+    
