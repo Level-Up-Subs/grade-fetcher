@@ -1,0 +1,562 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89087868</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 139 CASON WALLACE</td>
+            </tr>
+            
+            <tr>
+            <td>89087945</td>
+            <td>MINT 9</td>
+            <td>2022-23 PANINI PRIZM DRAFT PICKS COLLEGE PENMANSHIP CPVWJ VINCE WILLIAMS JR</td>
+            </tr>
+            
+            <tr>
+            <td>89087869</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 127 KEYONTE GEORGE</td>
+            </tr>
+            
+            <tr>
+            <td>89087870</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 330 JACK CAMPBELL</td>
+            </tr>
+            
+            <tr>
+            <td>89087871</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 131 ANDRE JACKSON JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087872</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087873</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 368 JORDAN ADDISON</td>
+            </tr>
+            
+            <tr>
+            <td>89087874</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 65 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087875</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 29 KLAY THOMPSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087876</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM EMERGENT 24 BRANDIN PODZIEMSKI</td>
+            </tr>
+            
+            <tr>
+            <td>89087877</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 65 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087878</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY BEST 6 JORDAN WALSH</td>
+            </tr>
+            
+            <tr>
+            <td>89087879</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 158 JORDAN WALSH</td>
+            </tr>
+            
+            <tr>
+            <td>89087880</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME SAPPHIRE 38 RILEY KUGEL</td>
+            </tr>
+            
+            <tr>
+            <td>89087881</td>
+            <td>GEM MT 10</td>
+            <td>2022-23 PANINI PRIZM DRAFT PICKS COLLEGE PENMANSHIP CPVWJ VINCE WILLIAMS JR</td>
+            </tr>
+            
+            <tr>
+            <td>89087882</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN UNIVERSITY BOWMAN INVICTA BI2 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89087883</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 360 AIDAN O'CONNELL</td>
+            </tr>
+            
+            <tr>
+            <td>89087884</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME SAPPHIRE 48 DALTON KNECHT</td>
+            </tr>
+            
+            <tr>
+            <td>89087885</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME SAPPHIRE 24 DARIN GREEN JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087886</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME SAPPHIRE 64 BRANDON GARRISON</td>
+            </tr>
+            
+            <tr>
+            <td>89087887</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME SAPPHIRE 95 BRONNY JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>89087888</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 90 BILAL COULIBALY</td>
+            </tr>
+            
+            <tr>
+            <td>89087889</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 48 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087890</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 48 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087891</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 87 KEYONTE GEORGE</td>
+            </tr>
+            
+            <tr>
+            <td>89087892</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 328 BRIAN BRANCH</td>
+            </tr>
+            
+            <tr>
+            <td>89087893</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 397 WILL LEVIS</td>
+            </tr>
+            
+            <tr>
+            <td>89087894</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 327 MARVIN MIMS</td>
+            </tr>
+            
+            <tr>
+            <td>89087895</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY INCEPTION 45 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>89087896</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 298 D'MOI HODGE</td>
+            </tr>
+            
+            <tr>
+            <td>89087897</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 149 JALEN SLAWSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087898</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 12 CASON WALLACE</td>
+            </tr>
+            
+            <tr>
+            <td>89087899</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 12 CASON WALLACE</td>
+            </tr>
+            
+            <tr>
+            <td>89087900</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 65 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087901</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 75 SCOOT HENDERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087902</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 137 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087903</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 399 EMMANUEL FORBES</td>
+            </tr>
+            
+            <tr>
+            <td>89087904</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 339 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89087905</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM FIREWORKS F6 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>89087906</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 87 KEYONTE GEORGE</td>
+            </tr>
+            
+            <tr>
+            <td>89087907</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY INCEPTION 20 WILL LEVIS</td>
+            </tr>
+            
+            <tr>
+            <td>89087908</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY INCEPTION 68 CAITLIN CLARK</td>
+            </tr>
+            
+            <tr>
+            <td>89087909</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY INCEPTION 88 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89087910</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN CHROME 93 RONALD ACUNA JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087911</td>
+            <td>NM-MT 8</td>
+            <td>2023 TOPPS CHROME LOGOFRACTOR EDITION 79 MICHAEL HARRIS II</td>
+            </tr>
+            
+            <tr>
+            <td>89087912</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 287 COLIN CASTLETON</td>
+            </tr>
+            
+            <tr>
+            <td>89087913</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 328 BRIAN BRANCH</td>
+            </tr>
+            
+            <tr>
+            <td>89087914</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 70 KEVIN DURANT</td>
+            </tr>
+            
+            <tr>
+            <td>89087915</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 63 CASON WALLACE</td>
+            </tr>
+            
+            <tr>
+            <td>89087916</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087917</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 55 ZION WILLIAMSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087918</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP116 D. DE LOS SANTOS</td>
+            </tr>
+            
+            <tr>
+            <td>89087919</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI MOSAIC INTRODUCTIONS I6 BIJAN ROBINSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087920</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 314 ROSCHON JOHNSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087921</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI PRIZM 390 JAXON SMITH-NJIGBA</td>
+            </tr>
+            
+            <tr>
+            <td>89087922</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 151 KOBE BUFKIN</td>
+            </tr>
+            
+            <tr>
+            <td>89087923</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 314 ROSCHON JOHNSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087924</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM FIREWORKS F6 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>89087925</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 322 D. THOMPSON-ROBINSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087926</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 332 SAM LaPORTA</td>
+            </tr>
+            
+            <tr>
+            <td>89087927</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 156 CHRIS LIVINGSTON</td>
+            </tr>
+            
+            <tr>
+            <td>89087928</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 179 GG JACKSON II</td>
+            </tr>
+            
+            <tr>
+            <td>89087929</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 287 COLIN CASTLETON</td>
+            </tr>
+            
+            <tr>
+            <td>89087930</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 97 BILAL COULIBALY</td>
+            </tr>
+            
+            <tr>
+            <td>89087931</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN'S BEST UNIVERSITY 1 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>89087932</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM DEEP SPACE 1 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087933</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 170 ANTHONY BLACK</td>
+            </tr>
+            
+            <tr>
+            <td>89087934</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087935</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY BEST 50 CAITLIN CLARK</td>
+            </tr>
+            
+            <tr>
+            <td>89087936</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 40 LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>89087937</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 100 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89087938</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI PRIZM 345 SNOOP CONNER</td>
+            </tr>
+            
+            <tr>
+            <td>89087939</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM HYPE H9 AMON-RA ST. BROWN</td>
+            </tr>
+            
+            <tr>
+            <td>89087940</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM PRIZMATIC 16 JUSTIN JEFFERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087941</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 363 TYREE WILSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087942</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 399 EMMANUEL FORBES</td>
+            </tr>
+            
+            <tr>
+            <td>89087943</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 50 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>89087944</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI SELECT 21 AYO DOSUNMU</td>
+            </tr>
+            
+            <tr>
+            <td>89087946</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087947</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087948</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN UNIVERSITY BEST 14 KYLE FILIPOWSKI</td>
+            </tr>
+            
+            <tr>
+            <td>89087949</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 147 BRANDIN PODZIEMSKI</td>
+            </tr>
+            
+            <tr>
+            <td>89087950</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89087951</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 48 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89087952</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 178 AUSAR THOMPSON</td>
+            </tr>
+            
+            <tr>
+            <td>89087953</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 362 TRE TUCKER</td>
+            </tr>
+            
+            <tr>
+            <td>89087954</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 324 DEUCE VAUGHN</td>
+            </tr>
+            
+            <tr>
+            <td>89087955</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 336 LUKAS VAN NESS</td>
+            </tr>
+            
+            <tr>
+            <td>89087956</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 158 JUSTIN HERBERT</td>
+            </tr>
+            
+            <tr>
+            <td>89087957</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PRIZMATIC 2 PATRICK MAHOMES II</td>
+            </tr>
+            
+            <tr>
+            <td>89087958</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 301 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>89087959</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 369 CHRISTIAN GONZALEZ</td>
+            </tr>
+            
+    </table>
+    
