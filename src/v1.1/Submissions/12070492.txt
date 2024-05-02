@@ -1,0 +1,544 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89618745</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS STARS OF MLB SMLB2 MIKE TROUT</td>
+            </tr>
+            
+            <tr>
+            <td>89618746</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS STADIUM CLUB TRIUMVIRATES T23 FREDDIE FREEMAN</td>
+            </tr>
+            
+            <tr>
+            <td>89618747</td>
+            <td>NM-MT 8</td>
+            <td>2021 SKYBOX METAL UNIVERSE CHAMPIONS REACHING FOR THE STARS DIE-CUT RFS1 TREVOR LAWRENCE</td>
+            </tr>
+            
+            <tr>
+            <td>89618744</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC SWAGGER 9 STEPHEN CURRY</td>
+            </tr>
+            
+            <tr>
+            <td>89618748</td>
+            <td>MINT 9</td>
+            <td>2008 POKEMON DIAMOND & PEARL GREAT ENCOUNTERS 49 PORYGON2</td>
+            </tr>
+            
+            <tr>
+            <td>89618749</td>
+            <td>MINT 9</td>
+            <td>2024 TOPPS SILVER PACK 1989 CHROME PROMO T89C83 ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>89618750</td>
+            <td>EX-MT 6</td>
+            <td>2023 PANINI PRIZM MONOPOLY ALL-STAR PS1 NIKOLA JOKIC</td>
+            </tr>
+            
+            <tr>
+            <td>89618751</td>
+            <td>GEM MT 10</td>
+            <td>2018 POKEMON SUN & MOON FORBIDDEN LIGHT 138 FA/DIALGA GX</td>
+            </tr>
+            
+            <tr>
+            <td>89618752</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 383 TANNER McKEE</td>
+            </tr>
+            
+            <tr>
+            <td>89618753</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM FIREWORKS F8 JOE BURROW</td>
+            </tr>
+            
+            <tr>
+            <td>89618754</td>
+            <td>NM-MT 8</td>
+            <td>1987 TOPPS 261 DANNY WHITE</td>
+            </tr>
+            
+            <tr>
+            <td>89618755</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI DONRUSS MAGICIANS 1 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89618756</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 173 RELICANTH</td>
+            </tr>
+            
+            <tr>
+            <td>89618757</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 152 HERO'S CAPE</td>
+            </tr>
+            
+            <tr>
+            <td>89618758</td>
+            <td>NM-MT 8</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 176 ARBOK</td>
+            </tr>
+            
+            <tr>
+            <td>89618759</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 165 DEERLING</td>
+            </tr>
+            
+            <tr>
+            <td>89618760</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 193 GENGAR ex</td>
+            </tr>
+            
+            <tr>
+            <td>89618761</td>
+            <td>NM-MT 8</td>
+            <td>1990 HOOPS 223 SAM VINCENT</td>
+            </tr>
+            
+            <tr>
+            <td>89618762</td>
+            <td>NM 7</td>
+            <td>1989 SCORE 3 MARK McGWIRE</td>
+            </tr>
+            
+            <tr>
+            <td>89618763</td>
+            <td>GEM MT 10</td>
+            <td>2022 DRAGON BALL SUPER CARD GAME SERIES 10 RISE OF THE UNISON WARRIOR 2ND EDITION BT10-011 BULMA THE BUNNY GIRL</td>
+            </tr>
+            
+            <tr>
+            <td>89618764</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 199 CHARIZARD ex</td>
+            </tr>
+            
+            <tr>
+            <td>89618765</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON OBF EN-OBSIDIAN FLAMES 223 CHARIZARD ex</td>
+            </tr>
+            
+            <tr>
+            <td>89618766</td>
+            <td>MINT 9</td>
+            <td>2022 POKEMON SWSH BLACK STAR PROMO 262 FA/CHARIZARD VSTAR</td>
+            </tr>
+            
+            <tr>
+            <td>89618767</td>
+            <td>MINT 9</td>
+            <td>2022 POKEMON SWSH BLACK STAR PROMO 261 FA/CHARIZARD VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>89618768</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE 189 PUKA NACUA</td>
+            </tr>
+            
+            <tr>
+            <td>89618769</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI MOSAIC 360 SAM LaPORTA</td>
+            </tr>
+            
+            <tr>
+            <td>89618770</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI PRIZM MONOPOLY ALL-STAR PS5 GIANNIS ANTETOKOUNMPO</td>
+            </tr>
+            
+            <tr>
+            <td>89618771</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 1 NIKOLA JOKIC</td>
+            </tr>
+            
+            <tr>
+            <td>89618772</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI NBA HOOPS 277 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89618773</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI SCORE 2003 THROWBACK ROOKIE 2 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89618774</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRESTIGE 314 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89618775</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI NBA HOOPS 298 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89618776</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI DONRUSS 220 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89618777</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI CHRONICLES UFC 262 SEAN O'MALLEY</td>
+            </tr>
+            
+            <tr>
+            <td>89618778</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI PRIZM 282 CADE CUNNINGHAM</td>
+            </tr>
+            
+            <tr>
+            <td>89618779</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI PRIZM 165 AUSTIN REAVES</td>
+            </tr>
+            
+            <tr>
+            <td>89618780</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI ABSOLUTE 127 NICO COLLINS</td>
+            </tr>
+            
+            <tr>
+            <td>89618781</td>
+            <td>EX-MT 6</td>
+            <td>2021 PANINI MOSAIC 330 NICO COLLINS</td>
+            </tr>
+            
+            <tr>
+            <td>89618782</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex 347 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>89618783</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 232 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>89618784</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS STADIUM CLUB 104 ADLEY RUTSCHMAN</td>
+            </tr>
+            
+            <tr>
+            <td>89618785</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS STADIUM CLUB GOIN' YARD GY19 JULIO RODRIGUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>89618786</td>
+            <td>MINT 9</td>
+            <td>2022 TOPPS CHROME UPDATE USC35 BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618787</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME UPDATE USC35 BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618788</td>
+            <td>GEM MT 10</td>
+            <td>2018 STADIUM CLUB 110 OZZIE ALBIES</td>
+            </tr>
+            
+            <tr>
+            <td>89618789</td>
+            <td>MINT 9</td>
+            <td>2018 TOPPS LEGENDS IN THE MAKING 4 OZZIE ALBIES</td>
+            </tr>
+            
+            <tr>
+            <td>89618790</td>
+            <td>MINT 9</td>
+            <td>2018 BOWMAN 49 SHOHEI OHTANI</td>
+            </tr>
+            
+            <tr>
+            <td>89618791</td>
+            <td>MINT 9</td>
+            <td>2024 TOPPS HEAVY LUMBER HL15 ADLEY RUTSCHMAN</td>
+            </tr>
+            
+            <tr>
+            <td>89618792</td>
+            <td>NM-MT 8</td>
+            <td>1994 MARVEL UNIVERSE FLAIR POWER BLAST 18 DR. DOOM</td>
+            </tr>
+            
+            <tr>
+            <td>89618793</td>
+            <td>NM-MT 8</td>
+            <td>1994 MARVEL UNIVERSE '94 FLAIR 78 DEADPOOL</td>
+            </tr>
+            
+            <tr>
+            <td>89618794</td>
+            <td>NM 7</td>
+            <td>2023 PANINI ABSOLUTE CHAMPIONSHIP FABRIC CF5 AARON DONALD</td>
+            </tr>
+            
+            <tr>
+            <td>89618795</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE STAR GAZING SG20 NICK BOSA</td>
+            </tr>
+            
+            <tr>
+            <td>89618796</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 96 TREVOR LAWRENCE</td>
+            </tr>
+            
+            <tr>
+            <td>89618797</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 96 TREVOR LAWRENCE</td>
+            </tr>
+            
+            <tr>
+            <td>89618798</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 102 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89618799</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 104 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>89618800</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI ABSOLUTE 189 PUKA NACUA</td>
+            </tr>
+            
+            <tr>
+            <td>89618801</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI ABSOLUTE 104 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>89618802</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI DONRUSS ROOKIE REVOLUTION RR2 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>89618803</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI DONRUSS THE ROOKIES 1 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89618804</td>
+            <td>VG-EX 4</td>
+            <td>2023 PANINI NBA HOOPS 298 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>89618805</td>
+            <td>NM 7</td>
+            <td>2023 PANINI DONRUSS BOMB SQUAD 2 JA MORANT</td>
+            </tr>
+            
+            <tr>
+            <td>89618806</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI DONRUSS 185 KLAY THOMPSON</td>
+            </tr>
+            
+            <tr>
+            <td>89618807</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM MONOPOLY 48 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618808</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM EMERGENT 23 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618809</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 137 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618810</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 137 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618811</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM INSTANT IMPACT 23 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618812</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI PRIZM 137 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618813</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 137 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618814</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI NBA HOOPS WE GOT NEXT 2 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618815</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI NBA HOOPS 249 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618816</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI DONRUSS 213 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618817</td>
+            <td>NM 7</td>
+            <td>2023 PANINI NBA HOOPS ROOKIE GREETINGS 2 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618818</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI NBA HOOPS ARRIVING NOW 30 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89618819</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 305 BIJAN ROBINSON</td>
+            </tr>
+            
+            <tr>
+            <td>89618820</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 69 NICK CHUBB</td>
+            </tr>
+            
+            <tr>
+            <td>89618821</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PRIZMATIC 1 JAXON SMITH-NJIGBA</td>
+            </tr>
+            
+            <tr>
+            <td>89618822</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 305 BIJAN ROBINSON</td>
+            </tr>
+            
+            <tr>
+            <td>89618823</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PRIZM BREAK PB7 JAYLEN WADDLE</td>
+            </tr>
+            
+            <tr>
+            <td>89618824</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM FIREWORKS F12 CHRISTIAN McCAFFREY</td>
+            </tr>
+            
+            <tr>
+            <td>89618825</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM FIREWORKS F9 KENNY PICKETT</td>
+            </tr>
+            
+            <tr>
+            <td>89618826</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PORTALS PO2 HENDON HOOKER</td>
+            </tr>
+            
+            <tr>
+            <td>89618827</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM HYPE H14 TJ WATT</td>
+            </tr>
+            
+            <tr>
+            <td>89618828</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM PRIZMATIC 16 JUSTIN JEFFERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89618829</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM FIREWORKS F3 TUA TAGOVAILOA</td>
+            </tr>
+            
+            <tr>
+            <td>89618830</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PRIZMATIC 9 JOE BURROW</td>
+            </tr>
+            
+            <tr>
+            <td>89618831</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 332 SAM LaPORTA</td>
+            </tr>
+            
+            <tr>
+            <td>89618832</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI PRIZM EMERGENT H5 KENNY PICKETT</td>
+            </tr>
+            
+    </table>
+    
