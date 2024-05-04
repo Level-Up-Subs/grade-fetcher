@@ -1,0 +1,28 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90922659</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS NOW VW2A VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90922660</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS NOW VW2A VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90922661</td>
+            <td>NM-MT+ 8.5</td>
+            <td>2023 TOPPS NOW VW2A VICTOR WEMBANYAMA</td>
+            </tr>
+            
+    </table>
+    
