@@ -1,0 +1,376 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90832283</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 237 IONO</td>
+            </tr>
+            
+            <tr>
+            <td>90832284</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON PAL EN-PALDEA EVOLVED 269 IONO</td>
+            </tr>
+            
+            <tr>
+            <td>90832285</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 205 WALKING WAKE ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832286</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 232 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832287</td>
+            <td>MINT 9</td>
+            <td>2006 POKEMON BLACK STAR PROMOS 038 GROUDON EX-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832288</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 199 CHARIZARD ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832289</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 169 CHARMELEON</td>
+            </tr>
+            
+            <tr>
+            <td>90832290</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 168 CHARMANDER</td>
+            </tr>
+            
+            <tr>
+            <td>90832291</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 200 BLASTOISE ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832292</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 171 WARTORTLE</td>
+            </tr>
+            
+            <tr>
+            <td>90832293</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 170 SQUIRTLE</td>
+            </tr>
+            
+            <tr>
+            <td>90832294</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 198 VENUSAUR ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832295</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 198 VENUSAUR ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832296</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 167 IVYSAUR</td>
+            </tr>
+            
+            <tr>
+            <td>90832297</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 166 BULBASAUR</td>
+            </tr>
+            
+            <tr>
+            <td>90832298</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON JUNGLE 8 PIDGEOT-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832299</td>
+            <td>MINT 9</td>
+            <td>2000 POKEMON GAME BASE II 14 PIDGEOT-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832300</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON GAME 2 BLASTOISE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832301</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON GAME 2 BLASTOISE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832302</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON GAME 2 BLASTOISE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832303</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON GAME 2 BLASTOISE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832304</td>
+            <td>NM 7</td>
+            <td>1999 POKEMON GAME 2 BLASTOISE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832305</td>
+            <td>EX-MT 6</td>
+            <td>1999 POKEMON GAME 4 CHARIZARD-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832306</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON GAME 4 CHARIZARD-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832307</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON GAME 15 VENUSAUR-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832308</td>
+            <td>MINT 9</td>
+            <td>2000 POKEMON GAME BASE II 6 CLEFAIRY-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832309</td>
+            <td>MINT 9</td>
+            <td>2000 POKEMON GAME BASE II 6 CLEFAIRY-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832310</td>
+            <td>NM-MT 8</td>
+            <td>2000 POKEMON GAME BASE II 11 NIDOKING-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832311</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON GAME 11 NIDOKING-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832312</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON GAME 11 NIDOKING-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832313</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON JUNGLE 7 NIDOQUEEN-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832314</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON JUNGLE 7 NIDOQUEEN-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832315</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON FOSSIL 14 RAICHU-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832316</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON GAME 14 RAICHU-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832317</td>
+            <td>MINT 9</td>
+            <td>1999 POKEMON GAME 14 RAICHU-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832318</td>
+            <td>NM-MT 8</td>
+            <td>2001 WOTC HARRY POTTER 10 HERMIONE GRANGER</td>
+            </tr>
+            
+            <tr>
+            <td>90832319</td>
+            <td>NM-MT 8</td>
+            <td>2001 WOTC HARRY POTTER 9 HERMIONE GRANGER</td>
+            </tr>
+            
+            <tr>
+            <td>90832320</td>
+            <td>NM-MT 8</td>
+            <td>2001 WOTC HARRY POTTER 8 HARRY POTTER</td>
+            </tr>
+            
+            <tr>
+            <td>90832321</td>
+            <td>MINT 9</td>
+            <td>2001 WOTC HARRY POTTER 7 HANNAH ABBOTT</td>
+            </tr>
+            
+            <tr>
+            <td>90832322</td>
+            <td>NM-MT 8</td>
+            <td>2001 WOTC HARRY POTTER 2 DRACO MALFOY</td>
+            </tr>
+            
+            <tr>
+            <td>90832323</td>
+            <td>MINT 9</td>
+            <td>2001 WOTC HARRY POTTER 17 RON WEASLEY</td>
+            </tr>
+            
+            <tr>
+            <td>90832324</td>
+            <td>NM-MT 8</td>
+            <td>2001 WOTC HARRY POTTER 18 RUBEUS HAGRID</td>
+            </tr>
+            
+            <tr>
+            <td>90832325</td>
+            <td>NM 7</td>
+            <td>1996 POKEMON JAPANESE BASIC 6 CHARIZARD-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832326</td>
+            <td>NM-MT 8</td>
+            <td>1996 POKEMON JAPANESE BASIC 6 CHARIZARD-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90832327</td>
+            <td>MINT 9</td>
+            <td>2016 POKEMON XY FATES COLLIDE 125 FA/ALAKAZAM EX</td>
+            </tr>
+            
+            <tr>
+            <td>90832328</td>
+            <td>GEM MT 10</td>
+            <td>2021 DIGIMON JAPANESE BOOSTER 6: DOUBLE DIAMOND 112 BEELSTARMON</td>
+            </tr>
+            
+            <tr>
+            <td>90832329</td>
+            <td>MINT 9</td>
+            <td>2022 POKEMON SWORD & SHIELD LOST ORIGIN 177 FA/ROTOM V</td>
+            </tr>
+            
+            <tr>
+            <td>90832330</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 234 CHARIZARD ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832331</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD SHINING FATES SV107 FA/CHARIZARD VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90832332</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 203 IRON LEAVES ex</td>
+            </tr>
+            
+            <tr>
+            <td>90832333</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON SWORD & SHIELD LOST ORIGIN TG17 FA/PIKACHU VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90832334</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON SWORD AND SHIELD CROWN ZENITH GG44 FA/MEWTWO VSTAR</td>
+            </tr>
+            
+            <tr>
+            <td>90832335</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE 262 FA/ARCEUS VSTAR</td>
+            </tr>
+            
+            <tr>
+            <td>90832336</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD EVOLVING SKIES 211 FA/SYLVEON VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90832337</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON SWORD & SHIELD SILVER TEMPEST TG20 FA/RAYQUAZA VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90832338</td>
+            <td>MINT 9</td>
+            <td>2022 POKEMON SWORD & SHIELD LOST ORIGIN 180 FA/AERODACTYL V</td>
+            </tr>
+            
+            <tr>
+            <td>90832339</td>
+            <td>MINT 9</td>
+            <td>2021 POKEMON SWORD & SHIELD FUSION STRIKE 283 GRASS ENERGY</td>
+            </tr>
+            
+            <tr>
+            <td>90832340</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD EVOLVING SKIES 186 FA/MEDICHAM V</td>
+            </tr>
+            
+            <tr>
+            <td>90832341</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD CHILLING REIGN 208 FA/METAGROSS VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90832342</td>
+            <td>GEM MT 10</td>
+            <td>2019 POKEMON SUN & MOON UNIFIED MINDS 1 ROWLET & ALN.EXGTR.GX</td>
+            </tr>
+            
+            <tr>
+            <td>90832343</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON GO 076 FA/DRAGONITE V</td>
+            </tr>
+            
+    </table>
+    
