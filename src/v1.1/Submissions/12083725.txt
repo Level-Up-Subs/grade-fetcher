@@ -1,0 +1,274 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>89847134</td>
+            <td>NM-MT 8</td>
+            <td>2020 PANINI CONTENDERS 107 CEEDEE LAMB</td>
+            </tr>
+            
+            <tr>
+            <td>89847135</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM 363 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>89847136</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI SELECT 61 JUSTIN JEFFERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89847137</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI SELECT 161 JUSTIN JEFFERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89847138</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM 363 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>89847139</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM 363 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>89847140</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM 363 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>89847141</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI PRIZM 363 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>89847142</td>
+            <td>GEM MT 10</td>
+            <td>2019 PANINI PRIZM 373 DAWSON KNOX</td>
+            </tr>
+            
+            <tr>
+            <td>89847143</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN DRAFT BDC42 COLT EMERSON</td>
+            </tr>
+            
+            <tr>
+            <td>89847144</td>
+            <td>GEM MT 10</td>
+            <td>2018 PANINI SELECT 95 MIKAL BRIDGES</td>
+            </tr>
+            
+            <tr>
+            <td>89847145</td>
+            <td>NM-MT 8</td>
+            <td>2022 TOPPS UEFA CLUB COMPETITIONS 1ST EDITION 52 MYKHAILO MUDRYK</td>
+            </tr>
+            
+            <tr>
+            <td>89847146</td>
+            <td>MINT 9</td>
+            <td>2018 PANINI PRIZM 55 REGGIE MILLER</td>
+            </tr>
+            
+            <tr>
+            <td>89847147</td>
+            <td>GEM MT 10</td>
+            <td>2018 PANINI PRIZM 55 REGGIE MILLER</td>
+            </tr>
+            
+            <tr>
+            <td>89847148</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN INVICTA BI20 GABRIEL ARIAS</td>
+            </tr>
+            
+            <tr>
+            <td>89847149</td>
+            <td>GEM MT 10</td>
+            <td>2020 BOWMAN DRAFT BD72 P.CROW-ARMSTRONG</td>
+            </tr>
+            
+            <tr>
+            <td>89847150</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN 51 ONEIL CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>89847151</td>
+            <td>MINT 9</td>
+            <td>2020 BOWMAN CHROME PROSPECTS BCP25 BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89847152</td>
+            <td>MINT 9</td>
+            <td>2020 BOWMAN CHROME PROSPECTS BCP25 BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89847153</td>
+            <td>GEM MT 10</td>
+            <td>2019 BOWMAN PROSPECTS CHROME 33 JULIO RODRIGUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>89847154</td>
+            <td>NM-MT 8</td>
+            <td>2020 BOWMAN CHROME PROSPECTS BCP139 ANTHONY VOLPE</td>
+            </tr>
+            
+            <tr>
+            <td>89847155</td>
+            <td>MINT 9</td>
+            <td>2020 BOWMAN CHROME PROSPECTS BCP8 JASSON DOMINGUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>89847156</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP139 SPENCER JONES</td>
+            </tr>
+            
+            <tr>
+            <td>89847157</td>
+            <td>GEM MT 10</td>
+            <td>2019 PANINI CONTENDERS OPTIC X'S AND O'S CA A.DONALD/C.KUPP</td>
+            </tr>
+            
+            <tr>
+            <td>89847158</td>
+            <td>MINT 9</td>
+            <td>2019 PANINI PRIZM DRAFT PICKS 278 JAKE BROWNING</td>
+            </tr>
+            
+            <tr>
+            <td>89847159</td>
+            <td>GEM MT 10</td>
+            <td>2018 TOPPS UPDATE 1983 TOPPS BASEBALL 83-2 SHOHEI OHTANI</td>
+            </tr>
+            
+            <tr>
+            <td>89847160</td>
+            <td>MINT 9</td>
+            <td>2018 TOPPS UPDATE 1983 TOPPS BASEBALL 83-13 RONALD ACUNA JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89847161</td>
+            <td>GEM MT 10</td>
+            <td>2018 TOPPS CHROME 193 RONALD ACUNA JR.</td>
+            </tr>
+            
+            <tr>
+            <td>89847162</td>
+            <td>GEM MT 10</td>
+            <td>2018 TOPPS UPDATE US300 JUAN SOTO</td>
+            </tr>
+            
+            <tr>
+            <td>89847163</td>
+            <td>MINT 9</td>
+            <td>2018 TOPPS UPDATE US285 SHOHEI OHTANI</td>
+            </tr>
+            
+            <tr>
+            <td>89847164</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI PRIZM 335 DeVONTA SMITH</td>
+            </tr>
+            
+            <tr>
+            <td>89847165</td>
+            <td>MINT 9</td>
+            <td>2020 TOPPS CHROME UEFA CHAMPIONS LEAGUE 89 VINICIUS JUNIOR</td>
+            </tr>
+            
+            <tr>
+            <td>89847166</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN DRAFT BDC76 MAX CLARK</td>
+            </tr>
+            
+            <tr>
+            <td>89847167</td>
+            <td>GEM MT 10</td>
+            <td>2021 BOWMAN DRAFT CHROME SAPPHIRE EDITION BDC10 ANDREW PAINTER</td>
+            </tr>
+            
+            <tr>
+            <td>89847168</td>
+            <td>MINT 9</td>
+            <td>2021 BOWMAN DRAFT CHROME SAPPHIRE EDITION BDC10 ANDREW PAINTER</td>
+            </tr>
+            
+            <tr>
+            <td>89847169</td>
+            <td>MINT 9</td>
+            <td>2020 BOWMAN CHROME PROSPECTS BCP139 ANTHONY VOLPE</td>
+            </tr>
+            
+            <tr>
+            <td>89847170</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI PRIZM 355 CHUBA HUBBARD</td>
+            </tr>
+            
+            <tr>
+            <td>89847171</td>
+            <td>GEM MT 10</td>
+            <td>2018 TOPPS CHROME ROOKIE AUTOGRAPH RA-ANS ANTHONY SANTANDER</td>
+            </tr>
+            
+            <tr>
+            <td>89847172</td>
+            <td>GEM MT 10</td>
+            <td>2023 UPPER DECK DAZZLERS DZ79 CONNOR BEDARD</td>
+            </tr>
+            
+            <tr>
+            <td>89847173</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN DRAFT BDC154 JADEN HAMM</td>
+            </tr>
+            
+            <tr>
+            <td>89847174</td>
+            <td>GEM MT 10</td>
+            <td>2020 TOPPS FINEST UEFA CHAMPIONS LEAGUE 71 EDUARDO CAMAVINGA</td>
+            </tr>
+            
+            <tr>
+            <td>89847175</td>
+            <td>GEM MT 10</td>
+            <td>2020 TOPPS FINEST UEFA CHAMPIONS LEAGUE 6 JUDE BELLINGHAM</td>
+            </tr>
+            
+            <tr>
+            <td>89847176</td>
+            <td>GEM MT 10</td>
+            <td>1998 SKYBOX E-X2001 55 RANDY MOSS</td>
+            </tr>
+            
+            <tr>
+            <td>89847177</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPAEG ELIJAH GREEN</td>
+            </tr>
+            
+    </table>
+    
