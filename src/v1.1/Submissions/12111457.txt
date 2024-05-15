@@ -1,0 +1,82 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90919316</td>
+            <td>GEM MT 10</td>
+            <td>2016 PANINI EXCALIBUR MANUSCRIPTS AUTOGRAPHS M-KB KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>90919317</td>
+            <td>MINT 9</td>
+            <td>1996 FINEST 74 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>90919318</td>
+            <td>MINT 9</td>
+            <td>2008 TOPPS CHROME 24 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>90919319</td>
+            <td>MINT 9</td>
+            <td>2008 TOPPS CHROME 24 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>90919320</td>
+            <td>NM-MT 8</td>
+            <td>2000 POKEMON NEO GENESIS 1ST EDITION 9 LUGIA-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90919321</td>
+            <td>NM-MT 8</td>
+            <td>2000 POKEMON NEO GENESIS 1ST EDITION 17 TYPHLOSION-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90919322</td>
+            <td>VG 3</td>
+            <td>1954 TOPPS 201 AL KALINE</td>
+            </tr>
+            
+            <tr>
+            <td>90919323</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>90919324</td>
+            <td>GOOD+ 2.5</td>
+            <td>1955 TOPPS 123 SANDY KOUFAX</td>
+            </tr>
+            
+            <tr>
+            <td>90919325</td>
+            <td>VG 3</td>
+            <td>1955 TOPPS 164 ROBERTO CLEMENTE</td>
+            </tr>
+            
+            <tr>
+            <td>90919326</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD EVOLVING SKIES 215 FA/UMBREON VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90919327</td>
+            <td>MINT 9</td>
+            <td>2024 LEAF ST. PATRICK'S DAY AUTOGRAPHS LM1 LIONEL MESSI</td>
+            </tr>
+            
+    </table>
+    
