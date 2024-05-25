@@ -8,56 +8,56 @@
     
             <tr>
             <td>89616935</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>NM 7</td>
+            <td>1972 TOPPS 291 STEVE SPURRIER</td>
             </tr>
             
             <tr>
             <td>89616934</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>VG-EX 4</td>
+            <td>1972 TOPPS 79 GUY LAFLEUR</td>
             </tr>
             
             <tr>
             <td>89616940</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>FR 1.5</td>
+            <td>1969 TOPPS 500 MICKEY MANTLE</td>
             </tr>
             
             <tr>
             <td>89616938</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>GOOD 2</td>
+            <td>1965 TOPPS 5 A.L. RBI LEADERS</td>
             </tr>
             
             <tr>
             <td>89616933</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>MINT 9</td>
+            <td>1972 TOPPS 100 BOBBY ORR</td>
             </tr>
             
             <tr>
             <td>89616944</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>GOOD 2</td>
+            <td>1951 BOWMAN 186 RICHIE ASHBURN</td>
             </tr>
             
             <tr>
             <td>89616942</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>NM 7</td>
+            <td>1971 TOPPS 100 BOBBY ORR</td>
             </tr>
             
             <tr>
             <td>89616941</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>FR 1.5</td>
+            <td>1958 TOPPS 487 MICKEY MANTLE</td>
             </tr>
             
             <tr>
             <td>89616946</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>VG-EX 4</td>
+            <td>1972 TOPPS 100 KAREEM ABDUL-JABBAR</td>
             </tr>
             
             <tr>
@@ -68,14 +68,14 @@
             
             <tr>
             <td>89616936</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>EX-MT 6</td>
+            <td>1969 TOPPS 26 BRYON PICCOLO</td>
             </tr>
             
             <tr>
             <td>89616945</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>GOOD 2</td>
+            <td>1970 TOPPS 75 LEW ALCINDOR</td>
             </tr>
             
             <tr>
@@ -86,14 +86,14 @@
             
             <tr>
             <td>89616932</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>VG-EX 4</td>
+            <td>1956 TOPPS 31 HANK AARON</td>
             </tr>
             
             <tr>
             <td>89616939</td>
-            <td>N/A</td>
-            <td>N/A</td>
+            <td>VG+ 3.5</td>
+            <td>1965 TOPPS 3 A.L. HOME RUN LDRS.</td>
             </tr>
             
     </table>
