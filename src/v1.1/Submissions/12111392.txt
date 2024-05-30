@@ -1,0 +1,202 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90910403</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI NATIONAL SPORTS COLLECTORS CONVENTION VIP N4 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>90910384</td>
+            <td>GEM MT 10</td>
+            <td>2014 BOWMAN CHROME 21 AARON RODGERS</td>
+            </tr>
+            
+            <tr>
+            <td>90910397</td>
+            <td>MINT 9</td>
+            <td>2009 PANINI PRESTIGE STAT STARS 8 LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>90910398</td>
+            <td>MINT 9</td>
+            <td>2009 TOPPS CHROME CHICLE C30 DREW BREES</td>
+            </tr>
+            
+            <tr>
+            <td>90910404</td>
+            <td>MINT 9</td>
+            <td>2010 SCORE 383 ROB GRONKOWSKI</td>
+            </tr>
+            
+            <tr>
+            <td>90910390</td>
+            <td>GEM MT 10</td>
+            <td>2013 FLEER RETRO 1998-99 FLEER TRADITION ELECTRIFYING 15 DREW BREES</td>
+            </tr>
+            
+            <tr>
+            <td>90910402</td>
+            <td>GEM MT 10</td>
+            <td>2014 TOPPS CHROME 42 PEYTON MANNING</td>
+            </tr>
+            
+            <tr>
+            <td>90910378</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 50 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>90910396</td>
+            <td>NM-MT 8</td>
+            <td>2018 PANINI UNPARALLELED ROOKIE FOCUS JA JOSH ALLEN</td>
+            </tr>
+            
+            <tr>
+            <td>90910377</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN'S BEST UNIVERSITY 1 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>90910376</td>
+            <td>GEM MT 10</td>
+            <td>2018 PANINI NATIONAL CONVENTION 16 AARON RODGERS</td>
+            </tr>
+            
+            <tr>
+            <td>90910389</td>
+            <td>MINT 9</td>
+            <td>2008 BOWMAN CHROME BC113 PEYTON MANNING</td>
+            </tr>
+            
+            <tr>
+            <td>90910382</td>
+            <td>GEM MT 10</td>
+            <td>2021 BOWMAN UNIVERSITY GOLDEN BOY GB2 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90910400</td>
+            <td>MINT 9</td>
+            <td>2013 FLEER RETRO 1999 FLAIR SHOWCASE LC-37 BARRY SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>90910391</td>
+            <td>GEM MT 10</td>
+            <td>2018 PANINI DONRUSS OPTIC 109 JAIRE ALEXANDER</td>
+            </tr>
+            
+            <tr>
+            <td>90910379</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN UNIVERSITY CHROME PROSPECTS 50 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>90910374</td>
+            <td>NM-MT 8</td>
+            <td>2013 FLEER RETRO EX CENTURY 4 JEROME BETTIS</td>
+            </tr>
+            
+            <tr>
+            <td>90910375</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI CONTENDERS 159 GEORGE KARLAFTIS</td>
+            </tr>
+            
+            <tr>
+            <td>90910380</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN UNIVERSITY BEST BEST OF 2023 AUTOGRAPHS BOARL RILEY LEONARD</td>
+            </tr>
+            
+            <tr>
+            <td>90910381</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME 6 RILEY LEONARD</td>
+            </tr>
+            
+            <tr>
+            <td>90910383</td>
+            <td>MINT 9</td>
+            <td>2012 TOPPS CHROME 50 AARON RODGERS</td>
+            </tr>
+            
+            <tr>
+            <td>90910385</td>
+            <td>MINT 9</td>
+            <td>2019 PANINI FATHER'S DAY 24 JAYSON TATUM</td>
+            </tr>
+            
+            <tr>
+            <td>90910386</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME 16 SHEDEUR SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>90910387</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME 16 SHEDEUR SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>90910388</td>
+            <td>GEM MT 10</td>
+            <td>2019 PANINI NATIONAL CONVENTION 49 JAYSON TATUM</td>
+            </tr>
+            
+            <tr>
+            <td>90910392</td>
+            <td>MINT 9</td>
+            <td>2002 UPPER DECK 195 TOM BRADY</td>
+            </tr>
+            
+            <tr>
+            <td>90910393</td>
+            <td>MINT 9</td>
+            <td>2019 PANINI SELECT 288 JIMMY BUTLER</td>
+            </tr>
+            
+            <tr>
+            <td>90910394</td>
+            <td>NM-MT 8</td>
+            <td>2018 PANINI PRIZM ROOKIE INTRODUCTION RI-5 JOSH ALLEN</td>
+            </tr>
+            
+            <tr>
+            <td>90910395</td>
+            <td>GEM MT 10</td>
+            <td>2018 PANINI DONRUSS THE ELITE SERIES ROOKIES ESR4 JOSH ALLEN</td>
+            </tr>
+            
+            <tr>
+            <td>90910399</td>
+            <td>GEM MT 10</td>
+            <td>2013 PANINI PRIZM 19 BEN ROETHLISBERGER</td>
+            </tr>
+            
+            <tr>
+            <td>90910401</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI NATIONAL SPORTS COLLECTORS CONVENTION VIP N2 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90910405</td>
+            <td>NM-MT 8</td>
+            <td>2018 PANINI COURT KINGS PORTRAITS 38 JAYSON TATUM</td>
+            </tr>
+            
+    </table>
+    
