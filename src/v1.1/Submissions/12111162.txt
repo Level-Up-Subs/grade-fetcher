@@ -1,0 +1,1222 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90911918</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI DONRUSS 220 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911936</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI MOSAIC 60 TREVON DIGGS</td>
+            </tr>
+            
+            <tr>
+            <td>90911954</td>
+            <td>NM-MT 8</td>
+            <td>2022 POKEMON SWORD & SHIELD LOST ORIGIN 186 FA/GIRATINA V</td>
+            </tr>
+            
+            <tr>
+            <td>90911868</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 204 NAZ REID</td>
+            </tr>
+            
+            <tr>
+            <td>90911855</td>
+            <td>GEM MT 10</td>
+            <td>2019 POKEMON SUN & MOON UNIFIED MINDS 35 SLOWPK. & PSYDCK. GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911886</td>
+            <td>MINT 9</td>
+            <td>2022-23 PANINI OBSIDIAN EQUINOX 24 ROSE LAVELLE</td>
+            </tr>
+            
+            <tr>
+            <td>90911990</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI ABSOLUTE 101 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>90912040</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ILLUSIONS MYSTIQUE 27 PUKA NACUA</td>
+            </tr>
+            
+            <tr>
+            <td>90911949</td>
+            <td>MINT 9</td>
+            <td>1987 LEAF 35 BO JACKSON</td>
+            </tr>
+            
+            <tr>
+            <td>90912022</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM EMERGENT 12 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911860</td>
+            <td>GEM MT 10</td>
+            <td>2022 YU-GI-OH! BACH-BATTLE OF CHAOS EN045 THE ZOMBIE VAMPIRE</td>
+            </tr>
+            
+            <tr>
+            <td>90911873</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI DONRUSS ELITE PREMIER LEAGUE 106 CRISTIANO RONALDO</td>
+            </tr>
+            
+            <tr>
+            <td>90911999</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI DONRUSS OPTIC 209 CHRIS OLAVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911941</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 064 MS. ALL SUNDAY</td>
+            </tr>
+            
+            <tr>
+            <td>90912035</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 174 NIDOKING</td>
+            </tr>
+            
+            <tr>
+            <td>90911998</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI DONRUSS OPTIC 209 CHRIS OLAVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911986</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE 102 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90911967</td>
+            <td>NM-MT 8</td>
+            <td>2023 POKEMON JAPANESE SV2a-POKEMON 151 206 ERIKA'S INVITATION</td>
+            </tr>
+            
+            <tr>
+            <td>90912036</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 193 GENGAR ex</td>
+            </tr>
+            
+            <tr>
+            <td>90912041</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI SELECT 47 JORDAN LOVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911985</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE 15 TUA TAGOVAILOA</td>
+            </tr>
+            
+            <tr>
+            <td>90912049</td>
+            <td>MINT 9</td>
+            <td>2000 UPPER DECK SLAM 27 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>90911972</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 274 SAM HOWELL</td>
+            </tr>
+            
+            <tr>
+            <td>90911854</td>
+            <td>MINT 9</td>
+            <td>2019 POKEMON SUN & MOON TEAM UP 120 EEVEE & SNORLAX GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911968</td>
+            <td>EX 5</td>
+            <td>2000 POKEMON GAME BASE II 4 CHARIZARD-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90912010</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE AWAKENING OF THE NEW ERA 119 MONKEY D. LUFFY</td>
+            </tr>
+            
+            <tr>
+            <td>90911953</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD CHILLING REIGN 201 FA/BLAZIKEN VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90911867</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 157 PRIME CATCHER</td>
+            </tr>
+            
+            <tr>
+            <td>90911892</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ROOKIES & STARS ROOKIE RUSH RR6 HENDON HOOKER</td>
+            </tr>
+            
+            <tr>
+            <td>90911955</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON SWORD & SHIELD SILVER TEMPEST 186 FA/LUGIA V</td>
+            </tr>
+            
+            <tr>
+            <td>90912021</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM INSTANT IMPACT 3 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911973</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 161 DONOVAN McNABB</td>
+            </tr>
+            
+            <tr>
+            <td>90911919</td>
+            <td>NM 7</td>
+            <td>2002 FLEER SHOWCASE 125 EMANUEL GINOBILI</td>
+            </tr>
+            
+            <tr>
+            <td>90911849</td>
+            <td>NM-MT 8</td>
+            <td>2020 TOPPS GOLD LABEL FRAMED AUTOGRAPHS GLAJS JUAN SOTO</td>
+            </tr>
+            
+            <tr>
+            <td>90911917</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI NATIONAL TREASURES CLUTCH FACTOR SIGNATURE RELICS MGB MANU GINOBILI</td>
+            </tr>
+            
+            <tr>
+            <td>90911942</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 118 RORONOA ZORO</td>
+            </tr>
+            
+            <tr>
+            <td>90911966</td>
+            <td>NM-MT 8</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 232 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911869</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP171 ETHAN SALAS</td>
+            </tr>
+            
+            <tr>
+            <td>90911890</td>
+            <td>NM-MT 8</td>
+            <td>2021 YU-GI-OH! YUGI'S LEGENDARY DECK: PROMO REPRINT  DUELIST KINGDOM</td>
+            </tr>
+            
+            <tr>
+            <td>90911904</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE 212 FA/CHARIZARD VSTAR</td>
+            </tr>
+            
+            <tr>
+            <td>90912023</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911856</td>
+            <td>MINT 9</td>
+            <td>2019 POKEMON SUN & MOON UNIFIED MINDS 35 SLOWPK. & PSYDCK. GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911910</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE AWAKENING OF THE NEW ERA 100 ENEL</td>
+            </tr>
+            
+            <tr>
+            <td>90912017</td>
+            <td>MINT 9</td>
+            <td>2003 BOWMAN ROOKIES & STARS 123 LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>90911921</td>
+            <td>NM-MT 8</td>
+            <td>2024 TOPPS 1989 TOPPS BASEBALL 89B69 ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>90911899</td>
+            <td>GEM MT 10</td>
+            <td>1999 POKEMON JAPANESE PROMO ANA AIRWAYS 145 ZAPDOS</td>
+            </tr>
+            
+            <tr>
+            <td>90911940</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 101 O-NAMI</td>
+            </tr>
+            
+            <tr>
+            <td>90912034</td>
+            <td>GEM MT 10</td>
+            <td>2019 POKEMON SM BLACK STAR PROMO SM210 MLTRS/ZPDS/ARTCN.GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911992</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 232 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911923</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON GAME 15 VENUSAUR-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911906</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON CELEBRATIONS CLASSIC COLLECTION 76 M RAYQUAZA EX</td>
+            </tr>
+            
+            <tr>
+            <td>90911888</td>
+            <td>MINT 9</td>
+            <td>2021-2022 PANINI MOSAIC FIFA ROAD TO WORLD CUP 10 LIONEL MESSI</td>
+            </tr>
+            
+            <tr>
+            <td>90912004</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 42 AUSTIN REAVES</td>
+            </tr>
+            
+            <tr>
+            <td>90911952</td>
+            <td>NM-MT 8</td>
+            <td>2022 POKEMON SWORD & SHIELD BRILLIANT STARS 154 FA/CHARIZARD V</td>
+            </tr>
+            
+            <tr>
+            <td>90911925</td>
+            <td>NM 7</td>
+            <td>1999 POKEMON GAME 1 ALAKAZAM-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911866</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 119 SANJI</td>
+            </tr>
+            
+            <tr>
+            <td>90911893</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE ROCK OUT 15 AARON RODGERS</td>
+            </tr>
+            
+            <tr>
+            <td>90911934</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 129 JUSTIN JEFFERSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911907</td>
+            <td>GEM MT 10</td>
+            <td>2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE 230 FA/HSN.SAMUROTT VSTAR</td>
+            </tr>
+            
+            <tr>
+            <td>90912011</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON OBF EN-OBSIDIAN FLAMES 219 ORTEGA</td>
+            </tr>
+            
+            <tr>
+            <td>90912047</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI ZENITH ZOOM! 5 JAHMYR GIBBS</td>
+            </tr>
+            
+            <tr>
+            <td>90911897</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 198 VENUSAUR ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911929</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM INSTANT IMPACT 3 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911974</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI MOSAIC TOUCHDOWN MASTERS TD8 PATRICK MAHOMES II</td>
+            </tr>
+            
+            <tr>
+            <td>90912006</td>
+            <td>GEM MT 10</td>
+            <td>2023 DRAGON BALL SUPER CARD GAME SERIES 23 PERFECT COMBINATION BT23-138 SS TRUNKS, CMPLT ELMN</td>
+            </tr>
+            
+            <tr>
+            <td>90911970</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 265 DAVANTE ADAMS</td>
+            </tr>
+            
+            <tr>
+            <td>90912025</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM DEEP SPACE 4 AMEN THOMPSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911903</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON SVP EN-SV BLACK STAR PROMO 053 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>90912007</td>
+            <td>GEM MT 10</td>
+            <td>2023 DRAGON BALL SUPER CARD GAME SERIES 23 PERFECT COMBINATION BT23-138 SS TRUNKS, CMPLT ELMN</td>
+            </tr>
+            
+            <tr>
+            <td>90911996</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI CHRONICLES SCORE PREMIUM ROOKIES UPDATE SP378 CHRIS OLAVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911871</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP171 ETHAN SALAS</td>
+            </tr>
+            
+            <tr>
+            <td>90911956</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD EVOLVING SKIES 215 FA/UMBREON VMAX</td>
+            </tr>
+            
+            <tr>
+            <td>90911870</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP171 ETHAN SALAS</td>
+            </tr>
+            
+            <tr>
+            <td>90911930</td>
+            <td>EX 5</td>
+            <td>2022 TOPPS CHROME MCDONALD'S ALL-AMERICAN 92 GABRIELA JAQUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>90912037</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS STADIUM CLUB BASE AUTOGRAPHS SCBACC CORBIN CARROLL</td>
+            </tr>
+            
+            <tr>
+            <td>90911960</td>
+            <td>MINT 9</td>
+            <td>2024 TOPPS 5 OWEN WHITE</td>
+            </tr>
+            
+            <tr>
+            <td>90911997</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI DONRUSS OPTIC 209 CHRIS OLAVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911971</td>
+            <td>NM-MT 8</td>
+            <td>2022 PANINI MOSAIC TOUCHDOWN MASTERS TD17 DK METCALF</td>
+            </tr>
+            
+            <tr>
+            <td>90911944</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 042 VINSMOKE REIJU</td>
+            </tr>
+            
+            <tr>
+            <td>90911926</td>
+            <td>NM 7</td>
+            <td>2000 POKEMON ROCKET 7 DARK GOLBAT-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90912003</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI DONRUSS ROAD TO QATAR SIGNATURE SERIES GBA GABRIEL BATISTUTA</td>
+            </tr>
+            
+            <tr>
+            <td>90911874</td>
+            <td>MINT 9</td>
+            <td>2022 POKEMON SWORD & SHIELD LOST ORIGIN 186 FA/GIRATINA V</td>
+            </tr>
+            
+            <tr>
+            <td>90911878</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS CHROME ROOKIE AUTOGRAPH RAFA FRANCISCO ALVAREZ</td>
+            </tr>
+            
+            <tr>
+            <td>90912048</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI MOSAIC NFL DEBUT ND3 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90912014</td>
+            <td>GEM MT 10</td>
+            <td>2023 DISNEY LORCANA EN 2-RISE OF THE FLOODBORN 215 HERCULES</td>
+            </tr>
+            
+            <tr>
+            <td>90911982</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI MOSAIC TOUCHDOWN MASTERS TD6 AARON RODGERS</td>
+            </tr>
+            
+            <tr>
+            <td>90911889</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI DONRUSS FIFA NET MARVELS 19 RODRYGO</td>
+            </tr>
+            
+            <tr>
+            <td>90911937</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC TOUCHDOWN MASTERS TD20 TRAVIS KELCE</td>
+            </tr>
+            
+            <tr>
+            <td>90911933</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 109 JAIRE ALEXANDER</td>
+            </tr>
+            
+            <tr>
+            <td>90911885</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS CHROME ROOKIE AUTOGRAPH RAJO JAMES OUTMAN</td>
+            </tr>
+            
+            <tr>
+            <td>90911852</td>
+            <td>NM-MT 8</td>
+            <td>2019 POKEMON SUN & MOON UNBROKEN BONDS 107 GRENINJA & ZOROARK GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911978</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 339 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90912044</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI ILLUSIONS 43 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90912018</td>
+            <td>NM-MT 8</td>
+            <td>2003 UPPER DECK FUTURE ALL-STAR DIE-CUT E15 LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>90911959</td>
+            <td>MINT 9</td>
+            <td>2024 TOPPS 304 EVAN LONGORIA</td>
+            </tr>
+            
+            <tr>
+            <td>90911911</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE AWAKENING OF THE NEW ERA 092 ROB LUCCI</td>
+            </tr>
+            
+            <tr>
+            <td>90911948</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 107 KOZUKI MOMONOSUKE</td>
+            </tr>
+            
+            <tr>
+            <td>90911993</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 234 CHARIZARD ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911922</td>
+            <td>NM-MT 8</td>
+            <td>1999 POKEMON GAME 4 CHARIZARD-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911863</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 013 MONKEY D. LUFFY</td>
+            </tr>
+            
+            <tr>
+            <td>90912033</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 166 BULBASAUR</td>
+            </tr>
+            
+            <tr>
+            <td>90911989</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE 112 JORDAN ADDISON</td>
+            </tr>
+            
+            <tr>
+            <td>90912029</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON SVP EN-SV BLACK STAR PROMO 074 CHARIZARD ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911909</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE AWAKENING OF THE NEW ERA 121 YAMATO</td>
+            </tr>
+            
+            <tr>
+            <td>90911981</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 293 PATRICK MAHOMES II</td>
+            </tr>
+            
+            <tr>
+            <td>90912000</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI DONRUSS OPTIC 209 CHRIS OLAVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911927</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 81 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911882</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN MEGA BOX CHROME PROSPECT AUTOGRAPHS GC GAVIN CROSS</td>
+            </tr>
+            
+            <tr>
+            <td>90911859</td>
+            <td>NM-MT 8</td>
+            <td>2022 BOWMAN DRAFT BD168 JACKSON HOLLIDAY</td>
+            </tr>
+            
+            <tr>
+            <td>90911963</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ROOKIES & STARS AIRBORNE AI13 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90912013</td>
+            <td>GEM MT 10</td>
+            <td>2023 DISNEY LORCANA EN 1-THE FIRST CHAPTER 70 BEAST</td>
+            </tr>
+            
+            <tr>
+            <td>90911932</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI PRIZM DRAFT PICKS 197 PUKA NACUA</td>
+            </tr>
+            
+            <tr>
+            <td>90912031</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON TEF EN-TEMPORAL FORCES 177 GASTLY</td>
+            </tr>
+            
+            <tr>
+            <td>90911950</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI DONRUSS 2 LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>90911958</td>
+            <td>GEM MT 10</td>
+            <td>2024 TOPPS 141 ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>90911864</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 007 SHANKS</td>
+            </tr>
+            
+            <tr>
+            <td>90911945</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 061 VINSMOKE ICHIJI</td>
+            </tr>
+            
+            <tr>
+            <td>90911877</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM GLOBAL REACH 9 JAMAL MURRAY</td>
+            </tr>
+            
+            <tr>
+            <td>90912026</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM DEEP SPACE 8 JA MORANT</td>
+            </tr>
+            
+            <tr>
+            <td>90911900</td>
+            <td>EX-MT 6</td>
+            <td>1999 POKEMON JAPANESE PROMO ANA AIRWAYS 146 MOLTRES</td>
+            </tr>
+            
+            <tr>
+            <td>90911901</td>
+            <td>MINT 9</td>
+            <td>1997 POKEMON JAPANESE ROCKET 149 DARK DRAGONITE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911913</td>
+            <td>GEM MT 10</td>
+            <td>2024 DISNEY LORCANA EN 3-INTO THE INKLANDS 209 MALEFICENT</td>
+            </tr>
+            
+            <tr>
+            <td>90912009</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 168 CHARMANDER</td>
+            </tr>
+            
+            <tr>
+            <td>90911896</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM FIREWORKS F12 CHRISTIAN McCAFFREY</td>
+            </tr>
+            
+            <tr>
+            <td>90911895</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI ROOKIES & STARS 89 DEEBO SAMUEL</td>
+            </tr>
+            
+            <tr>
+            <td>90911931</td>
+            <td>MINT 9</td>
+            <td>1996 FINEST 69 ALLEN IVERSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911914</td>
+            <td>MINT 9</td>
+            <td>2023 DISNEY LORCANA EN 1-THE FIRST CHAPTER 216 TINKER BELL</td>
+            </tr>
+            
+            <tr>
+            <td>90912008</td>
+            <td>GEM MT 10</td>
+            <td>2023 DRAGON BALL SUPER CARD GAME SERIES 23 PERFECT COMBINATION BT23-138 SS TRUNKS, CMPLT ELMN</td>
+            </tr>
+            
+            <tr>
+            <td>90911908</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON SWORD AND SHIELD CROWN ZENITH GG41 FA/RAIKOU V</td>
+            </tr>
+            
+            <tr>
+            <td>90911962</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI DONRUSS 220 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90911894</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE 104 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911928</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY STARTER DECK S8 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>90912030</td>
+            <td>NM-MT 8</td>
+            <td>2022 POKEMON SWORD & SHIELD BRILLIANT STARS 166 FA/ARCEUS V</td>
+            </tr>
+            
+            <tr>
+            <td>90911915</td>
+            <td>EX 5</td>
+            <td>2024 DISNEY LORCANA EN 3-INTO THE INKLANDS 215 PETER PAN</td>
+            </tr>
+            
+            <tr>
+            <td>90912039</td>
+            <td>MINT 9</td>
+            <td>2024 UPPER DECK GOLF PRECISION P1 TIGER WOODS</td>
+            </tr>
+            
+            <tr>
+            <td>90911975</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI MOSAIC 251 TOM BRADY</td>
+            </tr>
+            
+            <tr>
+            <td>90912043</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI ILLUSIONS 43 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>90911881</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN MEGA BOX CHROME 111 JOSUE DE PAULA</td>
+            </tr>
+            
+            <tr>
+            <td>90911988</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI DONRUSS 251 TREVOR LAWRENCE</td>
+            </tr>
+            
+            <tr>
+            <td>90912045</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM PRIZMATIC 4 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>90911977</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 264 JUSTIN JEFFERSON</td>
+            </tr>
+            
+            <tr>
+            <td>90912028</td>
+            <td>MINT 9</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 109 CHARMANDER</td>
+            </tr>
+            
+            <tr>
+            <td>90912015</td>
+            <td>NM-MT 8</td>
+            <td>2003 BOWMAN SIGNS OF THE FUTURE SFACA CARMELO ANTHONY</td>
+            </tr>
+            
+            <tr>
+            <td>90911994</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 201 ALAKAZAM ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911851</td>
+            <td>MINT 9</td>
+            <td>2019 POKEMON SUN & MOON COSMIC ECLIPSE 75 SOLGALEO & LUNALA GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911862</td>
+            <td>GEM MT 10</td>
+            <td>2022 YU-GI-OH! BACH-BATTLE OF CHAOS EN045 THE ZOMBIE VAMPIRE</td>
+            </tr>
+            
+            <tr>
+            <td>90912032</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON PAR EN-PARADOX RIFT 199 GROUDON</td>
+            </tr>
+            
+            <tr>
+            <td>90911964</td>
+            <td>GEM MT 10</td>
+            <td>2005 POKEMON JAPANESE MOVIE VS PACK 002 ROTA'S MEW-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911951</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN CHROME UNIVERSITY 50 CAITLIN CLARK</td>
+            </tr>
+            
+            <tr>
+            <td>90911858</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM INSTANT IMPACT 8 JALEN HOOD-SCHIFINO</td>
+            </tr>
+            
+            <tr>
+            <td>90911947</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 106 KOZUKI HIYORI</td>
+            </tr>
+            
+            <tr>
+            <td>90911857</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 16 DeMAR DeROZAN</td>
+            </tr>
+            
+            <tr>
+            <td>90911875</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN MEGA BOX CHROME 51 SHOHEI OHTANI</td>
+            </tr>
+            
+            <tr>
+            <td>90911884</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN CHROME PROSPECTS BCP50 ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>90912002</td>
+            <td>MINT 9</td>
+            <td>2022 TOPPS UEFA CLUB COMPETITIONS 1ST EDITION 99 ERLING HAALAND</td>
+            </tr>
+            
+            <tr>
+            <td>90911961</td>
+            <td>GEM MT 10</td>
+            <td>2024 TOPPS 27 MIKE TROUT</td>
+            </tr>
+            
+            <tr>
+            <td>90912020</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM DOMINANCE 10 NIKOLA JOKIC</td>
+            </tr>
+            
+            <tr>
+            <td>90911965</td>
+            <td>GEM MT 10</td>
+            <td>2005 POKEMON JAPANESE MIRAGE'S MEW CONSTRUCTED STARTER DECK 005 MEW-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911938</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI MOSAIC TOUCHDOWN MASTERS TMJA JOSH ALLEN</td>
+            </tr>
+            
+            <tr>
+            <td>90911880</td>
+            <td>NM-MT 8</td>
+            <td>2023 TOPPS CHROME 79 MICHAEL HARRIS II</td>
+            </tr>
+            
+            <tr>
+            <td>90911983</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI BLACK 27 MIKAL BRIDGES</td>
+            </tr>
+            
+            <tr>
+            <td>90911912</td>
+            <td>GEM MT 10</td>
+            <td>2024 DISNEY LORCANA EN 3-INTO THE INKLANDS 207 PRIDE LANDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911916</td>
+            <td>GEM MT 10</td>
+            <td>2024 DISNEY LORCANA EN 3-INTO THE INKLANDS 212 URSULA</td>
+            </tr>
+            
+            <tr>
+            <td>90911902</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON SVP EN-SV BLACK STAR PROMO 052 MEWTWO</td>
+            </tr>
+            
+            <tr>
+            <td>90911979</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC HOLOFAME HF5 JOHN ELWAY</td>
+            </tr>
+            
+            <tr>
+            <td>90912019</td>
+            <td>MINT 9</td>
+            <td>2003 UPPER DECK 301 LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>90912042</td>
+            <td>GEM MT 10</td>
+            <td>2019 PANINI PRIZM 249 JA MORANT</td>
+            </tr>
+            
+            <tr>
+            <td>90912038</td>
+            <td>NM 7</td>
+            <td>2023 PANINI ILLUSIONS HOLOHEROES ROOKIE 19 JAXON SMITH-NJIGBA</td>
+            </tr>
+            
+            <tr>
+            <td>90911969</td>
+            <td>VG-EX 4</td>
+            <td>2000 POKEMON ROCKET 5 DARK DRAGONITE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911853</td>
+            <td>GEM MT 10</td>
+            <td>2019 POKEMON SUN & MOON UNIFIED MINDS 72 ESPEON & DEOXYS GX</td>
+            </tr>
+            
+            <tr>
+            <td>90911939</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 228 SAUCE GARDNER</td>
+            </tr>
+            
+            <tr>
+            <td>90912024</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM EMERGENT 7 AUSAR THOMPSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911984</td>
+            <td>NM 7</td>
+            <td>2015 PANINI LUXE FRAMED AUTOGRAPHS DBK DEVIN BOOKER</td>
+            </tr>
+            
+            <tr>
+            <td>90912012</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON MEW EN-151 201 ALAKAZAM ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911883</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS CHROME ROOKIE AUTOGRAPH RAMH MICHAEL HARRIS II</td>
+            </tr>
+            
+            <tr>
+            <td>90911879</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS CHROME ROOKIE AUTOGRAPH RAGR GRAYSON RODRIGUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>90911943</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 021 PERONA</td>
+            </tr>
+            
+            <tr>
+            <td>90912001</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI DONRUSS OPTIC 209 CHRIS OLAVE</td>
+            </tr>
+            
+            <tr>
+            <td>90911980</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC 335 AHMAD GARDNER</td>
+            </tr>
+            
+            <tr>
+            <td>90911935</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI MOSAIC HOLOFAME HF12 BARRY SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>90911865</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 118 RORONOA ZORO</td>
+            </tr>
+            
+            <tr>
+            <td>90911946</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE JAPANESE WINGS OF THE CAPTAIN 069 VINSMOKE REIJU</td>
+            </tr>
+            
+            <tr>
+            <td>90911876</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN MEGA BOX CHROME PROSPECT AUTOGRAPHS KP KEVIN PARADA</td>
+            </tr>
+            
+            <tr>
+            <td>90911957</td>
+            <td>GEM MT 10</td>
+            <td>2017 POKEMON SUN & MOON SHINING LEGENDS 40 SHINING MEW-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90912005</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM MONOPOLY 22 LUKA DONCIC</td>
+            </tr>
+            
+            <tr>
+            <td>90911872</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP171 ETHAN SALAS</td>
+            </tr>
+            
+            <tr>
+            <td>90911861</td>
+            <td>MINT 9</td>
+            <td>2022 YU-GI-OH! BACH-BATTLE OF CHAOS EN045 THE ZOMBIE VAMPIRE</td>
+            </tr>
+            
+            <tr>
+            <td>90911924</td>
+            <td>EX 5</td>
+            <td>1999 POKEMON GAME 2 BLASTOISE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>90911898</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON PAR EN-PARADOX RIFT 247 TAPU KOKO ex</td>
+            </tr>
+            
+            <tr>
+            <td>90911991</td>
+            <td>MINT 9</td>
+            <td>2013 PANINI TITANIUM TEAM TITANS 5 KOBE BRYANT/PAU GASOL</td>
+            </tr>
+            
+            <tr>
+            <td>90911920</td>
+            <td>NM-MT 8</td>
+            <td>1992 TOPPS 277 DAVID ROBINSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911995</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI SELECT 289 STEFON DIGGS</td>
+            </tr>
+            
+            <tr>
+            <td>90911987</td>
+            <td>NM-MT 8</td>
+            <td>2021 PANINI DONRUSS P251 TREVOR LAWRENCE</td>
+            </tr>
+            
+            <tr>
+            <td>90912027</td>
+            <td>GEM MT 10</td>
+            <td>2023 POKEMON SVP EN-SV BLACK STAR PROMO 044 CHARMANDER</td>
+            </tr>
+            
+            <tr>
+            <td>90912046</td>
+            <td>GEM MT 10</td>
+            <td>2023 UPPER DECK GOODWIN CHAMPIONS ALL-WORLD AW11 JACKSON HOLLIDAY</td>
+            </tr>
+            
+            <tr>
+            <td>90911905</td>
+            <td>GEM MT 10</td>
+            <td>2021 POKEMON SWORD & SHIELD BATTLE STYLES 146 FA/EMPOLEON V</td>
+            </tr>
+            
+            <tr>
+            <td>90911887</td>
+            <td>NM-MT 8</td>
+            <td>1996 METAL 181 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>90912050</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI ABSOLUTE 109 JAXON SMITH-NJIGBA</td>
+            </tr>
+            
+            <tr>
+            <td>90911891</td>
+            <td>GEM MT 10</td>
+            <td>2024 POKEMON PAF EN-PALDEAN FATES 232 MEW ex</td>
+            </tr>
+            
+            <tr>
+            <td>90912016</td>
+            <td>MINT 9</td>
+            <td>1990 FLEER 26 MICHAEL JORDAN</td>
+            </tr>
+            
+            <tr>
+            <td>90911976</td>
+            <td>EX-MT 6</td>
+            <td>2022 PANINI MOSAIC 256 PATRICK MAHOMES II</td>
+            </tr>
+            
+            <tr>
+            <td>90911850</td>
+            <td>GEM MT 10</td>
+            <td>2019 POKEMON SUN & MOON UNBROKEN BONDS 82 MRSHDW.& MCHMP.GX</td>
+            </tr>
+            
+    </table>
+    
