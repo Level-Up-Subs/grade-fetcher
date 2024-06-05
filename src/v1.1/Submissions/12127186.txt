@@ -1,0 +1,544 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>91639370</td>
+            <td>MINT 9</td>
+            <td>2018 O-PEE-CHEE PLATINUM 160 RASMUS DAHLIN</td>
+            </tr>
+            
+            <tr>
+            <td>91639402</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN SPOTLIGHTS BS5 GUNNAR HENDERSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639415</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI MOSAIC 201 JOE BURROW</td>
+            </tr>
+            
+            <tr>
+            <td>91639433</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI NATIONAL TREASURES 160 SAM HOWELL</td>
+            </tr>
+            
+            <tr>
+            <td>91639365</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            </tr>
+            
+            <tr>
+            <td>91639420</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 343 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639396</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI NBA HOOPS 277 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>91639428</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI PRIZM 382 MICAH PARSONS</td>
+            </tr>
+            
+            <tr>
+            <td>91639384</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI CONTENDERS 117 TREY MURPHY III</td>
+            </tr>
+            
+            <tr>
+            <td>91639397</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN DRAFT BDC14 PAUL SKENES</td>
+            </tr>
+            
+            <tr>
+            <td>91639378</td>
+            <td>GEM MT 10</td>
+            <td>2022 SP AUTHENTIC 2012-2013 RETRO AUTOGRAPH FUTURE WATCH RFWABE MATTY BENIERS</td>
+            </tr>
+            
+            <tr>
+            <td>91639401</td>
+            <td>GEM MT 10</td>
+            <td>2022 BOWMAN DRAFT BDC80 ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>91639366</td>
+            <td>NM-MT 8</td>
+            <td>2018 PANINI SELECT 98 AARON RODGERS</td>
+            </tr>
+            
+            <tr>
+            <td>91639379</td>
+            <td>MINT 9</td>
+            <td>2019 UPPER DECK 233 JESPER BOQVIST</td>
+            </tr>
+            
+            <tr>
+            <td>91639383</td>
+            <td>MINT 9</td>
+            <td>2018 O-PEE-CHEE PLATINUM 160 RASMUS DAHLIN</td>
+            </tr>
+            
+            <tr>
+            <td>91639403</td>
+            <td>MINT 9</td>
+            <td>1996 SKYBOX PREMIUM 203 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>91639450</td>
+            <td>GEM MT 10</td>
+            <td>2022 UPPER DECK UD CANVAS C226 BRANDT CLARKE</td>
+            </tr>
+            
+            <tr>
+            <td>91639382</td>
+            <td>MINT 9</td>
+            <td>2018 O-PEE-CHEE PLATINUM 152 DRAKE BATHERSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639398</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 311 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>91639416</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI MOSAIC 201 JOE BURROW</td>
+            </tr>
+            
+            <tr>
+            <td>91639429</td>
+            <td>GEM MT 10</td>
+            <td>2018 BOWMAN DRAFT CHROME DRAFT PICKS AUTOGRAPHS CDAJM JAKE McCARTHY</td>
+            </tr>
+            
+            <tr>
+            <td>91639448</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI SELECT 169 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>91639446</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI CONTENDERS 140 KEEGAN MURRAY</td>
+            </tr>
+            
+            <tr>
+            <td>91639452</td>
+            <td>MINT 9</td>
+            <td>2021-2022 UPPER DECK 201 COLE CAUFIELD</td>
+            </tr>
+            
+            <tr>
+            <td>91639435</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM 339 TUA TAGOVAILOA</td>
+            </tr>
+            
+            <tr>
+            <td>91639404</td>
+            <td>MINT 9</td>
+            <td>1996 FLEER 203 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>91639431</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECT AUTOGRAPHS CPALRZ LIZANDRO RODRIGUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>91639372</td>
+            <td>NM-MT 8</td>
+            <td>2000 METAL 267 TOM BRADY</td>
+            </tr>
+            
+            <tr>
+            <td>91639390</td>
+            <td>MINT 9</td>
+            <td>2019 PANINI CHRONICLES 116 JA MORANT</td>
+            </tr>
+            
+            <tr>
+            <td>91639400</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN MEGA BOX CHROME 65 ELLY DE LA CRUZ</td>
+            </tr>
+            
+            <tr>
+            <td>91639408</td>
+            <td>NM-MT 8</td>
+            <td>1983 FLEER 360 TONY GWYNN</td>
+            </tr>
+            
+            <tr>
+            <td>91639449</td>
+            <td>GEM MT 10</td>
+            <td>2022 UPPER DECK ARTIFACTS 176 MATT BOLDY</td>
+            </tr>
+            
+            <tr>
+            <td>91639368</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON MEW EN-151 170 SQUIRTLE</td>
+            </tr>
+            
+            <tr>
+            <td>91639394</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 136 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>91639367</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON SVI EN-SCARLET & VIOLET 212 KIRLIA</td>
+            </tr>
+            
+            <tr>
+            <td>91639427</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI SELECT 159 PAT FREIERMUTH</td>
+            </tr>
+            
+            <tr>
+            <td>91639426</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN CHROME PROSPECTS BCP56 CHRISTIAN CERDA</td>
+            </tr>
+            
+            <tr>
+            <td>91639412</td>
+            <td>GEM MT 10</td>
+            <td>1989 PRO SET 494 BARRY SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>91639371</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI DONRUSS OPTIC 232 DALEN TERRY</td>
+            </tr>
+            
+            <tr>
+            <td>91639423</td>
+            <td>GEM MT 10</td>
+            <td>2023 UPPER DECK NHL STAR ROOKIES BOX SET 1 CONNOR BEDARD</td>
+            </tr>
+            
+            <tr>
+            <td>91639364</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN DRAFT BDC14 PAUL SKENES</td>
+            </tr>
+            
+            <tr>
+            <td>91639445</td>
+            <td>MINT 9</td>
+            <td>2013 TOPPS 31 TRAVIS KELCE</td>
+            </tr>
+            
+            <tr>
+            <td>91639386</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI PRIZM SENSATIONAL SWATCHES SCY STEPHEN CURRY</td>
+            </tr>
+            
+            <tr>
+            <td>91639419</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 343 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639434</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI PRIZM 306 SAM HOWELL</td>
+            </tr>
+            
+            <tr>
+            <td>91639375</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME THE BIG KAHUNA TBK1 CALEB WILLIAMS</td>
+            </tr>
+            
+            <tr>
+            <td>91639411</td>
+            <td>GEM MT 10</td>
+            <td>1989 PRO SET 494 BARRY SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>91639442</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM ROOKIE PENMANSHIP RPTJN TRE JONES</td>
+            </tr>
+            
+            <tr>
+            <td>91639424</td>
+            <td>MINT 9</td>
+            <td>2016 BOWMAN DRAFT BDC84 WILL SMITH</td>
+            </tr>
+            
+            <tr>
+            <td>91639438</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI PRIZM ROOKIE SIGNATURES RSIPBN PAOLO BANCHERO</td>
+            </tr>
+            
+            <tr>
+            <td>91639437</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN DRAFT CHROME PROSPECT AUTOGRAPH CDAEBR ENRIQUE BRADFIELD JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91639443</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI DONRUSS 343 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639430</td>
+            <td>MINT 9</td>
+            <td>2018 BOWMAN DRAFT CHROME DRAFT PICKS AUTOGRAPHS CDAJM JAKE McCARTHY</td>
+            </tr>
+            
+            <tr>
+            <td>91639405</td>
+            <td>NM-MT 8</td>
+            <td>1996 FLEER 203 KOBE BRYANT</td>
+            </tr>
+            
+            <tr>
+            <td>91639380</td>
+            <td>MINT 9</td>
+            <td>2018 O-PEE-CHEE PLATINUM 170 BRADY TKACHUK</td>
+            </tr>
+            
+            <tr>
+            <td>91639407</td>
+            <td>EX-MT 6</td>
+            <td>1980 TOPPS 482 RICKEY HENDERSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639389</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 152 BRANDON MILLER</td>
+            </tr>
+            
+            <tr>
+            <td>91639441</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME FORMULA 1 175 SERGIO PEREZ</td>
+            </tr>
+            
+            <tr>
+            <td>91639393</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 137 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91639376</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI PRIZM 365 JAKE FERGUSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639391</td>
+            <td>MINT 9</td>
+            <td>2019 PANINI CHRONICLES 116 JA MORANT</td>
+            </tr>
+            
+            <tr>
+            <td>91639374</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME 141 MICHAEL PENIX JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91639418</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 343 ANTHONY RICHARDSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639387</td>
+            <td>GEM MT 10</td>
+            <td>2019 PANINI PRIZM SENSATIONAL SWATCHES LBJ LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>91639422</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI NBA HOOPS 249 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91639413</td>
+            <td>GEM MT 10</td>
+            <td>2021 PANINI MOSAIC V TOOL VT4 MIKE TROUT</td>
+            </tr>
+            
+            <tr>
+            <td>91639440</td>
+            <td>GEM MT 10</td>
+            <td>2023-24 TOPPS UEFA CLUB COMPETITIONS ULTIMATE STAGE CHROME AUTOGRAPHS UCARK RANDAL KOLO MUANI</td>
+            </tr>
+            
+            <tr>
+            <td>91639385</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI REVOLUTION ROOKIE REVOLUTION 14 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>91639381</td>
+            <td>GEM MT 10</td>
+            <td>2018 O-PEE-CHEE PLATINUM 190 CASEY MITTELSTADT</td>
+            </tr>
+            
+            <tr>
+            <td>91639395</td>
+            <td>MINT 9</td>
+            <td>1993 TOPPS GOLD 98 DEREK JETER</td>
+            </tr>
+            
+            <tr>
+            <td>91639377</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI DONRUSS OPTIC THE ELITE SERIES ROOKIES ESR18 AIDAN HUTCHINSON</td>
+            </tr>
+            
+            <tr>
+            <td>91639409</td>
+            <td>MINT 9</td>
+            <td>1989 FLEER 548 KEN GRIFFEY JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91639444</td>
+            <td>MINT 9</td>
+            <td>2016 PANINI DONRUSS OPTIC 172 JARED GOFF</td>
+            </tr>
+            
+            <tr>
+            <td>91639439</td>
+            <td>MINT 9</td>
+            <td>2022 PANINI PRIZM WORLD CUP QATAR MANGA 16 DIOGO JOTA</td>
+            </tr>
+            
+            <tr>
+            <td>91639414</td>
+            <td>NM-MT 8</td>
+            <td>1994 DONRUSS ELITE 44 BARRY BONDS</td>
+            </tr>
+            
+            <tr>
+            <td>91639421</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI PRIZM 339 CJ STROUD</td>
+            </tr>
+            
+            <tr>
+            <td>91639432</td>
+            <td>NM-MT 8</td>
+            <td>1990 MARVEL UNIVERSE 23 WOLVERINE</td>
+            </tr>
+            
+            <tr>
+            <td>91639425</td>
+            <td>GEM MT 10</td>
+            <td>2019 BOWMAN PROSPECTS CHROME 33 JULIO RODRIGUEZ</td>
+            </tr>
+            
+            <tr>
+            <td>91639373</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN UNIVERSITY CHROME 16 SHEDEUR SANDERS</td>
+            </tr>
+            
+            <tr>
+            <td>91639447</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME PLATINUM ANNIVERSARY AUTOGRAPH BWJ BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91639369</td>
+            <td>MINT 9</td>
+            <td>2023 POKEMON PAR EN-PARADOX RIFT 186 MAGBY</td>
+            </tr>
+            
+            <tr>
+            <td>91639388</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM SENSATIONAL SWATCHES SSWLBJ LeBRON JAMES</td>
+            </tr>
+            
+            <tr>
+            <td>91639436</td>
+            <td>MINT 9</td>
+            <td>2021 PANINI PRIZM 301 JOSH GIDDEY</td>
+            </tr>
+            
+            <tr>
+            <td>91639417</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI MOSAIC 222 JALEN HURTS</td>
+            </tr>
+            
+            <tr>
+            <td>91639399</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI PRIZM 311 BRYCE YOUNG</td>
+            </tr>
+            
+            <tr>
+            <td>91639451</td>
+            <td>GEM MT 10</td>
+            <td>2015 UPPER DECK 221 ARTEMI PANARIN</td>
+            </tr>
+            
+            <tr>
+            <td>91639406</td>
+            <td>MINT 9</td>
+            <td>2022 BOWMAN CHROME PROSPECTS BCP17 OSWALDO CABRERA</td>
+            </tr>
+            
+            <tr>
+            <td>91639392</td>
+            <td>GEM MT 10</td>
+            <td>2022 PANINI CONTENDERS OPTIC SUPERSTARS 4 JAYSON TATUM</td>
+            </tr>
+            
+            <tr>
+            <td>91639410</td>
+            <td>NM-MT 8</td>
+            <td>1983 O-PEE-CHEE 143 TONY GWYNN</td>
+            </tr>
+            
+    </table>
+    
