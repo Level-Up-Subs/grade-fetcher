@@ -1,0 +1,202 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>90911450</td>
+            <td>MINT 9</td>
+            <td>2023 CARD.FUN PIXAR GENESIS OF ADVENTURES SR SR07 FINNICK</td>
+            </tr>
+            
+            <tr>
+            <td>90911451</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI PRIZM PREMIER LEAGUE EMERGENT 13 JARROD BOWEN</td>
+            </tr>
+            
+            <tr>
+            <td>90911452</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME MLS 25 JOZY ALTIDORE</td>
+            </tr>
+            
+            <tr>
+            <td>90911453</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME MLS 127 CHICHARITO</td>
+            </tr>
+            
+            <tr>
+            <td>90911454</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME MLS 127 CHICHARITO</td>
+            </tr>
+            
+            <tr>
+            <td>90911456</td>
+            <td>NM 7</td>
+            <td>2022 TOPPS CHROME MLS FIELD TESTED FT8 CHICHARITO</td>
+            </tr>
+            
+            <tr>
+            <td>90911457</td>
+            <td>GEM MT 10</td>
+            <td>2022 LEAF METAL STARS SS04 PELE</td>
+            </tr>
+            
+            <tr>
+            <td>90911458</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN ROOKIE OF THE YEAR FAVORITES ROYF15 GUNNAR HENDERSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911459</td>
+            <td>GEM MT 10</td>
+            <td>2023 BOWMAN ROOKIE OF THE YEAR FAVORITES ROYF15 GUNNAR HENDERSON</td>
+            </tr>
+            
+            <tr>
+            <td>90911460</td>
+            <td>EX-MT 6</td>
+            <td>2022 BOWMAN MEGA BOX CHROME 146 BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>90911461</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS FINEST 62 BOBBY WITT JR.</td>
+            </tr>
+            
+            <tr>
+            <td>90911462</td>
+            <td>MINT 9</td>
+            <td>2023 BOWMAN PLATINUM RENOWNED ROOKIES RR9 MICHAEL HARRIS II</td>
+            </tr>
+            
+            <tr>
+            <td>90911466</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS STARS OF MLB SMLB85 JORDAN WALKER</td>
+            </tr>
+            
+            <tr>
+            <td>90911468</td>
+            <td>MINT 9</td>
+            <td>2023 TOPPS UPDATE 1988 TOPPS BASEBALL 88US3 MIKE TROUT</td>
+            </tr>
+            
+            <tr>
+            <td>90911473</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI FLUX 202 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911474</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI MOSAIC 261 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911475</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI FLUX FRESHMAN YEAR 9 TYRESE MAXEY</td>
+            </tr>
+            
+            <tr>
+            <td>90911476</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI MOSAIC 259 TYRESE MAXEY</td>
+            </tr>
+            
+            <tr>
+            <td>90911477</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI SELECT 174 TYRESE MAXEY</td>
+            </tr>
+            
+            <tr>
+            <td>90911479</td>
+            <td>NM-MT+ 8.5</td>
+            <td>2020 PANINI CHRONICLES 168 TYRESE MAXEY</td>
+            </tr>
+            
+            <tr>
+            <td>90911472</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI FLUX 202 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911455</td>
+            <td>NM-MT 8</td>
+            <td>2022 TOPPS CHROME MLS FIELD TESTED FT8 CHICHARITO</td>
+            </tr>
+            
+            <tr>
+            <td>90911467</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS 344 JORDAN WALKER</td>
+            </tr>
+            
+            <tr>
+            <td>90911449</td>
+            <td>GEM MT 10</td>
+            <td>2023 CARD.FUN PIXAR GENESIS OF ADVENTURES SSR SSR01 DANNY SWERVEZ</td>
+            </tr>
+            
+            <tr>
+            <td>90911469</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI FLUX FLUX APPEAL 29 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911470</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI ILLUSIONS SEASON HIGHLIGHTS 14 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911471</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI FLUX D LUX 5 ANTHONY EDWARDS</td>
+            </tr>
+            
+            <tr>
+            <td>90911478</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI CHRONICLES 260 TYRESE MAXEY</td>
+            </tr>
+            
+            <tr>
+            <td>90911463</td>
+            <td>NM-MT 8</td>
+            <td>2023 BOWMAN PLATINUM RENOWNED ROOKIES RR7 CORBIN CARROLL</td>
+            </tr>
+            
+            <tr>
+            <td>90911464</td>
+            <td>NM-MT 8</td>
+            <td>2022 TOPPS GALLERY 6 ROBERTO CLEMENTE</td>
+            </tr>
+            
+            <tr>
+            <td>90911465</td>
+            <td>MINT 9</td>
+            <td>2022 TOPPS GALLERY 148 YADIER MOLINA</td>
+            </tr>
+            
+            <tr>
+            <td>90911480</td>
+            <td>GEM MT 10</td>
+            <td>2020 PANINI MOSAIC 263 TYRESE MAXEY</td>
+            </tr>
+            
+    </table>
+    
