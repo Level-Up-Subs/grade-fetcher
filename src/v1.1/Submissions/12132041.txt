@@ -1,0 +1,130 @@
+
+    <table border="1">
+    <tr>
+        <th>CertNumber</th>
+        <th>CardGrade</th>
+        <th>Description</th>
+    </tr>
+    
+            <tr>
+            <td>91642851</td>
+            <td>GEM MT 10</td>
+            <td>2023 PANINI NBA HOOPS ARRIVING NOW 30 JAIME JAQUEZ JR.</td>
+            </tr>
+            
+            <tr>
+            <td>91642848</td>
+            <td>NM-MT 8</td>
+            <td>2023 PANINI DONRUSS 197 JAYSON TATUM</td>
+            </tr>
+            
+            <tr>
+            <td>91642853</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI MOSAIC 281 AIDAN O'CONNELL</td>
+            </tr>
+            
+            <tr>
+            <td>91642854</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI PRIZM 136 MAXX CROSBY</td>
+            </tr>
+            
+            <tr>
+            <td>91642846</td>
+            <td>GEM MT 10</td>
+            <td>2018 TOPPS LEGENDS IN THE MAKING 2 SHOHEI OHTANI</td>
+            </tr>
+            
+            <tr>
+            <td>91642850</td>
+            <td>GEM MT 10</td>
+            <td>2022 TOPPS CHROME UEFA CLUB COMPETITIONS 118 KOBBIE MAINOO</td>
+            </tr>
+            
+            <tr>
+            <td>91642849</td>
+            <td>MINT 9</td>
+            <td>2023-24 TOPPS UEFA CLUB COMPETITIONS TOPPS SUPERSTAR RELICS AUTOGRAPHS SALH LUKE SHAW</td>
+            </tr>
+            
+            <tr>
+            <td>91642845</td>
+            <td>MINT 9</td>
+            <td>2018 TOPPS 486 TOMAS NIDO</td>
+            </tr>
+            
+            <tr>
+            <td>91642858</td>
+            <td>MINT 9</td>
+            <td>2010 POKEMON HEARTGOLD & SOULSILVER UNDAUNTED 81 ESPEON-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>91642855</td>
+            <td>MINT 9</td>
+            <td>2023 PANINI REVOLUTION LIFTOFF! 6 VICTOR WEMBANYAMA</td>
+            </tr>
+            
+            <tr>
+            <td>91642844</td>
+            <td>MINT 9</td>
+            <td>2020 PANINI SELECT 50 JALEN HURTS</td>
+            </tr>
+            
+            <tr>
+            <td>91642847</td>
+            <td>GEM MT 10</td>
+            <td>2023 WEISS SCHWARZ JAPANESE DISNEY100 073 UNPRLLD FORCE ANAKIN</td>
+            </tr>
+            
+            <tr>
+            <td>91642842</td>
+            <td>MINT 9</td>
+            <td>2022-23 PANINI CHRONICLES 92 ALEJANDRO GARNACHO</td>
+            </tr>
+            
+            <tr>
+            <td>91642843</td>
+            <td>EX-MT 6</td>
+            <td>1989 FLEER 616 BILL RIPKEN</td>
+            </tr>
+            
+            <tr>
+            <td>91642852</td>
+            <td>GEM MT 10</td>
+            <td>2023 TOPPS ANIME MANCHESTER CITY  JULIAN ALVAREZ</td>
+            </tr>
+            
+            <tr>
+            <td>91642856</td>
+            <td>NM 7</td>
+            <td>1999 POKEMON GAME 13 POLIWRATH-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>91642857</td>
+            <td>EX-MT 6</td>
+            <td>2005 POKEMON EX DELTA SPECIES 3 DRAGONITE-HOLO</td>
+            </tr>
+            
+            <tr>
+            <td>91642859</td>
+            <td>GEM MT 10</td>
+            <td>2024 DRAGON BALL SUPER CARD GAME FUSION WORLD AWAKENED PULSE FB01-140 SON GOHAN : CHILDHOOD</td>
+            </tr>
+            
+            <tr>
+            <td>91642860</td>
+            <td>GEM MT 10</td>
+            <td>2023 ONE PIECE AWAKENING OF THE NEW ERA 012 MONKEY D. LUFFY</td>
+            </tr>
+            
+            <tr>
+            <td>91642861</td>
+            <td>NM 7</td>
+            <td>2004 POKEMON EX TEAM ROCKET RETURNS 6 DARK HYPNO-REV.FOIL</td>
+            </tr>
+            
+    </table>
+    
