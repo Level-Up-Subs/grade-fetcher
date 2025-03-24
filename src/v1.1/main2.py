@@ -112,14 +112,12 @@ sys.stdout.write(f'{len(messages)} email(s) found with matching subject: {subjec
 # set options for browser
 chrome_options = Options()
 #chrome_options.add_argument('--headless')  # Run Chrome in headless mode
-chrome_options.add_argument('--disable-gpu')
+#chrome_options.add_argument('--disable-gpu')
 chrome_options.add_argument('--incognito')
 chrome_service = Service(CHROMEDRIVER_PATH) # Specify the path to chromedriver executable
 
 # the browser
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
-
-
 
 sys.stdout.write(f'Attempting to sign into PSA account...')
 
@@ -153,7 +151,7 @@ try:
     
     # Wait until the page is loaded
     wait = WebDriverWait(driver, 100)  # Adjust the timeout as needed
-    title = wait.until(EC.title_is('PSA Collectibles Authentication and Grading Service'))
+    title = wait.until(EC.title_is('Home'))
     
     sys.stdout.write('success!\n')
     

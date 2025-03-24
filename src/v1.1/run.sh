@@ -2,7 +2,7 @@
 
 export PATH=/usr/local/bin:/usr/bin:/bin
 
-env/bin/python3 main.py #>> Logs/output_$(date +\%Y\%m\%d_\%H\%M\%S).txt 2>&1
+python3 main2.py #>> Logs/output_$(date +\%Y\%m\%d_\%H\%M\%S).txt 2>&1
 
 status="$(git status --porcelain --branch)"
 

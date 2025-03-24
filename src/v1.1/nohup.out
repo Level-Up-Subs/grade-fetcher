@@ -1,0 +1,145 @@
+Checking google credentials...complete!
+No emails with subject: grade-fetcher request.
+Deleting all emails...done!
+On branch main
+Your branch is ahead of 'origin/main' by 497 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.sh
+	deleted:    ../v1.2/main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	cron.sh
+	main2.py
+	nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+Checking google credentials...complete!
+No emails with subject: grade-fetcher request.
+Deleting all emails...done!
+On branch main
+Your branch is ahead of 'origin/main' by 497 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.sh
+	deleted:    ../v1.2/main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	cron.sh
+	main2.py
+	nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+Checking google credentials...complete!
+1 email(s) found with matching subject: grade-fetcher request.
+Attempting to sign into PSA account...failed: Message: 
+
+On branch main
+Your branch is ahead of 'origin/main' by 497 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.sh
+	deleted:    ../v1.2/main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	cron.sh
+	main2.py
+	nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+Checking google credentials...complete!
+1 email(s) found with matching subject: grade-fetcher request.
+Traceback (most recent call last):
+  File "/home/dealer/Developer/grade-fetcher/src/v1.1/main2.py", line 120, in <module>
+    driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dealer/.local/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/home/dealer/.local/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/home/dealer/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 212, in __init__
+    self.start_session(capabilities)
+  File "/home/dealer/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 299, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dealer/.local/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "/home/dealer/.local/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /snap/chromium/2972/usr/lib/chromium-browser/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+#0 0x64b6b69df0ca <unknown>
+#1 0x64b6b66dda80 <unknown>
+#2 0x64b6b6714c8c <unknown>
+#3 0x64b6b6710ce9 <unknown>
+#4 0x64b6b675ceee <unknown>
+#5 0x64b6b675c596 <unknown>
+#6 0x64b6b6750933 <unknown>
+#7 0x64b6b671ee3d <unknown>
+#8 0x64b6b671f92e <unknown>
+#9 0x64b6b69aac8f <unknown>
+#10 0x64b6b69aed50 <unknown>
+#11 0x64b6b6998837 <unknown>
+#12 0x64b6b69af4c1 <unknown>
+#13 0x64b6b697fd1e <unknown>
+#14 0x64b6b69ce2b8 <unknown>
+#15 0x64b6b69ce4ba <unknown>
+#16 0x64b6b69ddd5d <unknown>
+#17 0x7b2839680ac3 <unknown>
+
+On branch main
+Your branch is ahead of 'origin/main' by 497 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.sh
+	deleted:    ../v1.2/main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	cron.sh
+	main2.py
+	nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
+Checking google credentials...complete!
+No emails with subject: grade-fetcher request.
+Deleting all emails...done!
+On branch main
+Your branch is ahead of 'origin/main' by 498 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   run.sh
+	deleted:    ../v1.2/main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	cron.sh
+	main2.py
+	nohup.out
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Everything up-to-date
